@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .text-clamp {
+        font-size: clamp(1rem, 2vw, 1.2rem);
+    }
+    .container {
+        @apply mx-auto px-4 sm:px-6 lg:px-8 md:max-w-[80%];
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 140px;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
