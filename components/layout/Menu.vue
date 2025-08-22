@@ -10,14 +10,14 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="about"
+                to="/coming-soon"
                 >About</NuxtLink
             >
         </li>
         <li class="flex items-center group">
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/services"
+                to="/coming-soon"
                 >Services</NuxtLink
             >
             <!-- <i><img class="icon-caret group-hover:filter-green" src="/assets/images/icons/icon-caret.svg" alt="caret" /></i> -->
@@ -54,31 +54,31 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/products"
+                to="/coming-soon"
                 >Contact</NuxtLink
             >
         </li>
         <li class="flex items-center group">
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/resources"
+                to="/coming-soon"
                 >Resources</NuxtLink
             >
         </li>
         <li class="flex items-center group">
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/careers"
+                to="/coming-soon"
                 >Careers</NuxtLink
             >
         </li>
         <li class="flex items-center group">
-            <NuxtLink class="menu-link mr-[7px]" to="/resources">
+            <NuxtLink class="menu-link mr-[7px]" to="/coming-soon">
                 <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
             </NuxtLink>
         </li>
         <li class="flex items-center group">
-            <NuxtLink class="menu-link mr-[7px]" to="/resources">
+            <NuxtLink class="menu-link mr-[7px]" to="/coming-soon">
                 <img src="/assets/images/icons/search.svg" alt="search" class="w-[50x]" />
             </NuxtLink>
         </li>
