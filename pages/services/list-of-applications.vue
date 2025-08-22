@@ -81,7 +81,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 4  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/services/hazardous-waste-generator-id">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -100,7 +100,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 5  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/services/permit-to-operate">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -120,7 +120,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 6  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/services/pollution-control-officer">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -139,7 +139,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 7  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/services/treatment-storage-and-disposal">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -158,7 +158,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 9  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/services/small-quantity-importation">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -180,7 +180,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 10  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -202,7 +202,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 11  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -222,7 +222,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 12  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -242,7 +242,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 13  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -262,7 +262,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 14  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -282,7 +282,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 15  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -302,7 +302,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 16  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -321,7 +321,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 17  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -341,7 +341,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 18  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -360,7 +360,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 19  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -379,7 +379,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 20  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -399,7 +399,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 21  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -419,7 +419,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 21  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -439,7 +439,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 22  -->
-                <!-- <NuxtLink class="relative group" to="/">
+                <!-- <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -459,7 +459,7 @@
                     </div>
                 </NuxtLink> -->
                 <!-- item 23  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -481,7 +481,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 24  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -501,7 +501,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 25  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -520,7 +520,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 25  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -540,7 +540,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 26  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -559,7 +559,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 27  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -578,7 +578,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 28  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -600,7 +600,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 29  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -622,7 +622,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 30  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -642,7 +642,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 31  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -662,7 +662,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 32  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -681,7 +681,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 33  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -700,7 +700,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 34  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -719,7 +719,7 @@
                     </div>
                 </NuxtLink>
                 <!-- item 35  -->
-                <NuxtLink class="relative group" to="/">
+                <NuxtLink class="relative group" to="/coming-soon">
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
