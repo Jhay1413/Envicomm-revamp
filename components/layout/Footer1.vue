@@ -29,6 +29,12 @@
                     <p class="text-md">
                         By subscribing, you consent to our Privacy Policy and receiving updates.
                     </p>
+                    <div class="flex flex-col gap-2">
+                        <p>
+                            Email: <a href="mailto:official@envicomm.org">official@envicomm.org</a>
+                        </p>
+                        <p>Contact: <a href="tel:+63 954 291 5171">+63 954 291 5171</a></p>
+                    </div>
                 </div>
                 <div>
                     <h5 class="text-lg md:text-xl mb-10">Quick Links</h5>

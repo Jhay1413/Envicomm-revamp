@@ -66,6 +66,13 @@
             >
         </li>
         <li class="flex items-center group">
+            <NuxtLink
+                class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
+                to="/careers"
+                >Careers</NuxtLink
+            >
+        </li>
+        <li class="flex items-center group">
             <NuxtLink class="menu-link mr-[7px]" to="/resources">
                 <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
             </NuxtLink>

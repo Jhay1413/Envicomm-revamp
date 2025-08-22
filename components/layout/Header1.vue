@@ -4,7 +4,7 @@
         :class="{ 'sticky-header': scroll }"
     >
         <div
-            class="px-[12px] md:px-[36px] xl:px-0 mt-0 flex items-center justify-between mx-auto relative max-w-[1320px]"
+            class="px-[12px] md:px-[36px] xl:px-0 mt-0 flex items-center justify-between mx-auto relative md:max-w-[90%]"
         >
             <NuxtLink class="flex" href="/"
                 ><img
@@ -24,9 +24,7 @@
                     </NuxtLink>
                 </li>
             </ul>
-            <nav
-                class="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block"
-            >
+            <nav class="z-50 hidden lg:block">
                 <LayoutMenu />
             </nav>
 
