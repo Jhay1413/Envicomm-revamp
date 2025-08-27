@@ -12,8 +12,8 @@
             clickable: true,
         }"
         :navigation="{
-            nextEl: '.tan1',
-            prevEl: '.tap1',
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
         }"
         :breakpoints="{
             320: {
@@ -165,6 +165,9 @@
                 </div>
             </div>
         </swiper-slide>
+        <!-- Navigation Buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
     </swiper>
 </template>
 <script>
@@ -205,5 +208,24 @@ export default {
     .feedback-list {
         margin-inline: 30px !important;
     }
+}
+
+/* Custom navigation buttons */
+:deep(.swiper-button-prev),
+:deep(.swiper-button-next) {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 9999px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+:deep(.swiper-button-prev::after),
+:deep(.swiper-button-next::after) {
+    font-size: 18px;
+    font-weight: bold;
 }
 </style>
