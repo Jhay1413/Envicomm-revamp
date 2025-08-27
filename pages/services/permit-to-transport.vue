@@ -7,11 +7,11 @@
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Transporter Registration Certificate (TRC)
+                Permit to Transport (PTT) Application
             </h1>
             <p class="text-lg 4k:text-3xl">
-                The Transporter Registration Certificate application is for permitting the transport
-                of hazardous wastes or chemicals, ensuring safe and regulated movement.
+                The Permit to Transport allows hazardous waste generators and transporters to
+                legally move hazardous wastes to accredit ed TSD facilities.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
@@ -29,7 +29,7 @@
             <!-- section 1  -->
             <section id="tsd-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Transporter Registration Certificate (TRC)
+                    Permit to Transport (PTT) Application
                 </h2>
 
                 <h4
@@ -41,22 +41,27 @@
                     RESPONSIBILITIES OF THE CONSULTANT
                 </h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Drafting of Official Letter of Request</li>
-                    <li class="mb-2">Notary of affidavit</li>
-                    <li class="mb-2">Create process flow diagram of TSD (if unavailable)</li>
                     <li class="mb-2">
-                        Drafting of Storage Management Plan for raw materials, residues, by-products
-                        and end-products
+                        Facilitate the accomplishment of the online PTT application form
                     </li>
                     <li class="mb-2">
-                        Drafting of Long-term plan for the recycled, processed, recovered and
-                        end-products
+                        Secure the notarized Memorandum of Agreement or other service agreements
+                        between the Hazardous Waste (HW) Generator, the Transporter, and the TSD
+                        Facility
                     </li>
-                    <li class="mb-2">Drafting of Contingency and Emergency Plan</li>
                     <li class="mb-2">
-                        Drafting of contract with registered TSD Facilit(ies) (if unavailable)
+                        Coordinate with the TSD facility for their registration certificate and
+                        Environmental Compliance Certificate
                     </li>
-                    <li class="mb-2">Processing CCO Application (if unavailable)</li>
+                    <li class="mb-2">
+                        Coordinate with the Transporter for their registration certificate and
+                        hauling schedule
+                    </li>
+                    <li class="mb-2">Prepare the route of transport for submission</li>
+                    <li class="mb-2">Assist in the consolidation of all supporting documents</li>
+                    <li class="mb-2">
+                        Process and monitor the PTT application with the concerned EMB Case Handler
+                    </li>
                 </ul>
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
@@ -65,34 +70,26 @@
                 </h4>
                 <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
+                    <li class="mb-2">Accomplished online PTT application form</li>
+                    <li class="mb-2">Hazardous Waste (HW) Generator Registration Certificate</li>
                     <li class="mb-2">
-                        Official Receipt (OR) and Certificate of Registration (CR) (issued by LTO)
-                        of vehicle(s) to be used for transporting hazardous wastes
+                        Notarized Memorandum of Agreement / Affidavit of Undertaking / Service
+                        Agreement between the HW Generator, TSD facility, and HW Transporter
                     </li>
                     <li class="mb-2">
-                        Valid emission test results of the vehicles to be used for transporting
+                        Result of laboratory analysis (if the waste is Polychlorinated Biphenyl
+                        (PCB))
+                    </li>
+                    <li class="mb-2">Transporter Registration Certificate</li>
+                    <li class="mb-2">Schedule of Hauling / Transport of Wastes</li>
+                    <li class="mb-2">Route of Transport</li>
+                    <li class="mb-2">TSD Registration Certificate</li>
+                    <li class="mb-2">Latest Self-Monitoring Report</li>
+                    <li class="mb-2">
+                        Environmental Compliance Certificate (ECC) of the TSD Facility
                     </li>
                     <li class="mb-2">
-                        Pollution Control Officer Certificate of Accreditation (if available)
-                    </li>
-                    <li class="mb-2">
-                        Certificate of Training (COT) of driver(s)/helpers for Hazardous Waste
-                        Transporters (if available)
-                    </li>
-                    <li class="mb-2">
-                        Certification of Professional Driver’s License issued by LTO (if available)
-                    </li>
-                    <li class="mb-2">Valid Business Permit</li>
-                    <li class="mb-2">SEC/DTI Registration Certificate</li>
-                    <li class="mb-2">
-                        Environmental Guarantee Fund - Bank Certification stating that the fund will
-                        be used in case of incidents that would happen in relation to the operation
-                        of the TSD Facility
-                    </li>
-                    <li class="mb-2">Valid contract with registered TSD Facility (if available)</li>
-                    <li class="mb-2">Chemical Control Order (if applicable)</li>
-                    <li class="mb-2">
-                        Summary of Transport Permits issued (for renewal applications)
+                        Other documents that may be required by the EMB Case Handler
                     </li>
                 </ul>
                 <div class="flex flex-col gap-3 items-start justify-center">
@@ -116,7 +113,7 @@
 
 <script setup>
 useHead({
-    title: "Transporter Registration Certificate (TRC) - Envi-Comm Corporation",
+    title: "Permit to Transport (PTT) Application - Envi-Comm Corporation",
 });
 </script>
 
