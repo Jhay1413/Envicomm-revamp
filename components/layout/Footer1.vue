@@ -64,13 +64,20 @@
                                     class="max-h-[100px] md:max-h-[150px]"
                                 />
                             </div>
-                            <div class="flex items-center justify-center md:col-span-2">
+                            <div
+                                class="relative group flex items-center justify-center md:col-span-2"
+                            >
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-1.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="w-full"
+                                    class="w-full cursor-pointer"
                                 />
+                                <span
+                                    class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 text-sm text-white bg-gray-600 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap"
+                                >
+                                    D-U-N-S® Number: 123456789
+                                </span>
                             </div>
                         </div>
                     </div>
