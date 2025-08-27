@@ -2,9 +2,9 @@
     <footer class="bg-[#08223B]">
         <div class="container">
             <div
-                class="text-white grid gird-cols-2 gap-8 md:grid-cols-2 lg:grid-cols-5 xl:gap-[98px] py-10 md:py-40"
+                class="text-white grid gird-cols-1 gap-8 md:grid-cols-5 xl:gap-[98px] py-10 md:py-40"
             >
-                <div class="col-span-2 flex flex-col gap-5">
+                <div class="md:col-span-2 flex flex-col gap-5">
                     <img
                         src="/assets/images/main-imgs/main-logo-light.png"
                         class="logo z-50 w-[40%] mb-5"
@@ -36,122 +36,173 @@
                         <p>Contact: <a href="tel:+63 954 291 5171">+63 954 291 5171</a></p>
                     </div>
                 </div>
-                <div>
-                    <h5 class="text-lg md:text-xl mb-10">Quick Links</h5>
-                    <ul>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="#"
-                                >About Us</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="#"
-                                >Services</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="#"
-                                >Contact Us</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="#"
-                                >Blog</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="#"
-                                >Careers</a
-                            >
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <h5 class="text-lg md:text-xl mb-10 text-[18px]">Resources</h5>
-                    <ul>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="/faqs"
-                                >FAQs</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="/terms-conditions"
-                                >Case Studies</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="/privacy-policy"
-                                >White Papers</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="/contact"
-                                >Webinars</a
-                            >
-                        </li>
-                        <li class="mb-5">
-                            <a
-                                class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                href="/contact"
-                                >Careers</a
-                            >
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-span-2 md:col-span-1">
-                    <h5 class="text-lg mb-8 md:mb-10 text-[18px] text-center md:text-left">
-                        Connect With Us
-                    </h5>
-                    <ul class="flex md:flex-col justify-center gap-5 md:gap-0">
-                        <li class="mb-5">
-                            <NuxtLink class="flex items-center gap-3" to="#">
-                                <img src="/assets/images/icons/facebook.svg" alt="" />
-                                <span class="text-md md:text-lg hidden md:block">Facebook</span>
-                            </NuxtLink>
-                        </li>
-                        <li class="mb-5">
-                            <NuxtLink class="flex items-center gap-3" to="#">
-                                <img src="/assets/images/icons/insta.svg" alt="" />
-                                <span class="text-md md:text-lg hidden md:block">Instagram</span>
-                            </NuxtLink>
-                        </li>
-                        <li class="mb-5">
-                            <NuxtLink class="flex items-center gap-3" to="#">
-                                <img src="/assets/images/icons/X.svg" alt="" />
-                                <span class="text-md md:text-lg hidden md:block">Twitter</span>
-                            </NuxtLink>
-                        </li>
-                        <li class="mb-5">
-                            <NuxtLink class="flex items-center gap-3" to="#">
-                                <img src="/assets/images/icons/linkedin.svg" alt="" />
-                                <span class="text-md md:text-lg hidden md:block">Linkedin</span>
-                            </NuxtLink>
-                        </li>
-                        <li class="mb-5">
-                            <NuxtLink class="flex items-center gap-3" to="#">
-                                <img src="/assets/images/icons/youtube.svg" alt="" />
-                                <span class="text-md md:text-lg hidden md:block">Youtube</span>
-                            </NuxtLink>
-                        </li>
-                    </ul>
+                <div class="md:col-span-3 flex flex-col gap-5">
+                    <div>
+                        <h5 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h5>
+                        <div class="grid grid-cols-2 md:grid-cols-6 gap-5">
+                            <div class="flex items-center justify-center md:col-span-2">
+                                <img
+                                    src="/assets/images/main-imgs/clients/footer-logo-4.png"
+                                    alt="logo"
+                                    loading="lazy"
+                                    class="w-full"
+                                />
+                            </div>
+                            <div class="flex items-center justify-center">
+                                <img
+                                    src="/assets/images/main-imgs/clients/footer-logo-3.png"
+                                    alt="logo"
+                                    loading="lazy"
+                                    class="max-h-[100px] md:max-h-[150px]"
+                                />
+                            </div>
+                            <div class="flex items-center justify-center">
+                                <img
+                                    src="/assets/images/main-imgs/clients/footer-logo-2.png"
+                                    alt="logo"
+                                    loading="lazy"
+                                    class="max-h-[100px] md:max-h-[150px]"
+                                />
+                            </div>
+                            <div class="flex items-center justify-center md:col-span-2">
+                                <img
+                                    src="/assets/images/main-imgs/clients/footer-logo-1.png"
+                                    alt="logo"
+                                    loading="lazy"
+                                    class="w-full"
+                                />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-2 md:grid-cols-3">
+                        <div>
+                            <h5 class="text-lg md:text-xl mb-10">Quick Links</h5>
+                            <ul>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="#"
+                                        >About Us</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="#"
+                                        >Services</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="#"
+                                        >Contact Us</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="#"
+                                        >Blog</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="#"
+                                        >Careers</a
+                                    >
+                                </li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h5 class="text-lg md:text-xl mb-10 text-[18px]">Resources</h5>
+                            <ul>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/faqs"
+                                        >FAQs</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/terms-conditions"
+                                        >Case Studies</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/privacy-policy"
+                                        >White Papers</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/contact"
+                                        >Webinars</a
+                                    >
+                                </li>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/contact"
+                                        >Careers</a
+                                    >
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-span-2 md:col-span-1">
+                            <h5 class="text-lg mb-8 md:mb-10 text-[18px] text-center md:text-left">
+                                Connect With Us
+                            </h5>
+                            <ul class="flex md:flex-col justify-center gap-5 md:gap-0">
+                                <li class="mb-5">
+                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                        <img src="/assets/images/icons/facebook.svg" alt="" />
+                                        <span class="text-md md:text-lg hidden md:block"
+                                            >Facebook</span
+                                        >
+                                    </NuxtLink>
+                                </li>
+                                <li class="mb-5">
+                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                        <img src="/assets/images/icons/insta.svg" alt="" />
+                                        <span class="text-md md:text-lg hidden md:block"
+                                            >Instagram</span
+                                        >
+                                    </NuxtLink>
+                                </li>
+                                <li class="mb-5">
+                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                        <img src="/assets/images/icons/X.svg" alt="" />
+                                        <span class="text-md md:text-lg hidden md:block"
+                                            >Twitter</span
+                                        >
+                                    </NuxtLink>
+                                </li>
+                                <li class="mb-5">
+                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                        <img src="/assets/images/icons/linkedin.svg" alt="" />
+                                        <span class="text-md md:text-lg hidden md:block"
+                                            >Linkedin</span
+                                        >
+                                    </NuxtLink>
+                                </li>
+                                <li class="mb-5">
+                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                        <img src="/assets/images/icons/youtube.svg" alt="" />
+                                        <span class="text-md md:text-lg hidden md:block"
+                                            >Youtube</span
+                                        >
+                                    </NuxtLink>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

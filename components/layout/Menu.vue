@@ -55,6 +55,13 @@
             <NuxtLink
                 class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
                 to="/coming-soon"
+                >Careers</NuxtLink
+            >
+        </li>
+        <li class="flex items-center group">
+            <NuxtLink
+                class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
+                to="/coming-soon"
                 >Contact</NuxtLink
             >
         </li>
@@ -65,13 +72,7 @@
                 >Resources</NuxtLink
             >
         </li>
-        <li class="flex items-center group">
-            <NuxtLink
-                class="text-white hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/coming-soon"
-                >Careers</NuxtLink
-            >
-        </li>
+
         <li class="flex items-center group">
             <NuxtLink class="menu-link mr-[7px]" to="/coming-soon">
                 <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
