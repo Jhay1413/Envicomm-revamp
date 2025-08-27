@@ -688,7 +688,7 @@
                         loading="lazy"
                     />
                     <img
-                        src="/assets/images/main-imgs/what_we_do_10.jpg"
+                        src="/assets/images/main-imgs/what_we_do_12.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
                         loading="lazy"
