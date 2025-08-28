@@ -4,7 +4,7 @@
             <div
                 class="text-white grid gird-cols-1 gap-8 md:grid-cols-5 xl:gap-[98px] py-10 md:py-40"
             >
-                <div class="md:col-span-2 flex flex-col gap-5">
+                <div class="md:pt-20 md:col-span-2 flex flex-col gap-5">
                     <img
                         src="/assets/images/main-imgs/main-logo-light.png"
                         class="logo z-50 w-[40%] mb-5"
