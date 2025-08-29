@@ -39,7 +39,20 @@ export default defineNuxtConfig({
         ],
         "@nuxtjs/tailwindcss",
         "nuxt-aos",
+        "nuxt-gtag",
     ],
+    gtag: {
+        id: "G-LB7SWXXDG6", // Replace with your Google Analytics measurement ID
+        config: {
+            anonymize_ip: true, // Anonymize IP for GDPR compliance
+            send_page_view: true, // Automatically send page views
+            linker: {
+                domains: ["envicomm.org"], // Replace with your actual domain
+            },
+        },
+        debug: true, // Set to false in production
+        disableAutoPageTrack: false, // Automatically track page views
+    },
     aos: {
         // Global settings:
         disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
