@@ -6,10 +6,10 @@
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Forest Land Use Agreement (FLAg)</h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Special Land Use Permit (SLUP)</h1>
             <p class="text-lg 4k:text-3xl">
-                The DENR Forest Land Use Agreement allows temporary use of forestlands for specific
-                purposes, ensuring sustainable management and conservation practices.
+                DENR Special Land Use Permit allows temporary, specific use of forest lands or
+                public domains for activities like ecotourism, without transferring ownership.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
@@ -27,7 +27,7 @@
             <!-- section 1  -->
             <section id="tsd-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Forest Land Use Agreement (FLAg)
+                    Special Land Use Permit (SLUP)
                 </h2>
 
                 <h4
@@ -39,26 +39,39 @@
                     RESPONSIBILITIES OF THE CONSULTANT
                 </h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Notary of Duly Accomplished Application Form</li>
-                    <li class="mb-2">Securing BIR Certification on the zonal valuation</li>
+                    <li class="mb-2">Prepare the Indicative Management Plan</li>
+                    <li class="mb-2">Generate the Project Area Description</li>
+                    <li class="mb-2">Generate the Project Schedule of Development</li>
+                    <ul class="4k:text-2xl list-disc list-inside mb-2 ml-[19px]">
+                        <li class="mb-2">Generate the General and Specific Objectives</li>
+                        <li class="mb-2">
+                            Generate the Description of Technical Aspects of the Project
+                            specifically; Project
+                        </li>
+                        <li class="mb-2">
+                            Activity, Description of the Project Development, Site Development.
+                        </li>
+                        <li class="mb-2">
+                            Generate the Description of Management Aspects of the Project
+                            specifically; Management
+                        </li>
+                        <li class="mb-2">Strategies and Policies.</li>
+                        <li class="mb-2">
+                            Generate the Description of Financial Aspects of the Project
+                            specifically; Project Cost,
+                        </li>
+                        <li class="mb-2">Sources of Funds, and Financial Projections.</li>
+                    </ul>
+                    <li class="mb-2">Drafting of Site Development Plan</li>
+                    <li class="mb-2">Geotagging of Photos and Drone Flying</li>
+                    <li class="mb-2">Map Overlays</li>
                     <li class="mb-2">
-                        Processing CENRO Certification on Land Classification (if unavailable)
+                        Survey Plan with Technical Description and duly signed by a Geodetic
+                        Engineer
                     </li>
-                    <li class="mb-2">
-                        Drafting of Letter of Request for LGU Endorsement (if unavailable)
-                    </li>
-                    <li class="mb-2">
-                        Drafting of Letter of Request for issuance of Tourism Development Plan from
-                        LGU
-                    </li>
-                    <li class="mb-2">
-                        Drafting of Comprehensive Development and Management Plan (CDMP)
-                    </li>
-                    <li class="mb-2">
-                        Processing Application to secure Certificate of Non-overlap from NCIP
-                    </li>
+                    <li class="mb-2">Provision of CENRO Certification on Land Classification</li>
+                    <li class="mb-2">Assistance in LGU Endorsements</li>
                 </ul>
-
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
                 >
@@ -75,7 +88,9 @@
                     <li class="mb-2">
                         Provision of CENRO Certification on Land Classification (if available)
                     </li>
-                    <li class="mb-2">Provision of Proof of Identity of the Leasee</li>
+                    <li class="mb-2">
+                        Provision of Proof of Identity of the Leasee of the Agreement Holder
+                    </li>
                     <ul class="4k:text-2xl list-disc list-inside mb-2 ml-[19px]">
                         <li class="mb-2">
                             Individual – Philippine Statistics Authority (PSA)-certified copy of
@@ -91,36 +106,41 @@
                         </li>
                         <ul class="4k:text-2xl list-disc list-inside mb-2 ml-[19px]">
                             <li class="mb-2">
-                                a. Certified true copy of the Securities and Exchange Commission
-                                (SEC) Registration Certificate
+                                Certified true copy of the Securities and Exchange Commission (SEC)
+                                Registration Certificate
+                            </li>
+                            <li class="mb-2">Certified true copy of Articles of Incorporation</li>
+                            <li class="mb-2">Certified true copy of By-Laws</li>
+                            <li class="mb-2">
+                                Certified true copy of the Board resolution/Secretary’s
                             </li>
                             <li class="mb-2">
-                                b. Certified true copy of Articles of Incorporation
-                            </li>
-                            <li class="mb-2">c. Certified true copy of By-Laws</li>
-                            <li class="mb-2">
-                                d. Certified true copy of the Board resolution/Secretary’s
                                 Certificate of the corporate governing body (Board of Directors,
-                                Board of Trustees, etc.) designating the authorized representative
-                                of said corporation, association, or partnership to apply/sign
+                                Board ofTrustees, etc.) designating the authorized representative of
+                                said corporation, association, or partnership to apply/sign
                                 documents for and on behalf of the company
                             </li>
                         </ul>
                         <li class="mb-2">
                             The applicant uses a name, style, or trade name, other than the true
-                            name, certified true copy of the certification of registration of such
+                            name – Certified true copy of the certification of registration of such
                             name, style or trade name with the Department of Trade and Industry
-                            (DTI) and SEC
+                            (DTI) and SEC.
                         </li>
                         <li class="mb-2">
-                            Cooperative - Certified true copy of Certificate of Registration with
+                            Cooperative – Certified true copy of Certificate of Registration with
                             the Cooperative Development Authority (CDA)
                         </li>
                     </ul>
-                    <li class="mb-2">
-                        Provision of Proof of Financial Capability - Bank Certification
-                    </li>
+                    <li class="mb-2">Provision of Proof of Capability - Bank Certification</li>
                     <li class="mb-2">LGU Endorsement (if available)</li>
+                    <li class="mb-2">
+                        Barangay Certificate stating that there are no existing indigenous people in
+                        the area
+                    </li>
+                    <li class="mb-2">
+                        Duly Notarized Special Power of Attorney (SPA) (if applicable)
+                    </li>
                 </ul>
 
                 <div class="flex flex-col gap-3 items-start justify-center">
@@ -144,7 +164,7 @@
 
 <script setup>
 useHead({
-    title: "Forest Land Use Agreement (FLAg) - Envi-Comm Corporation",
+    title: "Special Land Use Permit (SLUP) - Envi-Comm Corporation",
 });
 </script>
 
