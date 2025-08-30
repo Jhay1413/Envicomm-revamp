@@ -709,7 +709,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 34  -->
-                <NuxtLink class="relative group" to="/coming-soon">
+                <NuxtLink
+                    class="relative group"
+                    to="/services/protected-area-management-board-clearance"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
