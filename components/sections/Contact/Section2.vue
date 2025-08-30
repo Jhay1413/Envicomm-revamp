@@ -35,14 +35,17 @@
                     <p class="text-text text-gray-600 underline">+63 917 177 3171</p>
                     <p class="text-text text-gray-600 underline">official@envicomm.org</p>
                 </div>
-                <form class="flex-1" action="/">
+                <form class="flex-1" @submit.prevent="handleSubmit">
                     <div class="flex flex-col gap-6 mb-6 lg:flex-row xl:gap-[30px]">
                         <input
+                            v-model="formData.name"
                             class="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder: py-5 px-[30px]"
                             type="text"
                             placeholder="Enter your name"
+                            required
                         />
                         <input
+                            v-model="formData.company"
                             class="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder: py-5 px-[30px]"
                             type="text"
                             placeholder="Company (optional)"
@@ -50,22 +53,27 @@
                     </div>
                     <div class="flex flex-col gap-6 mb-6 lg:flex-row xl:gap-[30px]">
                         <input
+                            v-model="formData.email"
                             class="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder: py-5 px-[30px]"
-                            type="text"
+                            type="email"
                             placeholder="Your email"
+                            required
                         />
                         <input
+                            v-model="formData.phone"
                             class="outline-none flex-1 placeholder:text-gray-400 placeholder:text-md placeholder: py-5 px-[30px]"
-                            type="text"
+                            type="tel"
                             placeholder="Phone number"
                         />
                     </div>
                     <textarea
+                        v-model="formData.message"
                         class="w-full py-5 resize-none outline-0 px-[30px] max-h-[150px] mb-[35px] md:mb-[56px]"
                         name=""
                         cols="100"
                         rows="10"
                         placeholder="Tell us about yourself"
+                        required
                     ></textarea>
                     <div class="flex flex-col gap-5">
                         <button
@@ -88,3 +96,34 @@
         </div>
     </div>
 </template>
+
+<script setup>
+import { ref } from 'vue';
+import { useAnalytics } from '~/composables/useAnalytics';
+
+const { trackContactFormSubmit } = useAnalytics();
+
+const formData = ref({
+    name: '',
+    company: '',
+    email: '',
+    phone: '',
+    message: ''
+});
+
+const handleSubmit = () => {
+    trackContactFormSubmit('contact_page');
+    
+    console.log('Form submitted:', formData.value);
+    
+    formData.value = {
+        name: '',
+        company: '',
+        email: '',
+        phone: '',
+        message: ''
+    };
+    
+    alert('Thank you for your message! We will get back to you soon.');
+};
+</script>
