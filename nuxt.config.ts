@@ -42,7 +42,7 @@ export default defineNuxtConfig({
         "nuxt-gtag",
     ],
     gtag: {
-        id: "G-LB7SWXXDG6", // Replace with your Google Analytics measurement ID
+        id: process.env.GOOGLE_ANALYTICS_ID, // Replace with your Google Analytics measurement ID
         config: {
             anonymize_ip: true, // Anonymize IP for GDPR compliance
             send_page_view: true, // Automatically send page views
