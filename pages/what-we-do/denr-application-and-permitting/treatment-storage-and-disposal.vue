@@ -1,15 +1,17 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Certificate of Non-Overlap (CNO)</h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
+                Treatment, Storage and Disposal Facility (TSD) Application
+            </h1>
             <p class="text-lg 4k:text-3xl">
-                DENR Certificate of Non-Overlap confirms a proposed project area does not infringe
-                on ancestral domains or protected areas.
+                A DENR TSD Application is for facilities that treat, store, or dispose of hazardous
+                wastes, ensuring safe, environmentally sound management and compliance.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
@@ -27,7 +29,7 @@
             <!-- section 1  -->
             <section id="tsd-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Certificate of Non-Overlap (CNO)
+                    Treatment, Storage and Disposal Facility (TSD) Application
                 </h2>
 
                 <h4
@@ -39,32 +41,24 @@
                     RESPONSIBILITIES OF THE CONSULTANT
                 </h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
+                    <li class="mb-2">Drafting of Official Letter of Request</li>
+                    <li class="mb-2">Notary of affidavit</li>
+                    <li class="mb-2">Create process flow diagram of TSD (if unavailable)</li>
                     <li class="mb-2">
-                        Facilitate the preparation of the official Letter of Intent to secure the
-                        CNO
+                        Drafting of Storage Management Plan for raw materials, residues, by-products
+                        and end-products
                     </li>
                     <li class="mb-2">
-                        Assist in obtaining a CENRO Endorsement, which is a prerequisite for the
-                        NCIP application
+                        Drafting of Long-term plan for the recycled, processed, recovered and
+                        end-products
                     </li>
+                    <li class="mb-2">Drafting of Contingency and Emergency Plan</li>
                     <li class="mb-2">
-                        Secure a Barangay Certificate confirming the absence of indigenous peoples
-                        in the area
+                        Drafting of contract with registered Hazardous Waste Transporter(s) (if
+                        unavailable)
                     </li>
-                    <li class="mb-2">
-                        Submit the complete application package to the relevant NCIP office and
-                        manage all follow-up correspondence
-                    </li>
-                    <li class="mb-2">
-                        Represent the proponent during any field-based investigation (FBI) required
-                        by the NCIP
-                    </li>
-                    <li class="mb-2">
-                        Ensure the successful issuance of the CNO by addressing any additional
-                        requirements from the NCIP case handle
-                    </li>
+                    <li class="mb-2">Processing TSD Application (if unavailable)</li>
                 </ul>
-
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
                 >
@@ -72,18 +66,26 @@
                 </h4>
                 <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">CENRO Endorsement for securing CNO</li>
-                    <li class="mb-2">Letter of Intent in securing for CNO</li>
+                    <li class="mb-2">Environmental Compliance Certificate (ECC)</li>
+                    <li class="mb-2">Valid Permit to Operate</li>
+                    <li class="mb-2">Valid Discharge Permit</li>
                     <li class="mb-2">
-                        Photocopy/Scanned Copy of Government ID of Authorized Representative
+                        Initial Environmental Examination (IEE) Checklist or Environmental Impact
+                        Statement (EIS) Report submitted to EMB Regional Offices (if available)
                     </li>
                     <li class="mb-2">
-                        Barangay Certificate stating that there are no existing indigenous people in
-                        the area
+                        Provision of Process Flow Diagram of treatment (if available)
                     </li>
-                    <li class="mb-2">4 copies of IDMP with attached Sketch Plan</li>
+                    <li class="mb-2">Pollution Control Officer Certificate of Accreditation</li>
+                    <li class="mb-2">
+                        Environmental Guarantee Fund - Bank Certification stating that the fund will
+                        be used in case of incidents that would happen in relation to the operation
+                        of the TSD Facility
+                    </li>
+                    <li class="mb-2">
+                        Valid contract with registered Hazardous Waste Transporter(s) (if available)
+                    </li>
                 </ul>
-
                 <div class="flex flex-col gap-3 items-start justify-center">
                     <NuxtLink
                         to="#"
@@ -105,7 +107,7 @@
 
 <script setup>
 useHead({
-    title: "Certificate of Non-Overlap (CNO) - Envi-Comm Corporation",
+    title: "Treatment, Storage and Disposal Facility (TSD) Application - Envi-Comm Corporation",
 });
 </script>
 

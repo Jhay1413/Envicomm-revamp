@@ -1,15 +1,17 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Foreshore Lease Agreement (FLA)</h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
+                Miscellaneous Lease Agreement (MLA)
+            </h1>
             <p class="text-lg 4k:text-3xl">
-                The DENR Foreshore Lease Agreement grants temporary use of foreshore lands and
-                reclaimed areas for specific, approved purposes.
+                The DENR Miscellaneous Lease Agreement grants temporary occupancy and use of public
+                lands not covered by specific laws, for various purposes.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
@@ -27,7 +29,7 @@
             <!-- section 1  -->
             <section id="tsd-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Foreshore Lease Agreement (FLA)
+                    Miscellaneous Lease Agreement (MLA)
                 </h2>
 
                 <h4
@@ -142,7 +144,7 @@
 
 <script setup>
 useHead({
-    title: "Foreshore Lease Agreement (FLA) - Envi-Comm Corporation",
+    title: "Miscellaneous Lease Agreement (MLA) - Envi-Comm Corporation",
 });
 </script>
 

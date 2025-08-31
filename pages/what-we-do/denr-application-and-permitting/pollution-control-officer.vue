@@ -1,40 +1,38 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Hazardous Waste Generator ID (HWID)
-            </h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Pollution Control Officer (PCO)</h1>
             <p class="text-lg 4k:text-3xl">
-                A DENR HWID is for entities generating hazardous waste, ensuring proper tracking,
-                management, and compliance with environmental laws for safe disposal.
+                DENR-accredited PCO, a professional managing your establishment's environmental
+                compliance and pollution control programs effectively.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
-                    to="#dp-new"
+                    to="#cto-new"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase"
                 >
                     New
                 </NuxtLink>
                 <NuxtLink
-                    to="#dp-amendment"
+                    to="#cto-renewal"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase"
                 >
-                    AMENDMENT
+                    RENEWAL
                 </NuxtLink>
             </div>
         </div>
     </section>
     <!-- body  -->
     <!-- section 1  -->
-    <section id="dp-new" class="py-10">
+    <section id="cto-new" class="py-10">
         <div class="container">
             <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                Hazardous Waste Generator ID (HWID)
+                Pollution Control Officer (PCO)
             </h2>
 
             <h4
@@ -47,27 +45,15 @@
             </h5>
             <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
                 <li class="mb-2">
-                     Creation of Company Registration System (CRS) and Hazardous Waste
+                    Generation and notarization of the Joint Affidavit of Undertaking
                 </li>
-                <li class="mb-2">
-                    Monitoring System (HWMS) account if unavailable (See separate file
-                    for requirements)
-                </li>
-                <li class="mb-2">Site visitation to assess the project</li>
-                <li class="mb-2">Generation and notarization of the affidavit</li>
-                <li class="mb-2">
-                    Prepare and Generate the Waste Management Plan, Contingency and Emergency Plan,
-                    Hazardous Waste Labels and Signs, Analysis of Wastes, and Official letter of
-                    Request
-                </li>
+                <li class="mb-2">Generation of the Letter of Designation</li>
                 <li class="mb-2">
                     Consolidation of documents and information needed from the client
                 </li>
                 <li class="mb-2">
-                    Consultation with regards their Material Recovery Facility (MRF) and the proper
-                    posting of the Hazardous waste signs and label
+                    Consultation with regards their Pollution Control Officer (PCO) accreditation
                 </li>
-                <li class="mb-2">Generate Environmental Management Plan (EMP)</li>
             </ul>
             <h4
                 class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
@@ -76,26 +62,16 @@
             </h4>
             <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
             <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                <li class="mb-2">Copy of the Government ID of the Proponent</li>
-                <li class="mb-2">SEC or DTI certificates</li>
-                <li class="mb-2">
-                    CRS account and OPMS (If unavailable, see separate file for the requirements)
-                </li>
-                <li class="mb-2">
-                    Copy of Environmental Compliance Certificate (ECC), Permit to Operate, and
-                    Hazardous Waste Generator ID, Pollution Control Officer (PCO) Accreditation
-                    Certificate, whichever is applicable.
-                </li>
-                <li class="mb-2">
-                    Copy of previous Hazardous Waste Generator ID (HWID), if applicable
-                </li>
-                <li class="mb-2">Geotagged photos of Materials Recovery Facility (WTF)</li>
-                <li class="mb-2">
-                    Photos of the Hazardous wastes containers with proper signs and labels
-                </li>
-                <li class="mb-2">Payment of HWID Application Fee</li>
-                <li class="mb-2">Payment of DP Discharge / Load Based Fee</li>
-                <li class="mb-2">Other that may be required by EMB Case Handler.</li>
+                <li class="mb-2">ID picture of the PCO</li>
+                <li class="mb-2">Duly Notarized Affidavit</li>
+                <li class="mb-2">College Diploma</li>
+                <li class="mb-2">PCO Training Completion Certificate</li>
+                <li class="mb-2">Curriculum Vitae (CV) or Resume</li>
+                <li class="mb-2">Trainings Certificate</li>
+                <li class="mb-2">Official Letter of Request</li>
+                <li class="mb-2">Certificate of Employment</li>
+                <li class="mb-2">Copy of the Managing Head Certificate</li>
+                <li class="mb-2">Electronic Signature</li>
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
@@ -114,51 +90,45 @@
         </div>
     </section>
     <!-- section 2  -->
-    <section id="dp-amendment" class="py-10 bg-[#EBF5D7]">
+    <section id="cto-renewal" class="py-10 bg-[#EBF5D7]">
         <div class="container">
             <h4
                 class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
             >
-                scope OF WORK - amendment
+                scope OF WORK - RENEWAL
             </h4>
             <h5 class="text-lg md:text-xl mb-10 font-semibold">
                 RESPONSIBILITIES OF THE CONSULTANT
             </h5>
             <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                <li class="mb-2">
-                     Creation of Company Registration System (CRS) and Hazardous Waste
-                </li>
-                <li class="mb-2">
-                    Monitoring System (HWMS) account if unavailable (See separate file
-                    for requirements)
-                </li>
-                <li class="mb-2">Site visitation to assess the project</li>
-                <li class="mb-2">Generation and notarization of the affidavit</li>
-                <li class="mb-2">
-                    Prepare and Generate the Waste Management Plan, Contingency and Emergency Plan,
-                    Hazardous Waste Labels and Signs, Analysis of Wastes, and Official letter of
-                    Request
-                </li>
+                <li class="mb-2">Generation of the Letter of Intent</li>
                 <li class="mb-2">
                     Consolidation of documents and information needed from the client
                 </li>
                 <li class="mb-2">
-                    Consultation with regards their Material Recovery Facility (MRF) and the proper
-                    posting of the Hazardous waste signs and label
+                    Consultation with regards their Pollution Control Officer (PCO) accreditation
                 </li>
-                <li class="mb-2">Generate Environmental Management Plan (EMP)</li>
             </ul>
             <h4
                 class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
             >
-                REQUIREMENTS - amendment
+                REQUIREMENTS - RENEWAL
             </h4>
             <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
             <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                <li class="mb-2">Letter for additional Hazardous Waste</li>
-                <li class="mb-2">Picture of Hazardous Waste Storage</li>
-                <li class="mb-2">Updated Contingency Plan</li>
-                <li class="mb-2">Updated Environmental Monitoring Plan</li>
+                <li class="mb-2">ID picture of the PCO</li>
+                <li class="mb-2">Duly Notarized Affidavit</li>
+                <li class="mb-2">College Diploma</li>
+                <li class="mb-2">MRF Photo</li>
+                <li class="mb-2">SMR and CMR Proof of Submission</li>
+                <li class="mb-2">Previous PCO Accreditation Certificate</li>
+                <li class="mb-2">PCO Training Completion Certificate</li>
+                <li class="mb-2">Curriculum Vitae (CV) or Resume</li>
+                <li class="mb-2">Trainings Certificate</li>
+                <li class="mb-2">Official Letter of Request</li>
+                <li class="mb-2">Certificate of Employment</li>
+                <li class="mb-2">Copy of the Managing Head Certificate</li>
+                <li class="mb-2">OElectronic Signature</li>
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
@@ -180,7 +150,7 @@
 
 <script setup>
 useHead({
-    title: "Hazardous Waste Generator ID (HWGID) - Envi-Comm Corporation",
+    title: "POLLUTION CONTROL OFFICER (PCO) - Envi-Comm Corporation",
 });
 </script>
 

@@ -371,7 +371,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/services/denr-application-and-permitting"
+                    to="/what-we-do/denr-application-and-permitting"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"

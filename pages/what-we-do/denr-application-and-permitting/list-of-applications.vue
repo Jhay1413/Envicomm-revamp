@@ -1,7 +1,7 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] 4k:min-h-[1000px] py-20 4k:py-40 w-full px-10 md:px-20"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] 4k:min-h-[1000px] py-20 4k:py-40 w-full px-10 md:px-20"
     >
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
@@ -20,7 +20,7 @@
                 <!-- item 1  -->
                 <NuxtLink
                     class="relative group"
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/denr-application-and-permitting/environmental-compliance-certificate"
                 >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
@@ -43,7 +43,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 2  -->
-                <NuxtLink class="relative group" to="/services/certificate-of-non-coverage">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/certificate-of-non-coverage"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -62,7 +65,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 3  -->
-                <NuxtLink class="relative group" to="/services/discharge-permit">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/discharge-permit"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -81,7 +87,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 4  -->
-                <NuxtLink class="relative group" to="/services/hazardous-waste-generator-id">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/hazardous-waste-generator-id"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -100,7 +109,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 5  -->
-                <NuxtLink class="relative group" to="/services/permit-to-operate">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/permit-to-operate"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -120,7 +132,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 6  -->
-                <NuxtLink class="relative group" to="/services/pollution-control-officer">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/pollution-control-officer"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -139,7 +154,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 7  -->
-                <NuxtLink class="relative group" to="/services/treatment-storage-and-disposal">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/treatment-storage-and-disposal"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -158,7 +176,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 9  -->
-                <NuxtLink class="relative group" to="/services/small-quantity-importation">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/small-quantity-importation"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -182,7 +203,7 @@
                 <!-- item 10  -->
                 <NuxtLink
                     class="relative group"
-                    to="/services/transporter-registration-certificate"
+                    to="/what-we-do/denr-application-and-permitting/transporter-registration-certificate"
                 >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
@@ -205,7 +226,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 11  -->
-                <NuxtLink class="relative group" to="/services/permit-to-transport">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/permit-to-transport"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -225,7 +249,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 12  -->
-                <NuxtLink class="relative group" to="/services/chemical-control-order">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/chemical-control-order"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -382,7 +409,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 20  -->
-                <NuxtLink class="relative group" to="/services/certificate-of-non-overlap">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/certificate-of-non-overlap"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -402,7 +432,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 21  -->
-                <NuxtLink class="relative group" to="/services/forest-land-use-agreement">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/forest-land-use-agreement"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -422,7 +455,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 21  -->
-                <NuxtLink class="relative group" to="/services/special-land-use-permit">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/special-land-use-permit"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -464,7 +500,7 @@
                 <!-- item 23  -->
                 <NuxtLink
                     class="relative group"
-                    to="/services/special-use-agreement-in-protected-areas"
+                    to="/what-we-do/denr-application-and-permitting/special-use-agreement-in-protected-areas"
                 >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
@@ -487,7 +523,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 24  -->
-                <NuxtLink class="relative group" to="/services/tree-cutting-permit">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/tree-cutting-permit"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -507,7 +546,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 25  -->
-                <NuxtLink class="relative group" to="/services/area-clearance">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/area-clearance"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -526,7 +568,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 25  -->
-                <NuxtLink class="relative group" to="/services/foreshore-lease-agreement">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/foreshore-lease-agreement"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -584,7 +629,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 28  -->
-                <NuxtLink class="relative group" to="/services/miscellaneous-lease-agreement">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/miscellaneous-lease-agreement"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -648,7 +696,10 @@
                     </div>
                 </NuxtLink>
                 <!-- item 31  -->
-                <NuxtLink class="relative group" to="/services/gratuitous-special-use-permit">
+                <NuxtLink
+                    class="relative group"
+                    to="/what-we-do/denr-application-and-permitting/gratuitous-special-use-permit"
+                >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
                     >
@@ -689,7 +740,7 @@
                 <!-- item 33  -->
                 <NuxtLink
                     class="relative group"
-                    to="/services/national-water-resources-board-permit"
+                    to="/what-we-do/denr-application-and-permitting/national-water-resources-board-permit"
                 >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"
@@ -711,7 +762,7 @@
                 <!-- item 34  -->
                 <NuxtLink
                     class="relative group"
-                    to="/services/protected-area-management-board-clearance"
+                    to="/what-we-do/denr-application-and-permitting/protected-area-management-board-clearance"
                 >
                     <div
                         class="absolute inset-0 w-full h-full opacity-100 z-10 group-hover:opacity-0 group-active:opacity-100 group-active:bg-[#86B93F] transition-all duration-300 bg-[#547326] py-8 px-10 rounded-lg flex items-center justify-center"

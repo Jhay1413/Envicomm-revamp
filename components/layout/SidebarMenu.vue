@@ -140,14 +140,14 @@
                         <li class="text-md py-[10px]" id="sv1">
                             <NuxtLink
                                 class="block transition-all duration-200 hover:text-green-900 hover:translate-x-1"
-                                href="/services-1"
+                                href="/what-we-do-1"
                                 >Services 01</NuxtLink
                             >
                         </li>
                         <li class="text-md py-[10px]" id="sv2">
                             <NuxtLink
                                 class="block transition-all duration-200 hover:text-green-900 hover:translate-x-1"
-                                href="/services-2"
+                                href="/what-we-do-2"
                                 >Services 02</NuxtLink
                             >
                         </li>

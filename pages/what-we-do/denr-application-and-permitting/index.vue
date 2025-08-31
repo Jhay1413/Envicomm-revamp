@@ -1,7 +1,7 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] py-20 w-full px-10 md:px-20"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] py-20 w-full px-10 md:px-20"
     >
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">DENR: Application & Permitting</h1>
@@ -82,9 +82,8 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                 incididunt
             </p>
-            <!-- <GreenBtn to="/list-of-applications">List of Applications</GreenBtn> -->
             <NuxtLink
-                to="/services/list-of-applications"
+                to="/what-we-do/denr-application-and-permitting/list-of-applications"
                 class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded"
             >
                 List of Applications
@@ -133,7 +132,7 @@
     <section class="py-10 md:py-20">
         <div class="container">
             <video
-                src="/assets/images/main-imgs/services/Lets-Go-Green.mp4"
+                src="/assets/images/main-imgs/what-we-do/Lets-Go-Green.mp4"
                 controls
                 preload="none"
                 class="w-full"

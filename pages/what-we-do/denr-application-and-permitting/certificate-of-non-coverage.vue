@@ -1,22 +1,19 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Small Quantity Importation (SQI) Clearance
-            </h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">CERTIFICATE OF NON-COVERAGE (CNC)</h1>
             <p class="text-lg 4k:text-3xl">
-                A DENR Small Quantity Importation Clearance permits importing limited amounts of
-                chemical substances not yet on the Philippine Inventory, for specific, controlled
-                uses.
+                Project proponents for undertakings deemed not environmentally critical need a CNC
+                from DENR to proceed with their plans.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
-                    to="#tsd-new"
+                    to="#cnc-new"
                     class="4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase"
                 >
                     New
@@ -28,22 +25,26 @@
     <section class="py-10 md:py-20">
         <div class="container">
             <!-- section 1  -->
-            <section id="tsd-new" class="py-10">
+            <section id="cnc-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Small Quantity Importation (SQI) Clearance
+                    Certificate of Non-Coverage (CNC)
                 </h2>
 
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
                 >
-                    scope OF WORK - NEW
+                    Scope of Work - nEW
                 </h4>
                 <h5 class="text-lg md:text-xl mb-10 font-semibold">
                     RESPONSIBILITIES OF THE CONSULTANT
                 </h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Processing of Online Application</li>
-                    <li class="mb-2">Notary of Duly Accomplished Application Form</li>
+                    <li class="mb-2">Generate of Duly Notarized Accountability Statement</li>
+                    <li class="mb-2">Prepare the Project Fact Sheet</li>
+                    <li class="mb-2">Generate the Geotagged Photos of the Site</li>
+                    <li class="mb-2">
+                        Consolidate the supporting documents provided by the Proponent
+                    </li>
                 </ul>
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
@@ -52,19 +53,23 @@
                 </h4>
                 <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Provision of Material Safety Data Sheet of the substance</li>
+                    <li class="mb-2">Site Development</li>
+                    <li class="mb-2">Accountability Statement</li>
                     <li class="mb-2">
-                        Provision of Business Permit or SEC Registration of the Office
+                        CENRO Certification on land status (if within protected area)
                     </li>
                     <li class="mb-2">
-                        Provision of Business Permit or SEC Registration of the Warehouse/Storage
-                        Facility of the substance
+                        Government ID of Proponent/President/Vice President/Director/CEO/COO
                     </li>
-                    <li class="mb-2">Provision of Bill of Lading</li>
+                    <li class="mb-2">
+                        DTI Registration Certificate for sole proprietorship or Securities and
+                        Exchange Commission (SEC) registration certificate for corporation
+                    </li>
+                    <li class="mb-2">Geotagged photos of the project area</li>
                 </ul>
                 <div class="flex flex-col gap-3 items-start justify-center">
                     <NuxtLink
-                        to="#"
+                        to="/what-we-do/environmental-compliance-certificate"
                         class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                     >
                         Download PDF
@@ -83,7 +88,7 @@
 
 <script setup>
 useHead({
-    title: "Small Quantity Importation (SQI) Clearance - Envi-Comm Corporation",
+    title: "CERTIFICATE OF NON-COVERAGE - Envi-Comm Corporation",
 });
 </script>
 

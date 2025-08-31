@@ -1,17 +1,17 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20 flex items-center"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
             <!-- text 1 -->
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Treatment, Storage and Disposal Facility (TSD) Application
+                Permit to Transport (PTT) Application
             </h1>
             <p class="text-lg 4k:text-3xl">
-                A DENR TSD Application is for facilities that treat, store, or dispose of hazardous
-                wastes, ensuring safe, environmentally sound management and compliance.
+                The Permit to Transport allows hazardous waste generators and transporters to
+                legally move hazardous wastes to accredit ed TSD facilities.
             </p>
             <div class="flex gap-2 mt-5 w-full flex-wrap">
                 <NuxtLink
@@ -29,7 +29,7 @@
             <!-- section 1  -->
             <section id="tsd-new" class="py-10">
                 <h2 class="text-2xl md:text-4xl font-regular text-center mb-5 uppercase">
-                    Treatment, Storage and Disposal Facility (TSD) Application
+                    Permit to Transport (PTT) Application
                 </h2>
 
                 <h4
@@ -41,23 +41,27 @@
                     RESPONSIBILITIES OF THE CONSULTANT
                 </h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Drafting of Official Letter of Request</li>
-                    <li class="mb-2">Notary of affidavit</li>
-                    <li class="mb-2">Create process flow diagram of TSD (if unavailable)</li>
                     <li class="mb-2">
-                        Drafting of Storage Management Plan for raw materials, residues, by-products
-                        and end-products
+                        Facilitate the accomplishment of the online PTT application form
                     </li>
                     <li class="mb-2">
-                        Drafting of Long-term plan for the recycled, processed, recovered and
-                        end-products
+                        Secure the notarized Memorandum of Agreement or other service agreements
+                        between the Hazardous Waste (HW) Generator, the Transporter, and the TSD
+                        Facility
                     </li>
-                    <li class="mb-2">Drafting of Contingency and Emergency Plan</li>
                     <li class="mb-2">
-                        Drafting of contract with registered Hazardous Waste Transporter(s) (if
-                        unavailable)
+                        Coordinate with the TSD facility for their registration certificate and
+                        Environmental Compliance Certificate
                     </li>
-                    <li class="mb-2">Processing TSD Application (if unavailable)</li>
+                    <li class="mb-2">
+                        Coordinate with the Transporter for their registration certificate and
+                        hauling schedule
+                    </li>
+                    <li class="mb-2">Prepare the route of transport for submission</li>
+                    <li class="mb-2">Assist in the consolidation of all supporting documents</li>
+                    <li class="mb-2">
+                        Process and monitor the PTT application with the concerned EMB Case Handler
+                    </li>
                 </ul>
                 <h4
                     class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
@@ -66,24 +70,26 @@
                 </h4>
                 <h5 class="text-lg md:text-xl mb-10 font-semibold">REQUIREMENT FROM PROPONENT</h5>
                 <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
-                    <li class="mb-2">Environmental Compliance Certificate (ECC)</li>
-                    <li class="mb-2">Valid Permit to Operate</li>
-                    <li class="mb-2">Valid Discharge Permit</li>
+                    <li class="mb-2">Accomplished online PTT application form</li>
+                    <li class="mb-2">Hazardous Waste (HW) Generator Registration Certificate</li>
                     <li class="mb-2">
-                        Initial Environmental Examination (IEE) Checklist or Environmental Impact
-                        Statement (EIS) Report submitted to EMB Regional Offices (if available)
+                        Notarized Memorandum of Agreement / Affidavit of Undertaking / Service
+                        Agreement between the HW Generator, TSD facility, and HW Transporter
                     </li>
                     <li class="mb-2">
-                        Provision of Process Flow Diagram of treatment (if available)
+                        Result of laboratory analysis (if the waste is Polychlorinated Biphenyl
+                        (PCB))
                     </li>
-                    <li class="mb-2">Pollution Control Officer Certificate of Accreditation</li>
+                    <li class="mb-2">Transporter Registration Certificate</li>
+                    <li class="mb-2">Schedule of Hauling / Transport of Wastes</li>
+                    <li class="mb-2">Route of Transport</li>
+                    <li class="mb-2">TSD Registration Certificate</li>
+                    <li class="mb-2">Latest Self-Monitoring Report</li>
                     <li class="mb-2">
-                        Environmental Guarantee Fund - Bank Certification stating that the fund will
-                        be used in case of incidents that would happen in relation to the operation
-                        of the TSD Facility
+                        Environmental Compliance Certificate (ECC) of the TSD Facility
                     </li>
                     <li class="mb-2">
-                        Valid contract with registered Hazardous Waste Transporter(s) (if available)
+                        Other documents that may be required by the EMB Case Handler
                     </li>
                 </ul>
                 <div class="flex flex-col gap-3 items-start justify-center">
@@ -107,7 +113,7 @@
 
 <script setup>
 useHead({
-    title: "Treatment, Storage and Disposal Facility (TSD) Application - Envi-Comm Corporation",
+    title: "Permit to Transport (PTT) Application - Envi-Comm Corporation",
 });
 </script>
 

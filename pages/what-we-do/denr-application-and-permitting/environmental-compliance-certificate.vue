@@ -1,7 +1,7 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/services/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">
@@ -45,13 +45,13 @@
                     New
                 </NuxtLink>
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase opacity-0 hidden md:block"
                 >
                     AMENDMENT
                 </NuxtLink>
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase opacity-0 hidden md:block"
                 >
                     MINOR AMENDMENT
@@ -71,13 +71,13 @@
                     New
                 </NuxtLink>
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase opacity-0 hidden md:block"
                 >
                     AMENDMENT
                 </NuxtLink>
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 text-center 4k:text-2xl border-2 border-white transition-all duration-200 text-white py-2 px-5 rounded-lg uppercase opacity-0 hidden md:block"
                 >
                     MINOR AMENDMENT
@@ -173,7 +173,7 @@
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                 >
                     Download PDF
@@ -270,7 +270,7 @@
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                 >
                     Download PDF
@@ -387,7 +387,7 @@
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                 >
                     Download PDF
@@ -520,7 +520,7 @@
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                 >
                     Download PDF
@@ -622,7 +622,7 @@
             </ul>
             <div class="flex flex-col gap-3 items-start justify-center">
                 <NuxtLink
-                    to="/services/environmental-compliance-certificate"
+                    to="/what-we-do/environmental-compliance-certificate"
                     class="flex-1 4k:text-2xl bg-[#547326] transition-all duration-200 text-white py-2 px-5 rounded"
                 >
                     Download PDF
