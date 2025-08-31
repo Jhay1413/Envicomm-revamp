@@ -1,7 +1,7 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/what-we-do/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] py-20 w-full px-10 md:px-20"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-and-permitting.jpg')] bg-cover bg-left md:bg-top min-h-[400px] 4k:min-h-[1000px] py-20 w-full px-10 md:px-20"
     >
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">DENR: Application & Permitting</h1>
@@ -65,23 +65,10 @@
         </div>
     </section>
     <!-- Quik facts  -->
-    <section class="py-10 md:py-20 text-black text-lg md:text-xl">
-        <div class="container text-center">
-            <h2 class="text-2xl md:text-4xl mb-3 uppercase">Quick Facts</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt
-            </p>
-        </div>
-    </section>
+    <SectionsWhatWeDoQuickFacts />
     <!-- List of Applications  -->
     <section class="py-10 md:py-20 text-black text-lg md:text-xl">
         <div class="container text-center">
-            <h2 class="text-2xl md:text-4xl mb-3 uppercase">List of Applications</h2>
-            <p class="mb-10">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt
-            </p>
             <NuxtLink
                 to="/what-we-do/denr-application-and-permitting/list-of-applications"
                 class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded"
@@ -91,50 +78,14 @@
         </div>
     </section>
     <!-- Get in Touch -->
-    <section class="bg-[#EBF5D7] py-10 md:py-20 text-black text-lg md:text-xl">
-        <div class="container">
-            <h2 class="text-2xl md:text-4xl mb-3 uppercase text-center">Get in Touch</h2>
-            <p class="mb-5 text-center">We'd love to hear from you. Reach out today!</p>
-            <form class="flex flex-col justify-center md:max-w-[50%] mx-auto">
-                <div>
-                    <label for="name" class="block mb-1">Name</label>
-                    <input type="text" class="w-full rounded mb-5 p-2" />
-                </div>
-                <div>
-                    <label for="email" class="block mb-1">Email</label>
-                    <input type="email" class="w-full rounded mb-5 p-2" />
-                </div>
-                <div>
-                    <label for="message" class="block mb-1">Message</label>
-                    <textarea
-                        class="w-full rounded mb-5 p-2"
-                        placeholder="What are you looking for?"
-                        rows="5"
-                    ></textarea>
-                </div>
-                <div class="flex items-center mb-5">
-                    <input
-                        type="checkbox"
-                        name="terms"
-                        id="terms"
-                        class="mr-2 accent-[#547326] w-5 h-5"
-                    />
-                    <label for="terms">I accept the Terms</label>
-                </div>
-                <button
-                    class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded w-fit mx-auto"
-                >
-                    Submit
-                </button>
-            </form>
-        </div>
-    </section>
+    <SectionsWhatWeDoContactForm />
+
+    <!-- Lets Go Green  -->
     <section class="py-10 md:py-20">
         <div class="container">
             <video
                 src="/assets/images/main-imgs/what-we-do/Lets-Go-Green.mp4"
                 controls
-                preload="none"
                 class="w-full"
             ></video>
         </div>
@@ -142,6 +93,8 @@
 </template>
 
 <script>
+import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
+
 useHead({
     title: "DENR: Application & Permitting - Envi-Comm Corporation",
 });
