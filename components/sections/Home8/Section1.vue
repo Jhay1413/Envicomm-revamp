@@ -399,7 +399,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/denr-reporting"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -425,7 +425,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/denr-mapping-and-planning"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -453,7 +453,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/stps-and-wtps"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -479,7 +479,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/chemical-stp-and-ro"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -507,7 +507,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/renewable-energy-product-and-technology"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -535,7 +535,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/hauling-and-septage"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -563,7 +563,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/saas-development"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -591,7 +591,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/pco-academy"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -617,7 +617,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/specialized-data-collection-air-quality"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -645,7 +645,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/denr-professional-and-specialized-authority"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"
@@ -673,7 +673,7 @@
                 <NuxtLink
                     class="relative rounded-lg overflow-hidden h-[140px] group flex justify-start items-end p-10"
                     data-aos="fade-up"
-                    to="/coming-soon"
+                    to="/what-we-do/autoclave-and-pyrolysis-technology"
                 >
                     <div
                         class="absolute inset-0 bg-black/40 transition-all duration-300 w-full h-full z-10"

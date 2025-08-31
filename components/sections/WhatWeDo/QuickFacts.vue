@@ -1,6 +1,6 @@
 <template>
     <section
-        class="bg-[url('/assets/images/main-imgs/what-we-do/quick-facts.jpg')] bg-cover bg-left md:bg-center min-h-screen text-white flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/quick-facts.jpg')] bg-cover bg-left md:bg-center min-h-screen 4k:min-h-[1800px] text-white flex items-center"
     >
         <!-- <img
             src="/assets/images/main-imgs/what-we-do/quick-facts-mobile.jpg"

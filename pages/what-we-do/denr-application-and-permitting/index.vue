@@ -11,8 +11,8 @@
             </p>
         </div>
     </section>
-    <!-- A Seamless Path to Environmental Compliance  -->
-    <section class="py-10 md:py-20 text-black text-lg md:text-xl">
+    <!-- text section  -->
+    <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5">
                 A Seamless Path to Environmental Compliance: Your Project, Our Expertise
@@ -67,7 +67,7 @@
     <!-- Quik facts  -->
     <SectionsWhatWeDoQuickFacts />
     <!-- List of Applications  -->
-    <section class="py-10 md:py-20 text-black text-lg md:text-xl">
+    <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container text-center">
             <NuxtLink
                 to="/what-we-do/denr-application-and-permitting/list-of-applications"
