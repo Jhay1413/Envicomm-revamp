@@ -639,9 +639,23 @@
 </template>
 
 <script setup>
+import { onMounted } from 'vue';
+import { useAnalytics } from '~/composables/useAnalytics';
+
+const { trackServiceView, trackDownload } = useAnalytics();
+
 useHead({
     title: "ENVIRONMENTAL COMPLIANCE CERTIFICATE - Envi-Comm Corporation",
 });
+
+onMounted(() => {
+    trackServiceView('Environmental Compliance Certificate (ECC)', 'DENR Permits');
+});
+
+const handleDownloadPDF = (section) => {
+    trackDownload(`ECC_${section}.pdf`, 'PDF');
+    console.log(`Downloading PDF for ${section}`);
+};
 </script>
 
 <style lang="scss" scoped></style>
