@@ -27,7 +27,7 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/coming-soon"
+                to="/careers"
                 active-class="text-green-900 font-bold"
                 >Careers</NuxtLink
             >

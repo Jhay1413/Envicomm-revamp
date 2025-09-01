@@ -114,10 +114,10 @@
                                     >
                                 </li>
                                 <li class="mb-5">
-                                    <a
+                                    <NuxtLink
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="#"
-                                        >Careers</a
+                                        to="/careers"
+                                        >Careers</NuxtLink
                                     >
                                 </li>
                             </ul>
@@ -154,10 +154,10 @@
                                     >
                                 </li>
                                 <li class="mb-5">
-                                    <a
+                                    <NuxtLink
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="/contact"
-                                        >Careers</a
+                                        to="/careers"
+                                        >Careers</NuxtLink
                                     >
                                 </li>
                             </ul>
