@@ -76,7 +76,7 @@
                                 <span
                                     class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 text-sm text-white bg-gray-600 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap"
                                 >
-                                    D-U-N-S® Number: 123456789
+                                    D-U-N-S® Number: 71-907-1482
                                 </span>
                             </div>
                         </div>

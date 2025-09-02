@@ -32,7 +32,7 @@
                     class="border-2 border-black rounded-lg p-2 appearance-auto"
                 >
                     <option value="">All Job Type</option>
-                    <option value="Administration Department">Accounting Department</option>
+                    <option value="Administration Department">Administration Department</option>
                     <option value="HR Department">HR Department</option>
                     <option value="TECHNICAL DEPARTMENT">TECHNICAL DEPARTMENT</option>
                     <option value="Sales & Marketing Department">Sales & Marketing</option>

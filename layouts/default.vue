@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-    <div class="wrapper mx-auto text-gray-900 font-normal">
+    <div>
         <!-- <ElementsVideoPopup /> -->
         <LayoutHeader1 />
         <div>
