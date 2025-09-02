@@ -6,7 +6,9 @@
             <h1 class="text-3xl md:text-5xl md:text-white font-semibold uppercase 4k:text-6xl">
                 Accounting Staff
             </h1>
-            <div class="flex flex-col md:flex-row justify-start items-center gap-10 py-20 4k:py-40">
+            <div
+                class="flex flex-col md:flex-row justify-start items-center gap-10 4k:gap-40 py-20 4k:py-40"
+            >
                 <div class="text-[13px] 4k:text-2xl">
                     <p class="mb-2">
                         <span class="font-semibold">Department: </span>Administration

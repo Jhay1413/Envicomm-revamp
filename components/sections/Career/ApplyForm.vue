@@ -2,12 +2,11 @@
     <div class="bg-white p-10 rounded-lg border-2 border-black text-md">
         <h3 class="font-semibold text-2xl mb-5 uppercase text-center">Apply for this position</h3>
         <form action="/">
-            <div class="flex flex-col gap-5">
+            <div class="flex flex-col gap-8">
                 <div>
-                    <label class="mb-1" for="name"
+                    <label class="mb-2 inline-block" for="name"
                         >Full Name <span class="text-red-500">*</span></label
                     >
-                    <br />
                     <input
                         class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
                         type="text"
@@ -16,10 +15,9 @@
                     />
                 </div>
                 <div>
-                    <label class="mb-1" for="email"
+                    <label class="mb-2 inline-block" for="email"
                         >Email <span class="text-red-500">*</span></label
                     >
-                    <br />
                     <input
                         class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
                         type="email"
@@ -28,10 +26,9 @@
                     />
                 </div>
                 <div>
-                    <label class="mb-1" for="phone"
+                    <label class="mb-2 inline-block" for="phone"
                         >Phone <span class="text-red-500">*</span></label
                     >
-                    <br />
                     <input
                         class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
                         type="tel"
@@ -40,10 +37,9 @@
                     />
                 </div>
                 <div>
-                    <label class="mb-1" for="cover-letter"
+                    <label class="mb-2 inline-block" for="cover-letter"
                         >Cover Letter <span class="text-red-500">*</span></label
                     >
-                    <br />
                     <textarea
                         class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
                         rows="5"
@@ -52,10 +48,9 @@
                     ></textarea>
                 </div>
                 <div>
-                    <label class="mb-1" for="resume"
+                    <label class="mb-2" for="resume"
                         >Upload CV/Resume <span class="text-red-500">*</span></label
-                    >
-                    <br />
+                    ><br />
                     <input
                         class="text-gray-400"
                         type="file"
@@ -67,8 +62,8 @@
                 </div>
                 <div class="flex items-center gap-2">
                     <input class="w-4 h-4" type="checkbox" name="terms" id="terms" />
-                    <label class="mb-1" for="terms"
-                        >By using this form you agree with the storage <br />
+                    <label class="mb-2 inline-block" for="terms"
+                        >By using this form you agree with the storag <br />
                         and handling of your data by this website. 
                         <span class="text-red-500">*</span></label
                     >
