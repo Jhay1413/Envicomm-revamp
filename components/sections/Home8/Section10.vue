@@ -20,7 +20,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Mactan–Cebu_International_Airport_horizontal_logo.png"
-                        alt="Img"
+                        alt="Mactan Cebu International Airport" 
                         loading="lazy"
                     />
                 </div>
@@ -28,7 +28,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/nautilus shipyard & repair inc.jpg"
-                        alt="Img"
+                        alt="Nautilus Shipyard & Repair Inc."
                         loading="lazy"
                     />
                 </div>
@@ -36,7 +36,7 @@
                     <img
                         class="h-[60%] w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Lite_ferries_logo.png"
-                        alt="Img"
+                        alt="Lite Ferries"
                         loading="lazy"
                     />
                 </div>
@@ -44,7 +44,7 @@
                     <img
                         class="h-[70%] w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/[CITYPNG.COM]HD Hyundai Logo Transparent Background - 2000x2000.png"
-                        alt="Img"
+                        alt="Hyundai Logo"
                         loading="lazy"
                     />
                 </div>
@@ -52,7 +52,7 @@
                     <img
                         class="h-[70%] w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/fortune_shipworks_logo.png"
-                        alt="Img"
+                        alt="Fortune Shipworks"
                         loading="lazy"
                     />
                 </div>
@@ -60,7 +60,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/ABOITIZLAND-logo-logo.webp"
-                        alt="Img"
+                        alt="/ABOITIZLAND"
                         loading="lazy"
                     />
                 </div>
@@ -68,7 +68,7 @@
                     <img
                         class="h-[70%] w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Fifth AVenue property development.png"
-                        alt="Img"
+                        alt="Fifth Avenue Property Development"
                         loading="lazy"
                     />
                 </div>
@@ -76,7 +76,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Filinvest_Land_Inc_logo (1).png"
-                        alt="Img"
+                        alt="Filinvest Land Incorporated"
                         loading="lazy"
                     />
                 </div>
@@ -84,7 +84,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Bank_of_the_Philippine_Islands_logo.svg.png"
-                        alt="Img"
+                        alt="Bank of the Philippine Islands"
                         loading="lazy"
                     />
                 </div>
@@ -92,7 +92,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Metropolitan_Bank_and_Trust_Company.png"
-                        alt="Img"
+                        alt="Metrobank"
                         loading="lazy"
                     />
                 </div>
@@ -100,7 +100,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/jpark-logo.png"
-                        alt="Img"
+                        alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
                         loading="lazy"
                     />
                 </div>
@@ -108,7 +108,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Plantation_logo.png"
-                        alt="Img"
+                        alt="Plantation Bay Resort and Bay"
                         loading="lazy"
                     />
                 </div>
@@ -116,7 +116,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Lantaw.png"
-                        alt="Img"
+                        alt="Lantaw Native Restaurant"
                         loading="lazy"
                     />
                 </div>
@@ -124,7 +124,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Belcris Foods Inc.png"
-                        alt="Img"
+                        alt="Belcris Foods Inc."
                         loading="lazy"
                     />
                 </div>
@@ -132,7 +132,7 @@
                     <img
                         class="h-full w-full object-contain group-hover:scale-110 transition-all duration-300"
                         src="/assets/images/main-imgs/clients/Panasonic_logo_(Blue).png"
-                        alt="Img"
+                        alt="Panasonic"
                         loading="lazy"
                     />
                 </div>
