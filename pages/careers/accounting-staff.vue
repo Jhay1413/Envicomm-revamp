@@ -84,7 +84,7 @@
                         </li>
                     </ul>
                 </div>
-                <div>
+                <div class="w-full md:w-auto">
                     <SectionsCareerApplyForm />
                 </div>
             </div>
