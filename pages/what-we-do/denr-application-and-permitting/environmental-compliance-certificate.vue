@@ -573,8 +573,11 @@
             <h4
                 class="uppercase bg-[#547326] py-1 text-xl md:text-2xl 4k:text-3xl text-center rounded text-white font-semibold mb-10"
             >
-                REQUIREMENTS - TECHNICAL AMENDMENT
+                REQUIREMENTS - AMENDMENT
             </h4>
+            <h5 class="text-lg md:text-xl mb-10 font-semibold">
+                RESPONSIBILITIES OF THE CONSULTANT
+            </h5>
             <ul class="4k:text-2xl list-disc list-inside mb-10 ml-[19px]">
                 <li class="mb-2">
                     Copy Government and Company ID of the Proponent and Authorized Representative or
@@ -639,8 +642,8 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue';
-import { useAnalytics } from '~/composables/useAnalytics';
+import { onMounted } from "vue";
+import { useAnalytics } from "~/composables/useAnalytics";
 
 const { trackServiceView, trackDownload } = useAnalytics();
 
@@ -649,11 +652,11 @@ useHead({
 });
 
 onMounted(() => {
-    trackServiceView('Environmental Compliance Certificate (ECC)', 'DENR Permits');
+    trackServiceView("Environmental Compliance Certificate (ECC)", "DENR Permits");
 });
 
 const handleDownloadPDF = (section) => {
-    trackDownload(`ECC_${section}.pdf`, 'PDF');
+    trackDownload(`ECC_${section}.pdf`, "PDF");
     console.log(`Downloading PDF for ${section}`);
 };
 </script>
