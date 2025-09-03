@@ -68,7 +68,7 @@
     <SectionsWhatWeDoContactForm />
 </template>
 
-<script>
+<script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
 useHead({

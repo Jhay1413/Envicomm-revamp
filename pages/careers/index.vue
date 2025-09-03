@@ -71,86 +71,83 @@
     </section>
 </template>
 
-<script>
+<script setup>
+import { ref, computed } from "vue";
+
 useHead({
     title: "Careers - Envi-Comm Corporation",
 });
 
-export default {
-    name: "Careers",
-    data() {
-        return {
-            searchQuery: "",
-            selectedDepartment: "",
-            jobs: [
-                {
-                    id: 1,
-                    title: "Accounting Staff",
-                    department: "Administration Department",
-                    to: "/careers/accounting-staff",
-                },
-                {
-                    id: 2,
-                    title: "HR GENERALIST",
-                    department: "HR Department",
-                    to: "/careers/hr-generalist",
-                },
-                {
-                    id: 3,
-                    title: "Sales & Marketing Associate",
-                    department: "Sales & Marketing Department",
-                    to: "/careers/sales-marketing-associate",
-                },
-                {
-                    id: 4,
-                    title: "IT Support Specialist",
-                    department: "Operations & Systems Department",
-                    to: "/careers/it-support-specialist",
-                },
-                {
-                    id: 5,
-                    title: "Environmental Specialist",
-                    department: "TECHNICAL DEPARTMENT",
-                    to: "/careers/environmental-specialist",
-                },
-                {
-                    id: 6,
-                    title: "Draftsman",
-                    department: "TECHNICAL DEPARTMENT",
-                    to: "/careers/draftsman",
-                },
-                {
-                    id: 7,
-                    title: "Admin Driver",
-                    department: "Administration Department",
-                    to: "/careers/admin-driver",
-                },
-                {
-                    id: 8,
-                    title: "Sales Officer",
-                    department: "Sales & Marketing Department",
-                    to: "/careers/sales-officer",
-                },
-                {
-                    id: 9,
-                    title: "Full Stack Developer",
-                    department: "Operations & Systems Department",
-                    to: "/careers/full-stack-developer",
-                },
-            ],
-        };
+const searchQuery = ref("");
+const selectedDepartment = ref("");
+
+const jobs = ref([
+    {
+        id: 1,
+        title: "Accounting Staff",
+        department: "Administration Department",
+        to: "/careers/accounting-staff",
     },
-    computed: {
-        filteredJobs() {
-            return this.jobs.filter((job) => {
-                const matchesSearch =
-                    this.searchQuery === "" ||
-                    job.title.toLowerCase().includes(this.searchQuery.toLowerCase());
-                const matchesDepartment =
-                    this.selectedDepartment === "" || job.department === this.selectedDepartment;
-                return matchesSearch && matchesDepartment;
-            });
-        },
+    {
+        id: 2,
+        title: "HR GENERALIST",
+        department: "HR Department",
+        to: "/careers/hr-generalist",
     },
-};
+    {
+        id: 3,
+        title: "Sales & Marketing Associate",
+        department: "Sales & Marketing Department",
+        to: "/careers/sales-marketing-associate",
+    },
+    {
+        id: 4,
+        title: "IT Support Specialist",
+        department: "Operations & Systems Department",
+        to: "/careers/it-support-specialist",
+    },
+    {
+        id: 5,
+        title: "Environmental Specialist",
+        department: "TECHNICAL DEPARTMENT",
+        to: "/careers/environmental-specialist",
+    },
+    {
+        id: 6,
+        title: "Draftsman",
+        department: "TECHNICAL DEPARTMENT",
+        to: "/careers/draftsman",
+    },
+    {
+        id: 7,
+        title: "Admin Driver",
+        department: "Administration Department",
+        to: "/careers/admin-driver",
+    },
+    {
+        id: 8,
+        title: "Sales Officer",
+        department: "Sales & Marketing Department",
+        to: "/careers/sales-officer",
+    },
+    {
+        id: 9,
+        title: "Full Stack Developer",
+        department: "Operations & Systems Department",
+        to: "/careers/full-stack-developer",
+    },
+]);
+
+const filteredJobs = computed(() => {
+    return jobs.value.filter((job) => {
+        const matchesSearch =
+            searchQuery.value === "" ||
+            job.title.toLowerCase().includes(searchQuery.value.toLowerCase());
+
+        const matchesDepartment =
+            selectedDepartment.value === "" || job.department === selectedDepartment.value;
+
+        return matchesSearch && matchesDepartment;
+    });
+});
 </script>

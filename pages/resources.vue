@@ -94,7 +94,7 @@
     </section>
 </template>
 
-<script>
+<script setup>
 useHead({
     title: "Resources - Envi-Comm Corporation",
 });
