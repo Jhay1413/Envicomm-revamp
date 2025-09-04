@@ -3,47 +3,76 @@
         <div class="container">
             <h2 class="text-2xl md:text-4xl mb-3 uppercase text-center">Get in Touch</h2>
             <p class="mb-5 text-center">We'd love to hear from you. Reach out today!</p>
-            <form class="flex flex-col justify-center md:max-w-[50%] mx-auto">
+            <Form
+                class="flex flex-col justify-center md:max-w-[50%] mx-auto"
+                :validation-schema="formSchema"
+                @submit="onSubmit"
+            >
                 <div>
                     <label for="name" class="block mb-1">Name</label>
-                    <input type="text" class="w-full rounded mb-5 p-2" />
+                    <Field type="text" class="w-full rounded p-2" name="name" />
+                    <ErrorMessage name="name" class="text-red-500 text-sm" />
                 </div>
                 <div>
                     <label for="email" class="block mb-1">Email</label>
-                    <input type="email" class="w-full rounded mb-5 p-2" />
+                    <Field type="email" class="w-full rounded p-2" name="email" />
+                    <ErrorMessage name="email" class="text-red-500 text-sm" />
                 </div>
                 <div>
                     <label for="message" class="block mb-1">Message</label>
-                    <textarea
-                        class="w-full rounded mb-5 p-2"
+                    <Field
+                        class="w-full rounded p-2"
                         placeholder="What are you looking for?"
                         rows="5"
-                    ></textarea>
+                        name="message"
+                        as="textarea"
+                    ></Field>
+                    <ErrorMessage name="message" class="text-red-500 text-sm" />
                 </div>
                 <div class="flex items-center mb-5">
-                    <input
-                        type="checkbox"
+                    <Field
+                        v-slot="{ field }"
                         name="terms"
-                        id="terms"
-                        class="mr-2 accent-[#547326] w-5 h-5"
-                    />
-                    <label for="terms">I accept the Terms</label>
+                        type="checkbox"
+                        :value="true"
+                        :unchecked-value="false"
+                    >
+                        <label>
+                            <input
+                                type="checkbox"
+                                name="terms"
+                                v-bind="field"
+                                :value="true"
+                                class="mr-2 accent-[#547326] w-5 h-5"
+                            />
+                            I accept the Terms
+                        </label>
+                    </Field>
+                    <ErrorMessage name="terms" class="text-red-500 text-sm" />
                 </div>
                 <button
                     class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded w-fit mx-auto"
+                    type="submit"
                 >
                     Submit
                 </button>
-            </form>
+            </Form>
         </div>
     </section>
 </template>
 
-<script>
-export default {
-    setup() {
-        return {};
-    },
+<script setup>
+import * as yup from "yup";
+
+const formSchema = yup.object({
+    name: yup.string().required(),
+    email: yup.string().email().required(),
+    message: yup.string().required(),
+    terms: yup.bool().oneOf([true]).required(),
+});
+
+const onSubmit = (values) => {
+    console.log(values);
 };
 </script>
 
