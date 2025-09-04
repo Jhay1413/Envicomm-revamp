@@ -100,10 +100,10 @@
                                     >
                                 </li>
                                 <li class="mb-5">
-                                    <a
+                                    <NuxtLink
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="#"
-                                        >Contact Us</a
+                                        to="/contact"
+                                        >Contact Us</NuxtLink
                                     >
                                 </li>
                                 <li class="mb-5">
