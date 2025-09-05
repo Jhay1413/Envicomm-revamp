@@ -79,7 +79,7 @@
                             v-bind="field"
                         />
                         <label class="mb-2 inline-block" for="terms"
-                            >By using this form you agree with the storag <br />
+                            >By using this form you agree with the storage <br />
                             and handling of your data by this website. 
                             <span class="text-red-500">*</span></label
                         >
