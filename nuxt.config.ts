@@ -40,7 +40,6 @@ export default defineNuxtConfig({
         "@nuxtjs/tailwindcss",
         "nuxt-aos",
         "nuxt-gtag",
-        "@vee-validate/nuxt",
     ],
     gtag: {
         id: process.env.GOOGLE_ANALYTICS_ID, // Replace with your Google Analytics measurement ID
