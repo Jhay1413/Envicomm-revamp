@@ -11,7 +11,7 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/coming-soon"
+                to="/about"
                 active-class="text-green-900 font-bold"
                 >About</NuxtLink
             >
@@ -19,7 +19,7 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/coming-soon"
+                to="/services"
                 active-class="text-green-900 font-bold"
                 >Services</NuxtLink
             >

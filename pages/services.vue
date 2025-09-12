@@ -4,7 +4,7 @@
 
 <script setup>
 useHead({
-    title: "Coming Soon - Envi-Comm Corporation",
+    title: "Services - Envi-Comm Corporation",
 });
 </script>
 
