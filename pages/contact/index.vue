@@ -1,9 +1,10 @@
 <template>
     <div class="container">
         <SectionsContactSection1 />
-        <SectionsContactSection2 />
-        <!-- <SectionsContactSection3 /> -->
+        <SectionsContactSection3 />
+        <!-- <SectionsContactSection2 /> -->
     </div>
+    <SectionsWhatWeDoContactForm />
 </template>
 <script setup>
 useHead({
