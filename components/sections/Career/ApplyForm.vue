@@ -1,14 +1,14 @@
 <template>
     <div class="bg-white p-10 rounded-lg border-2 border-black text-md">
-        <h3 class="font-semibold text-2xl mb-5 uppercase text-center">Apply for this position</h3>
+        <h3 class="font-semibold text-xl mb-5 uppercase text-center">Apply for this position</h3>
         <Form :validation-schema="formSchema" @submit="onSubmit">
-            <div class="flex flex-col gap-8">
+            <div class="flex flex-col gap-8 4k:gap-12">
                 <div>
                     <label class="mb-2 inline-block" for="name"
                         >Full Name <span class="text-red-500">*</span></label
                     >
                     <Field
-                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
+                        class="border border-gray-400 bg-[#D9D9D94D] py-2 4k:py-4 px-3 rounded w-full"
                         type="text"
                         name="name"
                         id="name"
@@ -20,7 +20,7 @@
                         >Email <span class="text-red-500">*</span></label
                     >
                     <Field
-                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
+                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 4k:py-4 rounded w-full"
                         type="email"
                         name="email"
                         id="email"
@@ -32,7 +32,7 @@
                         >Phone <span class="text-red-500">*</span></label
                     >
                     <Field
-                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
+                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 4k:py-4 rounded w-full"
                         type="tel"
                         name="phone"
                         id="phone"
@@ -44,7 +44,7 @@
                         >Cover Letter <span class="text-red-500">*</span></label
                     >
                     <Field
-                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 rounded w-full"
+                        class="border border-gray-400 bg-[#D9D9D94D] py-2 px-3 4k:py-4 rounded w-full"
                         rows="5"
                         name="coverLetter"
                         id="cover-letter"
@@ -79,9 +79,8 @@
                             v-bind="field"
                         />
                         <label class="mb-2 inline-block" for="terms"
-                            >By using this form you agree with the storage <br />
-                            and handling of your data by this website. 
-                            <span class="text-red-500">*</span></label
+                            >By using this form you agree with the storage and handling of your data
+                            by this website.  <span class="text-red-500">*</span></label
                         >
                     </Field>
                 </div>

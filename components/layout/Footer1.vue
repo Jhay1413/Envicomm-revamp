@@ -2,7 +2,7 @@
     <footer class="bg-[#08223B]">
         <div class="container">
             <div
-                class="text-white grid gird-cols-1 gap-8 md:grid-cols-5 xl:gap-[98px] py-10 md:py-40"
+                class="text-white grid gird-cols-1 gap-8 md:grid-cols-5 xl:gap-[98px] py-10 md:py-28"
             >
                 <div class="md:pt-20 md:col-span-2 flex flex-col gap-5">
                     <img
