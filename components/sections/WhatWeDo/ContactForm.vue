@@ -4,7 +4,7 @@
             <h2 class="text-2xl md:text-4xl mb-3 uppercase text-center">Get in Touch</h2>
             <p class="mb-5 text-center">We'd love to hear from you. Reach out today!</p>
             <Form
-                class="flex flex-col justify-center md:max-w-[50%] mx-auto"
+                class="flex flex-col justify-center gap-5 md:max-w-[50%] mx-auto"
                 :validation-schema="formSchema"
                 @submit="onSubmit"
             >
@@ -29,25 +29,30 @@
                     ></Field>
                     <ErrorMessage name="message" class="text-red-500 text-sm" />
                 </div>
-                <div class="flex items-center mb-5">
-                    <Field
-                        v-slot="{ field }"
-                        name="terms"
-                        type="checkbox"
-                        :value="true"
-                        :unchecked-value="false"
-                    >
-                        <label>
+                <div class="mb-5">
+                    <div class="flex items-center">
+                        <Field
+                            v-slot="{ field }"
+                            name="terms"
+                            type="checkbox"
+                            :value="true"
+                            :unchecked-value="false"
+                        >
                             <input
                                 type="checkbox"
                                 name="terms"
+                                id="terms"
                                 v-bind="field"
                                 :value="true"
                                 class="mr-2 accent-[#547326] w-5 h-5"
                             />
-                            I accept the Terms
-                        </label>
-                    </Field>
+                            <label class="text-md" for="terms">
+                                by submitting you are accepting the terms and conditions of
+                                our privacy policy
+                            </label>
+                        </Field>
+                    </div>
+
                     <ErrorMessage name="terms" class="text-red-500 text-sm" />
                 </div>
                 <button
@@ -68,7 +73,10 @@ const formSchema = yup.object({
     name: yup.string().required(),
     email: yup.string().email().required(),
     message: yup.string().required(),
-    terms: yup.bool().oneOf([true]).required(),
+    terms: yup
+        .bool()
+        .oneOf([true], "Please accept the terms and conditions")
+        .required("Please accept the terms and conditions"),
 });
 
 const onSubmit = (values) => {
