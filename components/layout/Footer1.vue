@@ -40,38 +40,36 @@
                     <div>
                         <!-- <h5 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h5> -->
                         <div class="grid grid-cols-2 md:grid-cols-6 gap-5 mb-5">
-                            <div class="flex items-center justify-center md:col-span-2">
+                            <div class="flex items-center md:col-span-2">
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-4.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="h-[70px]"
+                                    class="h-[70px] 4k:h-[100px]"
                                 />
                             </div>
-                            <div class="flex items-center justify-center">
+                            <div class="flex items-center">
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-3.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="h-[80px]"
+                                    class="h-[80px] 4k:h-[100px]"
                                 />
                             </div>
-                            <div class="flex items-center justify-center">
+                            <div class="flex items-center">
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-2.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="h-[80px]"
+                                    class="h-[80px] 4k:h-[100px]"
                                 />
                             </div>
-                            <div
-                                class="relative group flex items-center justify-center md:col-span-2"
-                            >
+                            <div class="relative group flex items-center md:col-span-2">
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-1.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="h-[40px] cursor-pointer"
+                                    class="h-[40px] cursor-pointer 4k:h-[100px]"
                                 />
                                 <span
                                     class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 text-sm text-white bg-gray-600 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap"

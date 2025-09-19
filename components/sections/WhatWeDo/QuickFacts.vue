@@ -1,6 +1,6 @@
 <template>
     <section
-        class="bg-[url('/assets/images/main-imgs/what-we-do/quick-facts.jpg')] bg-cover bg-left md:bg-center min-h-screen 4k:min-h-[1800px] text-white flex items-center"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/quick-facts.jpg')] bg-cover bg-left md:bg-center min-h-screen 4k:min-h-[1800px] text-white py-20"
     >
         <!-- <img
             src="/assets/images/main-imgs/what-we-do/quick-facts-mobile.jpg"
@@ -9,7 +9,7 @@
         /> -->
         <div class="px-10 md:px-20">
             <h2 class="text-3xl md:text-5xl mb-5 uppercase">Quick Facts</h2>
-            <p class="md:max-w-[40%] text-lg 4k:text-2xl">
+            <!-- <p class="md:max-w-[40%] text-lg 4k:text-2xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur facere voluptas
                 accusamus qui quidem perferendis? Expedita quia fugiat et, delectus modi voluptates!
                 Placeat, numquam quo doloribus deserunt debitis architecto consequatur perspiciatis
@@ -17,7 +17,7 @@
                 molestiae ducimus? Sunt eligendi ea iusto aspernatur, quas soluta. Recusandae
                 eligendi enim maxime ullam perferendis cupiditate molestiae accusantium, rerum
                 accusamus voluptate alias ex amet officiis cum voluptates.
-            </p>
+            </p> -->
         </div>
     </section>
 </template>

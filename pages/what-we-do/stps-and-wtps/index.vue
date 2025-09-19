@@ -1,8 +1,11 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/what-we-do/stps-and-wtps.jpg')] bg-cover bg-left md:bg-top min-h-[400px] 4k:min-h-[1000px] py-20 w-full px-10 md:px-20"
+        class="relative bg-[url('/assets/images/main-imgs/what-we-do/stps-and-wtps.jpg')] bg-cover bg-left md:bg-top min-h-[400px] 4k:min-h-[1000px] py-20 w-full px-10 md:px-20"
     >
+        <div
+            class="absolute inset-0 bg-[radial-gradient(white_1.5px,transparent_1.5px)] bg-[length:18px_18px] opacity-20"
+        ></div>
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">STPs & WTPs</h1>
             <p class="text-xl md:text-2xl 4k:text-3xl">
@@ -79,10 +82,10 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container text-center">
             <NuxtLink
-                to="/coming-soon"
+                to="/what-we-do/stps-and-wtps/list-of-applications"
                 class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded"
             >
-                List of Applications
+                List of STPs & WTPs
             </NuxtLink>
         </div>
     </section>
