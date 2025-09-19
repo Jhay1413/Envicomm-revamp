@@ -4,7 +4,7 @@
             <div
                 class="text-white grid gird-cols-1 gap-8 md:grid-cols-5 xl:gap-[98px] py-10 md:py-28"
             >
-                <div class="md:pt-20 md:col-span-2 flex flex-col gap-5">
+                <div class="md:col-span-2 flex flex-col gap-5">
                     <img
                         src="/assets/images/main-imgs/main-logo-light.png"
                         class="logo z-50 w-[40%] mb-5"
@@ -38,14 +38,14 @@
                 </div>
                 <div class="md:col-span-3 flex flex-col gap-5">
                     <div>
-                        <h5 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h5>
-                        <div class="grid grid-cols-2 md:grid-cols-6 gap-5">
+                        <!-- <h5 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h5> -->
+                        <div class="grid grid-cols-2 md:grid-cols-6 gap-5 mb-5">
                             <div class="flex items-center justify-center md:col-span-2">
                                 <img
                                     src="/assets/images/main-imgs/clients/footer-logo-4.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="w-full"
+                                    class="h-[70px]"
                                 />
                             </div>
                             <div class="flex items-center justify-center">
@@ -53,7 +53,7 @@
                                     src="/assets/images/main-imgs/clients/footer-logo-3.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="max-h-[100px] md:max-h-[150px]"
+                                    class="h-[80px]"
                                 />
                             </div>
                             <div class="flex items-center justify-center">
@@ -61,7 +61,7 @@
                                     src="/assets/images/main-imgs/clients/footer-logo-2.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="max-h-[100px] md:max-h-[150px]"
+                                    class="h-[80px]"
                                 />
                             </div>
                             <div
@@ -71,7 +71,7 @@
                                     src="/assets/images/main-imgs/clients/footer-logo-1.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="w-full cursor-pointer"
+                                    class="h-[40px] cursor-pointer"
                                 />
                                 <span
                                     class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 text-sm text-white bg-gray-600 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap"
