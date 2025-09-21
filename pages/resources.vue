@@ -23,62 +23,62 @@
         <div class="flex flex-col md:flex-row justify-between items-center gap-5">
             <div class="md:basis-1/2 md:ml-20 w-full px-5 md:px-0">
                 <NuxtLink
-                    to="/what-we-do/denr-application-and-permitting"
+                    to="/what-we-do/denr-application-and-permitting/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >DENR: Application & Permitting</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/denr-reporting"
+                    to="/what-we-do/denr-reporting/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >DENR: Reporting</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/denr-mapping-and-planning"
+                    to="/what-we-do/denr-mapping-and-planning/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >DENR: Mapping & Planning</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/stps-and-wtps"
+                    to="/what-we-do/stps-and-wtps/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >STPs & WTPs</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/chemical-stp-and-ro"
+                    to="/what-we-do/chemical-stp-and-ro/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Chemical: STP & RO</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/renewable-energy-product-and-technology"
+                    to="/what-we-do/renewable-energy-product-and-technology/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Renewable Energy Product & Technology</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/hauling-and-septage"
+                    to="/what-we-do/hauling-and-septage/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Hauling & Septage</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/saas-development"
+                    to="/what-we-do/saas-development/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Saas Development</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/pco-academy"
+                    to="/what-we-do/pco-academy/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >PCO Academy</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/specialized-data-collection-air-quality"
+                    to="/what-we-do/specialized-data-collection-air-quality/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Specialized Data Collection: Air Quality</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/denr-professional-and-specialized-authority"
+                    to="/what-we-do/denr-professional-and-specialized-authority/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >DENR: Professional & Specialized Authority</NuxtLink
                 >
                 <NuxtLink
-                    to="/what-we-do/autoclave-and-pyrolysis-technology"
+                    to="/what-we-do/autoclave-and-pyrolysis-technology/list-of-applications"
                     class="bg-[#547326] hover:bg-[#4c6822] text-white rounded-lg py-3 px-5 w-full block mb-3"
                     >Autoclave and Pyrolysis Technology</NuxtLink
                 >
