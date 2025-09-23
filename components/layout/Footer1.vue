@@ -27,13 +27,20 @@
                         </button>
                     </form>
                     <p class="text-md">
-                        By subscribing, you consent to our Privacy Policy and receiving updates.
+                        By subscribing, you consent to our
+                        <NuxtLink
+                            to="/privacy-policy"
+                            class="underline hover:text-green-900 transition-all duration-200 font-medium"
+                            >Privacy Policy</NuxtLink
+                        >
+                        and receiving updates.
                     </p>
                     <div class="flex flex-col gap-2">
                         <p>
                             Email: <a href="mailto:official@envicomm.org">official@envicomm.org</a>
                         </p>
-                        <p>Contact: <a href="tel:+63 954 291 5171">+63 954 291 5171</a></p>
+                        <p>Mobile: <a href="tel:+63 954 291 5171">+63 954 291 5171</a></p>
+                        <p>Landline: <a href="tel:+63 (0) 32 401 0827">+63 (0) 32 401 0827</a></p>
                     </div>
                 </div>
                 <div class="md:col-span-3 flex flex-col gap-5">

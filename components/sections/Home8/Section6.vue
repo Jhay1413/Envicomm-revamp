@@ -7,14 +7,14 @@
                         class="text-gray-900 uppercase mb-5 text-[26px] leading-[44px] md:text-[46px] lg:text-heading-1 md:mb-5"
                         data-aos="fade-up"
                     >
-                        Our Happy Customers
+                        Why Clients Choose Us
                     </h2>
                     <p
                         class="text-black text-md md:text-xl 4k:text-2xl mb-5"
                         data-aos="fade-up"
                         data-aos-delay="300"
                     >
-                        Know about our clients, we are a woldwide corporate brand
+                        Discover why we are their preferred corporate brand.
                     </p>
                 </div>
                 <!-- <div class="flex items-center gap-5" data-aos="fade-up" data-aos-delay="600">
