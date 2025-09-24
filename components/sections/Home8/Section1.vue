@@ -681,10 +681,6 @@ export default {
         },
     },
     mounted() {
-        this.$nextTick(() => {
-            this.swiperInstance = this.$refs.mySwiper.swiper;
-        });
-
         // Define the scroll handler function
         this.sections = Array.from(document.querySelectorAll("section[id^='section']"));
         this.currentSection = 0;

@@ -55,7 +55,7 @@
                         class="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]"
                         active-class="text-green-900"
                     >
-                        <p>Contact</p>
+                        <p>Contact Us</p>
                     </NuxtLink>
                 </li>
                 <li class="group menu-mobile-item py-[13px]" @click="handleToggle()">

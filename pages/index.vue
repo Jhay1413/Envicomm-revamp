@@ -13,5 +13,12 @@ useHead({
     bodyAttrs: {
         class: "overflow-x-hidden w-screen relative home-page",
     },
+    meta: [
+        {
+            name: "description",
+            content:
+                "Envi-comm Corporation offers environmental compliance, water & wastewater treatment, renewable energy, and DENR permitting services.",
+        },
+    ],
 });
 </script>
