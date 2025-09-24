@@ -23,7 +23,7 @@
             <!-- Slide 2 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-02.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-02.webp')]"
                 >
                     <div
                         class="relative z-10 md:py-5 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
@@ -57,7 +57,7 @@
             <!-- Slide 1 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-01.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-01.webp')]"
                 >
                     <div
                         class="relative z-10 md:py-5 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
@@ -90,7 +90,7 @@
             <!-- Slide 3 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-03.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-03.webp')]"
                 >
                     <div
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
@@ -126,7 +126,7 @@
             <!-- Slide 4 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-04.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-04.webp')]"
                 >
                     <div
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
@@ -164,7 +164,7 @@
             <!-- Slide 5 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-05.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-05.webp')]"
                 >
                     <div
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
@@ -199,7 +199,7 @@
             <!-- Slide 6 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
-                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-06.jpg')]"
+                    class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-06.webp')]"
                 >
                     <div
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"

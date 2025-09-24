@@ -1,6 +1,6 @@
 <template>
     <section
-        class="relative bg-[url('/assets/images/main-imgs/retainership-bg.png')] bg-cover bg-center bg-fixed overflow-hidden"
+        class="relative bg-[url('/assets/images/main-imgs/retainership-bg.webp')] bg-cover bg-center bg-fixed overflow-hidden"
     >
         <div class="flex flex-col md:flex-row justify-between items-center gap-10">
             <div class="text-white">
@@ -31,12 +31,19 @@
                     src="/assets/images/main-imgs/leaf-01.png"
                     class="absolute w-[400px] -top-40 -right-[290px] hidden md:block"
                     alt="leaf"
+                    loading="lazy"
                 />
-                <NuxtImg src="/assets/images/main-imgs/table.png" class="w-full" alt="table" />
+                <NuxtImg
+                    src="/assets/images/main-imgs/table.png"
+                    class="w-[400px] md:w-[600px] 4k:w-[800px]"
+                    loading="lazy"
+                    alt="table"
+                />
                 <NuxtImg
                     src="/assets/images/main-imgs/leaf-02.png"
                     class="absolute -bottom-40 -right-[190px] hidden md:block"
                     alt="leaf"
+                    loading="lazy"
                 />
             </div>
         </div>

@@ -1,7 +1,7 @@
 <template>
     <!-- hero section  -->
     <section
-        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.jpg')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20"
+        class="bg-[url('/assets/images/main-imgs/what-we-do/application-img.webp')] bg-cover bg-left md:bg-top min-h-dvh py-20 w-full px-10 md:px-20"
         id="top"
     >
         <div class="md:max-w-[45%] text-white">

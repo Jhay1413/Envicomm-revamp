@@ -14,21 +14,13 @@
             /></NuxtLink>
             <ul class="flex items-center gap-5 md:hidden mr-[50px]">
                 <li class="flex items-center group">
-                    <NuxtLink class="menu-link mr-[7px]" to="/resources">
-                        <NuxtImg
-                            src="/assets/images/icons/contact.svg"
-                            alt="contact"
-                            class="w-[50x]"
-                        />
+                    <NuxtLink class="menu-link mr-[7px]" to="/contact">
+                        <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
                     </NuxtLink>
                 </li>
                 <li class="flex items-center group">
-                    <NuxtLink class="menu-link mr-[7px]" to="/resources">
-                        <NuxtImg
-                            src="/assets/images/icons/search.svg"
-                            alt="search"
-                            class="w-[50x]"
-                        />
+                    <NuxtLink class="menu-link mr-[7px]" to="/">
+                        <img src="/assets/images/icons/search.svg" alt="search" class="w-[50x]" />
                     </NuxtLink>
                 </li>
             </ul>

@@ -22,7 +22,7 @@
             <!-- Slide 1 -->
             <SwiperSlide class="min-h-dvh md:h-screen w-full">
                 <div
-                    class="relative py-10 md:py-0 min-h-dvh md:h-screen w-full bg-center bg-cover bg-no-repeat bg-[url('/assets/images/main-imgs/info-01.jpg')]"
+                    class="relative py-10 md:py-0 min-h-dvh md:h-screen w-full bg-center bg-cover bg-no-repeat bg-[url('/assets/images/main-imgs/info-01.webp')]"
                 >
                     <div class="absolute inset-0 bg-black opacity-30"></div>
                     <div
@@ -65,7 +65,7 @@
             <!-- Slide 2 -->
             <SwiperSlide class="min-h-dvh md:h-screen w-full">
                 <div
-                    class="relative py-10 md:py-0 min-h-dvh md:h-screen w-full bg-center bg-cover bg-no-repeat bg-[url('/assets/images/main-imgs/info-02.jpg')]"
+                    class="relative py-10 md:py-0 min-h-dvh md:h-screen w-full bg-center bg-cover bg-no-repeat bg-[url('/assets/images/main-imgs/info-02.webp')]"
                 >
                     <div class="absolute inset-0 bg-black opacity-30"></div>
                     <div
