@@ -13,7 +13,7 @@
             <p class="text-white text-md md:text-2xl mb-5" data-aos="fade-up" data-aos-delay="300">
                 Discover how we can help your business thrive sustainably.
             </p>
-            <div class="flex justify-center gap-5">
+            <div class="flex flex-col md:flex-row justify-center gap-5">
                 <NuxtLink
                     to="/about"
                     class="text-clamp text-white border-2 border-white py-2 px-5 rounded hover:bg-white hover:text-black transition-all duration-200"
