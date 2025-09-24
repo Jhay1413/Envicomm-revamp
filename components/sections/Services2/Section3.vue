@@ -22,7 +22,7 @@
                     Your site is not complete with only landings. Get essential inner pages using
                     our ready demos.
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-8.png"
                     alt="Feature image"
@@ -38,7 +38,7 @@
                     Your site is not complete with only landings. Get essential inner pages using
                     our ready demos.
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-9.png"
                     alt="Feature image"

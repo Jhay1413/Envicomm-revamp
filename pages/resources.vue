@@ -84,7 +84,7 @@
                 >
             </div>
             <div>
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/resources-bg.png"
                     class="w-full opacity-50"
                     alt=""

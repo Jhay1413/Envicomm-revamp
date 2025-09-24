@@ -53,30 +53,32 @@
                         <div class="w-full bg-gray-300 h-[1px] mb-[21px]"></div>
                         <ul class="mb-[76px]">
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Unlimited updates</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Custom permissions</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img src="/assets/images/icons/icon-close.svg" alt="icon" /><span
-                                    class="text-md text-gray-500"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-close.svg"
+                                    alt="icon"
+                                /><span class="text-md text-gray-500"
                                     >Custom designs & features</span
                                 >
                             </li>
@@ -90,7 +92,7 @@
                                 class="block text-inherit w-full h-full rounded-md text-lg font-semibold"
                                 >Get Started</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i
@@ -117,30 +119,32 @@
                         <div class="w-full bg-gray-300 h-[1px] mb-[21px]"></div>
                         <ul class="mb-[76px]">
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Unlimited updates</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Custom permissions</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img src="/assets/images/icons/icon-close.svg" alt="icon" /><span
-                                    class="text-md text-gray-500"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-close.svg"
+                                    alt="icon"
+                                /><span class="text-md text-gray-500"
                                     >Custom designs & features</span
                                 >
                             </li>
@@ -154,7 +158,7 @@
                                 class="block text-inherit w-full h-full rounded-md text-lg font-semibold"
                                 >Get Started</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i
@@ -181,30 +185,32 @@
                         <div class="w-full bg-gray-300 h-[1px] mb-[21px]"></div>
                         <ul class="mb-[76px]">
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Unlimited updates</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Custom permissions</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img src="/assets/images/icons/icon-close.svg" alt="icon" /><span
-                                    class="text-md text-gray-500"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-close.svg"
+                                    alt="icon"
+                                /><span class="text-md text-gray-500"
                                     >Custom designs & features</span
                                 >
                             </li>
@@ -218,7 +224,7 @@
                                 class="block text-inherit w-full h-full rounded-md text-lg font-semibold"
                                 >Get Started</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i
@@ -245,30 +251,32 @@
                         <div class="w-full bg-gray-300 h-[1px] mb-[21px]"></div>
                         <ul class="mb-[76px]">
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Unlimited updates</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img
+                                <NuxtImg
                                     class="tick-icon"
                                     src="/assets/images/icons/icon-tick.svg"
                                     alt="icon"
-                                /><img
+                                /><NuxtImg
                                     class="hidden tick-icon-active"
                                     src="/assets/images/icons/icon-tick-orange.svg"
                                     alt="icon"
                                 /><span class="text-md text-gray-500">Custom permissions</span>
                             </li>
                             <li class="flex items-center gap-[10px] mb-[17px]">
-                                <img src="/assets/images/icons/icon-close.svg" alt="icon" /><span
-                                    class="text-md text-gray-500"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-close.svg"
+                                    alt="icon"
+                                /><span class="text-md text-gray-500"
                                     >Custom designs & features</span
                                 >
                             </li>
@@ -282,7 +290,7 @@
                                 class="block text-inherit w-full h-full rounded-md text-lg font-semibold"
                                 >Get Started</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i

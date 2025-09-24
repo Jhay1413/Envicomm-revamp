@@ -12,10 +12,12 @@
                 </p>
                 <div class="flex items-center gap-5 mb-[22px]">
                     <NuxtLink to="#"
-                        ><img src="/assets/images/Apple-button.png" alt="app store link button"
+                        ><NuxtImg src="/assets/images/Apple-button.png" alt="app store link button"
                     /></NuxtLink>
                     <NuxtLink to="#"
-                        ><img src="/assets/images/google-play.png" alt="google store link button"
+                        ><NuxtImg
+                            src="/assets/images/google-play.png"
+                            alt="google store link button"
                     /></NuxtLink>
                 </div>
                 <div class="flex items-center gap-5">
@@ -29,7 +31,7 @@
                     </div>
                 </div>
             </div>
-            <img
+            <NuxtImg
                 class="absolute right-0 hidden w-[54%] lg:block lg:top-1/4 xl:top-[40px]"
                 src="/assets/images/app-block-img.png"
                 alt=""

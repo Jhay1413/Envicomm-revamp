@@ -9,7 +9,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-5 justify-items-center py-10 4k:py-40">
                 <!-- Mobile Image -->
                 <div class="md:hidden">
-                    <img :src="image" :alt="title" class="w-full" />
+                    <NuxtImg :src="image" :alt="title" class="w-full" />
                 </div>
 
                 <!-- Text -->
@@ -24,7 +24,7 @@
 
                 <!-- Desktop Image -->
                 <div class="hidden md:block">
-                    <img
+                    <NuxtImg
                         :src="image"
                         :alt="title"
                         class="w-full md:max-w-[500px] 4k:max-w-[1100px] absolute top-20 right-10 4k:right-40"

@@ -13,7 +13,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-1.png"
                         alt="product image"
@@ -40,7 +40,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-2.png"
                         alt="product image"
@@ -67,7 +67,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-3.png"
                         alt="product image"
@@ -94,7 +94,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-1.png"
                         alt="product image"
@@ -121,7 +121,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-2.png"
                         alt="product image"
@@ -148,7 +148,7 @@
                 class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]"
             >
                 <NuxtLink class="flex items-center" to="/single-product"
-                    ><img
+                    ><NuxtImg
                         class="h-full w-full object-cover max-w-[170px]"
                         src="/assets/images/product-sm-3.png"
                         alt="product image"

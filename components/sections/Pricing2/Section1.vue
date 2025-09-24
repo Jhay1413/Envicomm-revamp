@@ -1,5 +1,5 @@
 <template>
-    <img
+    <NuxtImg
         class="absolute w-full top-0 left-0 z-[-1] aspect-[1920/866]"
         src="/assets/images/pricing-2-bg.png"
         alt="image"
@@ -37,23 +37,32 @@
                 <ul class="text-white text-text px-5">
                     <li class="flex items-center justify-between mb-10 lg:mb-12">
                         <span>Unlimited updates</span
-                        ><img src="/assets/images/icons/icon-check-green.svg" alt="icon check" />
+                        ><NuxtImg
+                            src="/assets/images/icons/icon-check-green.svg"
+                            alt="icon check"
+                        />
                     </li>
                     <li class="flex items-center justify-between mb-10 lg:mb-12">
                         <span>Custom designs & features</span
-                        ><img src="/assets/images/icons/icon-check-green.svg" alt="icon check" />
+                        ><NuxtImg
+                            src="/assets/images/icons/icon-check-green.svg"
+                            alt="icon check"
+                        />
                     </li>
                     <li class="flex items-center justify-between mb-10 lg:mb-12">
                         <span>Custom permissions</span
-                        ><img src="/assets/images/icons/icon-check-green.svg" alt="icon check" />
+                        ><NuxtImg
+                            src="/assets/images/icons/icon-check-green.svg"
+                            alt="icon check"
+                        />
                     </li>
                     <li class="flex items-center justify-between mb-10 lg:mb-12">
                         <span>Custom instructors</span
-                        ><img src="/assets/images/icons/icon-x-green.svg" alt="icon X" />
+                        ><NuxtImg src="/assets/images/icons/icon-x-green.svg" alt="icon X" />
                     </li>
                     <li class="flex items-center justify-between mb-5">
                         <span>Many devices</span
-                        ><img src="/assets/images/icons/icon-x-green.svg" alt="icon X" />
+                        ><NuxtImg src="/assets/images/icons/icon-x-green.svg" alt="icon X" />
                     </li>
                 </ul>
             </div>
@@ -173,7 +182,7 @@
                         class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                         >Start free trial</span
                     ><i>
-                        <img
+                        <NuxtImg
                             class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                             src="/assets/images/icons/icon-right.svg"
                             alt="arrow right icon" /></i
@@ -187,7 +196,7 @@
                         class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                         >View plans comparison</span
                     ><i>
-                        <img
+                        <NuxtImg
                             class="ml-[7px] w-[12px] filter-black group-hover:filter-white"
                             src="/assets/images/icons/icon-right.svg"
                             alt="arrow right icon" /></i

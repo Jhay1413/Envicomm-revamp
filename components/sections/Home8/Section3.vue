@@ -19,7 +19,7 @@
         >
             <div class="rounded-2xl p-[25px] pb-[35px] border border-gray-200">
                 <div class="aspect-[408/275]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-2xl mb-[30px]"
                         src="/assets/images/destination-1.png"
                         alt="Img"
@@ -36,7 +36,7 @@
             </div>
             <div class="rounded-2xl p-[25px] pb-[35px] border border-gray-200">
                 <div class="aspect-[408/275]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-2xl mb-[30px]"
                         src="/assets/images/destination-1.png"
                         alt="Img"
@@ -53,7 +53,7 @@
             </div>
             <div class="rounded-2xl p-[25px] pb-[35px] border border-gray-200">
                 <div class="aspect-[408/275]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-2xl mb-[30px]"
                         src="/assets/images/destination-1.png"
                         alt="Img"
@@ -76,7 +76,7 @@
                 ><span class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                     >Discover More</span
                 ><i>
-                    <img
+                    <NuxtImg
                         class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                         src="/assets/images/icons/icon-right.svg"
                         alt="arrow right icon"

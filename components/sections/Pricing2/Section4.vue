@@ -22,7 +22,7 @@
                     Your site is not complete with only landings. Get essential inner pages using
                     our ready demos.
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-8.png"
                     alt="Feature image"
@@ -38,7 +38,7 @@
                     Your site is not complete with only landings. Get essential inner pages using
                     our ready demos.
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-9.png"
                     alt="Feature image"
@@ -49,7 +49,7 @@
             class="bg-gray-100 relative p-[40px] md:pt-[91px] md:pr-[98px] md:pb-[86px] md:pl-[92px] mt-[260px] rounded-[56px]"
         >
             <div class="mx-auto relative max-w-[1320px]">
-                <img
+                <NuxtImg
                     class="absolute right-0 max-w-[129px] top-[-50px]"
                     src="/assets/images/mail.png"
                     alt="mail image"
@@ -70,7 +70,9 @@
                     <div>
                         <div class="flex gap-[13px] mb-[15px] md:mb-[25px]">
                             <i>
-                                <img src="/assets/images/icons/icon-home-fill.svg" alt="home icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-home-fill.svg"
+                                    alt="home icon"
                             /></i>
                             <p class="text-heading-6 font-bold">Envi-Comm</p>
                         </div>
@@ -119,7 +121,7 @@
                                 type="submit"
                             >
                                 Send Message<i>
-                                    <img
+                                    <NuxtImg
                                         class="ml-[7px] w-[12px] filter-white"
                                         src="/assets/images/icons/icon-right.svg"
                                         alt="arrow right icon"
@@ -155,7 +157,7 @@
                             class="rounded-full bg-green-900 grid place-items-center w-[56px] h-[56px]"
                             type="submit"
                         >
-                            <img
+                            <NuxtImg
                                 class="filter-white"
                                 src="/assets/images/icons/icon-right.svg"
                                 alt=""
@@ -165,11 +167,11 @@
                 </form>
             </div>
             <div class="relative flex-1">
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover rounded-2xl img-shadow lg:absolute lg:max-w-[332px] lg:h-[403px] lg:right-0"
                     src="/assets/images/thumbnail-2.png"
                     alt="Img"
-                /><img
+                /><NuxtImg
                     class="h-full w-full object-cover absolute animate-float max-w-[225px] max-h-[170px] rounded-[14px] bottom-[-20px] left-[-10px]"
                     src="/assets/images/chart.png"
                     alt="Img"

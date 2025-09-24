@@ -32,7 +32,7 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Members</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
@@ -52,7 +52,7 @@
                                 class="ml-3 text-gray-400 border text-sm font-bold px-[5px] rounded-[20px] border-[#818B98]"
                                 >soon</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
@@ -74,7 +74,7 @@
                                 class="ml-3 text-gray-400 border text-sm font-bold px-[5px] rounded-[20px] border-[#818B98]"
                                 >soon</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
@@ -82,7 +82,7 @@
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -96,21 +96,21 @@
                                 class="ml-3 text-gray-400 border text-sm font-bold px-[5px] rounded-[20px] border-[#818B98]"
                                 >soon</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -121,21 +121,21 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Integration of sub-brands</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -146,27 +146,27 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Access to standard templates</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -177,21 +177,21 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Access to pro templates</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -202,7 +202,7 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Custom designed templates</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
@@ -210,7 +210,7 @@
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]"></td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
@@ -221,27 +221,27 @@
                         <td class="text-left p-[15px] rounded-tl-[5px] rounded-bl-[5px]">
                             <span>Asset library</span
                             ><i class="inline-block align-middle ml-3"
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-question-gray.svg"
                                     alt="question mark icon"
                             /></i>
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"
                             />
                         </td>
                         <td class="p-[15px] last:rounded-tr-[5px] last:rounded-br-[5px]">
-                            <img
+                            <NuxtImg
                                 class="mx-auto"
                                 src="/assets/images/icons/icon-checkmark.svg"
                                 alt="checkmark icon"

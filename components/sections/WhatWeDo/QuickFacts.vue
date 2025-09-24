@@ -2,7 +2,7 @@
     <section
         class="bg-[url('/assets/images/main-imgs/what-we-do/quick-facts.jpg')] bg-cover bg-left md:bg-center min-h-screen 4k:min-h-[1800px] text-white py-20"
     >
-        <!-- <img
+        <!-- <NuxtImg
             src="/assets/images/main-imgs/what-we-do/quick-facts-mobile.jpg"
             alt="quick facts"
             class="md:hidden w-full"

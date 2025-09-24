@@ -1,7 +1,7 @@
 <template>
     <div class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] lg:mt-[150px]">
         <div class="lg:grid lg:grid-cols-2 gap-[150px]">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover order-first rounded-2xl mb-[30px] lg:mb-0 lg:flex-1"
                 src="/assets/images/thumbnail-24.png"
                 alt="Img"
@@ -23,7 +23,7 @@
                 <div class="md:grid md:grid-cols-2 md:gap-y-[34px] lg:gap-x-[70px]">
                     <div class="mb-[30px] lg:mb-0">
                         <div class="flex items-center mb-[17px]">
-                            <img
+                            <NuxtImg
                                 class="mr-[9px]"
                                 src="/assets/images/icons/icon-leaf.svg"
                                 alt="leaf icon"
@@ -36,7 +36,7 @@
                     </div>
                     <div class="mb-[30px] lg:mb-0">
                         <div class="flex items-center mb-[17px]">
-                            <img
+                            <NuxtImg
                                 class="mr-[9px]"
                                 src="/assets/images/icons/icon-leaf.svg"
                                 alt="leaf icon"
@@ -49,7 +49,7 @@
                     </div>
                     <div class="mb-[30px] lg:mb-0">
                         <div class="flex items-center mb-[17px]">
-                            <img
+                            <NuxtImg
                                 class="mr-[9px]"
                                 src="/assets/images/icons/icon-leaf.svg"
                                 alt="leaf icon"
@@ -62,7 +62,7 @@
                     </div>
                     <div class="mb-[30px] lg:mb-0">
                         <div class="flex items-center mb-[17px]">
-                            <img
+                            <NuxtImg
                                 class="mr-[9px]"
                                 src="/assets/images/icons/icon-leaf.svg"
                                 alt="leaf icon"

@@ -3,7 +3,7 @@
         class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] flex items-center flex-col md:flex-row lg:mt-[112px] gap-[35px] md:gap-[85px]"
     >
         <div class="flex-1">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover"
                 src="/assets/images/main-imgs/header-02.png"
                 alt="Img"
@@ -23,7 +23,7 @@
                     <div
                         class="input-shadow grid place-items-center w-[64px] h-[64px] rounded-[36px]"
                     >
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[25px] max-h-[25px]"
                             src="/assets/images/icons/icon-user.svg"
                             alt="icon"
@@ -45,7 +45,7 @@
                     <div
                         class="input-shadow grid place-items-center w-[64px] h-[64px] rounded-[36px]"
                     >
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[25px] max-h-[25px]"
                             src="/assets/images/icons/icon-destination.svg"
                             alt="icon"
@@ -67,7 +67,7 @@
                     <div
                         class="input-shadow grid place-items-center w-[64px] h-[64px] rounded-[36px]"
                     >
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[25px] max-h-[25px]"
                             src="/assets/images/icons/icon-paperplane.svg"
                             alt="icon"

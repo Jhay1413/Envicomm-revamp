@@ -1,7 +1,7 @@
 <template>
     <div class="full-width relative">
         <div class="aspect-[384/91] h-[350px] md:h-[455px]">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover"
                 src="/assets/images/hero-single.png"
                 alt="Img"

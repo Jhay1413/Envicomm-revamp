@@ -9,27 +9,27 @@
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-1.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-1.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-2.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-2.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-3.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-3.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-4.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-4.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px] md:col-start-2 lg:col-start-auto"
                 to="#"
-                ><img src="/assets/images/partner-logo-5.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-5.svg" alt="partner logo"
             /></NuxtLink>
         </div>
         <div class="w-full bg-gray-300 h-[1px] mb-[50px] md:mb-[90px] lg:mb-[150px]"></div>

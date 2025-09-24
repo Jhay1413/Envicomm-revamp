@@ -16,7 +16,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-computer.svg"
                         alt="computer icon"
@@ -29,7 +29,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-mobile.svg"
                         alt="computer icon"
@@ -42,7 +42,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-headphone.svg"
                         alt="computer icon"
@@ -55,7 +55,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-laptop.svg"
                         alt="computer icon"
@@ -68,7 +68,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-printer.svg"
                         alt="computer icon"
@@ -81,7 +81,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-tablet.svg"
                         alt="computer icon"
@@ -94,7 +94,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-usb.svg"
                         alt="computer icon"
@@ -107,7 +107,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-mouse.svg"
                         alt="computer icon"
@@ -120,7 +120,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-shield.svg"
                         alt="computer icon"
@@ -133,7 +133,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-watch.svg"
                         alt="computer icon"
@@ -146,7 +146,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-scanner.svg"
                         alt="computer icon"
@@ -159,7 +159,7 @@
                 class="rounded-2xl border border-gray-200 py-8 text-center transition-all duration-200 group hover:border-bg-6 hover:translate-y-[-2px]"
             >
                 <NuxtLink class="block" to="#">
-                    <img
+                    <NuxtImg
                         class="mb-5 mx-auto transition-all duration-200 group-hover:filter-green"
                         src="/assets/images/icons/icon-book.svg"
                         alt="computer icon"

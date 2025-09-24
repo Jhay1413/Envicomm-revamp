@@ -50,12 +50,12 @@
 
         <li class="flex items-center group">
             <NuxtLink class="menu-link mr-[7px]" to="/coming-soon">
-                <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
+                <NuxtImg src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
             </NuxtLink>
         </li>
         <li class="flex items-center group">
             <NuxtLink class="menu-link mr-[7px]" to="/coming-soon">
-                <img src="/assets/images/icons/search.svg" alt="search" class="w-[50x]" />
+                <NuxtImg src="/assets/images/icons/search.svg" alt="search" class="w-[50x]" />
             </NuxtLink>
         </li>
     </ul>

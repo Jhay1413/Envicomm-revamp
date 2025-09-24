@@ -3,7 +3,11 @@
         class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] flex flex-col justify-center items-center text-center lg:mt-[161px]"
     >
         <div class="max-w-[565px] mb-[50px]">
-            <img class="h-full w-full object-cover" src="/assets/images/404.png" alt="404 image" />
+            <NuxtImg
+                class="h-full w-full object-cover"
+                src="/assets/images/404.png"
+                alt="404 image"
+            />
         </div>
         <h1
             class="text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 font-extrabold mb-7"
@@ -20,7 +24,7 @@
                 ><span class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                     >Back to Homepage</span
                 ><i>
-                    <img
+                    <NuxtImg
                         class="mr-4 rotate-180 filter-white w-[12px] group-hover:filter-black"
                         src="/assets/images/icons/icon-right.svg"
                         alt="arrow right icon" /></i

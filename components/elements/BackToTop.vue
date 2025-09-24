@@ -9,7 +9,7 @@
             @click="scrollToTop"
             aria-label="Scroll to top"
         >
-            <img
+            <NuxtImg
                 src="/assets/images/icons/icon-angle-left.svg"
                 alt="to top icon"
                 style="transform: rotate(90deg)"

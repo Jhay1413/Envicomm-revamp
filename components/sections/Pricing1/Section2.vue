@@ -17,7 +17,7 @@
             <div
                 class="flex items-start gap-5 transition-all duration-300 mb-[33px] hover:translate-y-[-3px] border-b border-gray-200 pb-[50px] last:mb-0 flex-col"
             >
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover max-w-[64px]"
                     src="/assets/images/icons/icon-resources.svg"
                     alt="icon"
@@ -35,7 +35,7 @@
             <div
                 class="flex items-start gap-5 transition-all duration-300 mb-[33px] hover:translate-y-[-3px] border-b border-gray-200 pb-[50px] last:mb-0 flex-col"
             >
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover max-w-[64px]"
                     src="/assets/images/icons/icon-cards.svg"
                     alt="icon"
@@ -53,7 +53,7 @@
             <div
                 class="flex items-start gap-5 transition-all duration-300 mb-[33px] hover:translate-y-[-3px] border-b border-gray-200 pb-[50px] flex-col"
             >
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover max-w-[64px]"
                     src="/assets/images/icons/icon-stats.svg"
                     alt="icon"

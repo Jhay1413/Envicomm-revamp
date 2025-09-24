@@ -14,7 +14,7 @@
         >
             <div class="content order-last col-span-2 md:ml-[78px] md:mr-[50px]">
                 <div class="mb-12 aspect-[824/398]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-2xl"
                         src="/assets/images/thumbnail-1.png"
                         alt="Img"

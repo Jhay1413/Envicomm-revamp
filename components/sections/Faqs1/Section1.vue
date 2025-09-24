@@ -1,5 +1,5 @@
 <template>
-    <img
+    <NuxtImg
         class="h-full w-full object-cover absolute top-0 left-0 z-0 md:!object-fill max-h-[500px] lg:max-h-[600px]"
         src="/assets/images/faqs-1-bg.png"
         alt="background"

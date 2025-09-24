@@ -4,27 +4,27 @@
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-1.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-1.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-2.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-2.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-3.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-3.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px]"
                 to="#"
-                ><img src="/assets/images/partner-logo-4.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-4.svg" alt="partner logo"
             /></NuxtLink>
             <NuxtLink
                 class="transition-all duration-300 partner-item p-[15px] md:pr-[15px] xl:w-auto lg:w-[184px] hover:translate-y-[-3px] md:col-start-2 lg:col-start-auto"
                 to="#"
-                ><img src="/assets/images/partner-logo-5.svg" alt="partner logo"
+                ><NuxtImg src="/assets/images/partner-logo-5.svg" alt="partner logo"
             /></NuxtLink>
         </div>
         <div
@@ -49,7 +49,7 @@
                             class="rounded-full bg-green-900 grid place-items-center w-[56px] h-[56px]"
                             type="submit"
                         >
-                            <img
+                            <NuxtImg
                                 class="filter-white"
                                 src="/assets/images/icons/icon-right.svg"
                                 alt=""
@@ -59,11 +59,11 @@
                 </form>
             </div>
             <div class="relative flex-1">
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover rounded-2xl img-shadow lg:absolute lg:max-w-[332px] lg:h-[403px] lg:right-0"
                     src="/assets/images/thumbnail-2.png"
                     alt="Img"
-                /><img
+                /><NuxtImg
                     class="h-full w-full object-cover absolute animate-float max-w-[225px] max-h-[170px] rounded-[14px] bottom-[-20px] left-[-10px]"
                     src="/assets/images/chart.png"
                     alt="Img"

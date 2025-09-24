@@ -17,7 +17,7 @@
             sustainable development programs and systems.
         </h3>
         <div class="relative mx-auto max-w-[1190px]">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover rounded-2xl"
                 src="/assets/images/thumbnail-22.png"
                 alt="Img"
@@ -26,7 +26,7 @@
         @click="openVideo"
         class="rounded-full bg-white grid place-items-center absolute play-video w-[60px] h-[60px] md:w-[138px] md:h-[138px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
       >
-        <img
+        <NuxtImg
           src="/assets/images/icons/icon-play.svg"
           alt="play button"
           width="26"

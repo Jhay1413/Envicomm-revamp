@@ -22,7 +22,7 @@
                     blueprints or construction drawings, are detailed documents created by
                     architects and other design professionals .
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-8.png"
                     alt="Feature image"
@@ -38,7 +38,7 @@
                     Community Based Forest Management Agreement (CBFMA) - This is a production
                     sharing agreement .
                 </p>
-                <img
+                <NuxtImg
                     class="p-5 rounded-2xl object-cover mx-auto w-full bg-[#EBECF4]"
                     src="/assets/images/thumbnail-9.png"
                     alt="Feature image"

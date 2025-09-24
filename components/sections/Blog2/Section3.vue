@@ -26,7 +26,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-3.png"
                                 alt="Img"
@@ -53,7 +53,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-4.png"
                                 alt="Img"
@@ -80,7 +80,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-5.png"
                                 alt="Img"
@@ -107,7 +107,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-1.png"
                                 alt="Img"
@@ -134,7 +134,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-3.png"
                                 alt="Img"
@@ -161,7 +161,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-4.png"
                                 alt="Img"
@@ -188,7 +188,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-1.png"
                                 alt="Img"
@@ -215,7 +215,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-3.png"
                                 alt="Img"
@@ -242,7 +242,7 @@
                 <div class="relative mb-16">
                     <div class="relative">
                         <div class="pr-[26px] aspect-[430/275]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-4.png"
                                 alt="Img"
@@ -266,7 +266,7 @@
                 ><span class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                     >Load more posts</span
                 ><i>
-                    <img
+                    <NuxtImg
                         class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                         src="/assets/images/icons/icon-right.svg"
                         alt="arrow right icon" /></i

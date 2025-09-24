@@ -17,7 +17,7 @@
             <div class="flex items-center gap-6">
                 <div class="flex items-center relative gap-[5px]">
                     <label class="flex items-center gap-[5px]" for="show"
-                        ><img src="/assets/images/icons/icon-grid.svg" alt="grid icon" /><span
+                        ><NuxtImg src="/assets/images/icons/icon-grid.svg" alt="grid icon" /><span
                             class="text-text text-gray-500"
                             >Show:</span
                         ></label
@@ -30,7 +30,7 @@
                         <option class="text-green-900" value="50">50</option>
                         <option class="text-green-900" value="100">100</option>
                         <option class="text-green-900" value="150">150</option></select
-                    ><img
+                    ><NuxtImg
                         class="filter-gray-500 absolute right-0 pointer-events-none w-[13px] h-[7px]"
                         src="/assets/images/icons/icon-angle-down.svg"
                         alt="caret icon"
@@ -38,7 +38,7 @@
                 </div>
                 <div class="flex items-center relative gap-[5px]">
                     <label class="flex items-center gap-[5px]" for="show"
-                        ><img src="/assets/images/icons/icon-sort.svg" alt="grid icon" /><span
+                        ><NuxtImg src="/assets/images/icons/icon-sort.svg" alt="grid icon" /><span
                             class="text-text text-gray-500"
                             >Sort by:</span
                         ></label
@@ -51,7 +51,7 @@
                         <option class="text-green-900" value="Featured">Featured</option>
                         <option class="text-green-900" value="Rating">Rating</option>
                         <option class="text-green-900" value="Low Price">Low Price</option></select
-                    ><img
+                    ><NuxtImg
                         class="filter-gray-500 absolute right-0 pointer-events-none w-[13px] h-[7px]"
                         src="/assets/images/icons/icon-angle-down.svg"
                         alt="caret icon"
@@ -68,7 +68,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-1.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-1.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -77,19 +79,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -103,38 +107,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[80%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -165,7 +169,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-2.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-2.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -174,19 +180,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -200,38 +208,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[40%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -262,7 +270,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-3.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-3.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -271,19 +281,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -297,38 +309,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[60%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -359,7 +371,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-4.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-4.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -368,19 +382,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -394,38 +410,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[100%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -456,7 +472,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-3.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-3.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -465,19 +483,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -491,38 +511,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[20%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -553,7 +573,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-1.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-1.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -562,19 +584,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -588,38 +612,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[40%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -650,7 +674,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-2.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-2.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -659,19 +685,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -685,38 +713,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[60%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -747,7 +775,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-4.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-4.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -756,19 +786,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -782,38 +814,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[40%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -844,7 +876,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-1.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-1.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -853,19 +887,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -879,38 +915,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[80%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -941,7 +977,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-3.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-3.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -950,19 +988,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -976,38 +1016,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[40%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -1038,7 +1078,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-1.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-1.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -1047,19 +1089,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -1073,38 +1117,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[80%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -1135,7 +1179,9 @@
                 >
                     <div class="relative">
                         <NuxtLink to="/single-product">
-                            <img src="/assets/images/product-md-2.png" alt="featured image product"
+                            <NuxtImg
+                                src="/assets/images/product-md-2.png"
+                                alt="featured image product"
                         /></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible"
@@ -1144,19 +1190,21 @@
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-heart.svg" alt="heart icon"
+                                <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="heart icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon"
+                                <NuxtImg
+                                    src="/assets/images/icons/icon-shuffle.svg"
+                                    alt="shuffle icon"
                             /></NuxtLink>
                             <NuxtLink
                                 class="grid place-items-center hover:bg-gray-200 w-[48px] h-[48px]"
                                 to="#"
                             >
-                                <img src="/assets/images/icons/icon-eye.svg" alt="eye icon"
+                                <NuxtImg src="/assets/images/icons/icon-eye.svg" alt="eye icon"
                             /></NuxtLink>
                         </div>
                     </div>
@@ -1170,38 +1218,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[100%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -1233,7 +1281,7 @@
             <div
                 class="grid place-items-center bg-gray-200 rounded-full cursor-pointer group transition-colors duration-200 w-[40px] h-[40px] xl:w-[50px] xl:h-[50px] hover:bg-green-900 product-prev"
             >
-                <img
+                <NuxtImg
                     class="group-hover:filter-white"
                     src="/assets/images/icons/icon-arrow-left.svg"
                     alt="control icon button"
@@ -1243,7 +1291,7 @@
             <div
                 class="grid place-items-center bg-gray-200 rounded-full cursor-pointer group transition-colors duration-200 w-[40px] h-[40px] xl:w-[50px] xl:h-[50px] hover:bg-green-900 product-next"
             >
-                <img
+                <NuxtImg
                     class="group-hover:filter-white"
                     src="/assets/images/icons/icon-arrow-right.svg"
                     alt="control icon button"

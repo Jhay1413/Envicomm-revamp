@@ -7,7 +7,7 @@
             class="px-[12px] md:px-[36px] xl:px-0 mt-0 flex items-center justify-between mx-auto relative md:max-w-[90%]"
         >
             <NuxtLink class="flex" href="/"
-                ><img
+                ><NuxtImg
                     class="logo z-50 w-[90px] md:w-[90px] lg:w-[122px] xl:w-[138px]"
                     src="/assets/images/main-imgs/main-logo-light.png"
                     alt="logo image"
@@ -15,12 +15,20 @@
             <ul class="flex items-center gap-5 md:hidden mr-[50px]">
                 <li class="flex items-center group">
                     <NuxtLink class="menu-link mr-[7px]" to="/resources">
-                        <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
+                        <NuxtImg
+                            src="/assets/images/icons/contact.svg"
+                            alt="contact"
+                            class="w-[50x]"
+                        />
                     </NuxtLink>
                 </li>
                 <li class="flex items-center group">
                     <NuxtLink class="menu-link mr-[7px]" to="/resources">
-                        <img src="/assets/images/icons/search.svg" alt="search" class="w-[50x]" />
+                        <NuxtImg
+                            src="/assets/images/icons/search.svg"
+                            alt="search"
+                            class="w-[50x]"
+                        />
                     </NuxtLink>
                 </li>
             </ul>
@@ -37,7 +45,7 @@
                             class="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold "
                             >Contact Us</span
                         ><i>
-                            <img
+                            <NuxtImg
                                 class="ml-[7px] w-[12px] filter-black group-hover:filter-white"
                                 src="/assets/images/icons/icon-right.svg"
                                 alt="arrow right icon" /></i

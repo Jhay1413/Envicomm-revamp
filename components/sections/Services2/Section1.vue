@@ -19,14 +19,14 @@
                     ><span class="block text-inherit w-full h-full rounded-md text-lg font-semibold"
                         >Get Start</span
                     ><i>
-                        <img
+                        <NuxtImg
                             class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                             src="/assets/images/icons/icon-right.svg"
                             alt="arrow right icon" /></i
                 ></NuxtLink>
             </button>
             <div class="flex items-center gap-3">
-                <i> <img src="/assets/images/icons/icon-button.svg" alt="" /></i>
+                <i> <NuxtImg src="/assets/images/icons/icon-button.svg" alt="" /></i>
                 <NuxtLink
                     class="text-base flex items-center font-medium text-[18px] leading-[18px] gap-[5px]"
                     to="/"
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="relative mx-auto max-w-[1190px]">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover rounded-2xl"
                 src="/assets/images/hero-services-2.png"
                 alt="Img"

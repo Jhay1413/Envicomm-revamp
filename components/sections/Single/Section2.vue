@@ -6,11 +6,11 @@
             class="flex flex-col items-center gap-6 follow-scroll translate-x-[-106px] absolute top-0"
         >
             <p class="text-heading-6 font-bold text-gray-400">Share</p>
-            <NuxtLink to="#"> <img src="/assets/images/icons/icon-fb.svg" alt="" /></NuxtLink>
+            <NuxtLink to="#"> <NuxtImg src="/assets/images/icons/icon-fb.svg" alt="" /></NuxtLink>
             <NuxtLink to="#">
-                <img src="/assets/images/icons/icon-twitter-black.svg" alt=""
+                <NuxtImg src="/assets/images/icons/icon-twitter-black.svg" alt=""
             /></NuxtLink>
-            <NuxtLink to="#"> <img src="/assets/images/icons/icon-pi.svg" alt="" /></NuxtLink>
+            <NuxtLink to="#"> <NuxtImg src="/assets/images/icons/icon-pi.svg" alt="" /></NuxtLink>
         </div>
         <p class="font-bold mb-6 md:mb-9">
             The fancy moon going in little artist painting. Thirty days of lavender in the dreamy
@@ -20,7 +20,7 @@
         </p>
         <div class="flex items-center justify-between mb-7 md:mb-[57px]">
             <div class="flex items-center gap-[15px]">
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover rounded-full max-w-[55px]"
                     src="/assets/images/avatar-11.png"
                     alt="avatar"
@@ -38,7 +38,7 @@
             >
         </div>
         <div class="mb-6 md:mb-9">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover"
                 src="/assets/images/thumbnail-19.png"
                 alt="post image"
@@ -67,7 +67,7 @@
             class="bg-green-900 grid place-items-center px-5 rounded-[20px] pb-[45px] pt-[45px] md:pb-[77px] mb-[49px]"
         >
             <div class="text-center max-w-[625px]">
-                <img
+                <NuxtImg
                     class="mb-5 mx-auto scale-75 md:mb-7 md:scale-100"
                     src="/assets/images/icons/icon-left-quote.svg"
                     alt="quote icon"
@@ -78,7 +78,7 @@
                     dramatically place.
                 </p>
                 <div class="flex items-center justify-center scale-75 gap-[15px] md:scale-100">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[55px]"
                         src="/assets/images/avatar-7.png"
                         alt="avatar"
@@ -107,7 +107,7 @@
                 </p>
             </div>
             <div>
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover rounded-2xl"
                     src="/assets/images/thumbnail-20.png"
                     alt="Img"
@@ -122,15 +122,15 @@
         </p>
         <figure class="mb-8 md:mb-12">
             <div class="grid md:grid-cols-2 gap-[30px]">
-                <img
+                <NuxtImg
                     class="h-full w-full object-cover rounded-2xl row-span-2"
                     src="/assets/images/post-img-1.png"
                     alt="post image"
-                /><img
+                /><NuxtImg
                     class="h-full w-full object-cover rounded-2xl"
                     src="/assets/images/post-img-2.png"
                     alt="post image"
-                /><img
+                /><NuxtImg
                     class="h-full w-full object-cover rounded-2xl"
                     src="/assets/images/post-img-3.png"
                     alt="post image"
@@ -196,7 +196,7 @@
                 class="flex items-start flex-col gap-5 md:gap-[100px] mb-[30px] md:mb-[42px] md:flex-row"
             >
                 <div class="flex items-center gap-[15px] w-[190px]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[55px]"
                         src="/assets/images/avatar-11.png"
                         alt="avatar"
@@ -219,7 +219,7 @@
                 class="flex items-start flex-col gap-5 md:gap-[100px] mb-[30px] md:mb-[42px] md:flex-row"
             >
                 <div class="flex items-center gap-[15px] w-[190px]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[55px]"
                         src="/assets/images/avatar-8.png"
                         alt="avatar"
@@ -242,7 +242,7 @@
                 class="flex items-start flex-col gap-5 md:gap-[100px] mb-[30px] md:mb-[42px] md:flex-row ml-[50px] md:ml-0"
             >
                 <div class="flex items-center gap-[15px] w-[190px] md:translate-x-[50px]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[55px]"
                         src="/assets/images/avatar-1.png"
                         alt="avatar"
@@ -285,7 +285,7 @@
                             id="post-comment"
                             type="checkbox"
                             name="post-comment"
-                        /><img
+                        /><NuxtImg
                             class="absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 peer-checked:block"
                             src="/assets/images/icons/icon-check-gray.svg"
                             alt="checked icon"

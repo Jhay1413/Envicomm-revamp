@@ -1,7 +1,7 @@
 <template>
     <div class="bg-[#EBF5D7] relative py-10 md:py-20 px-10 md:px-20 my-[150px] rounded-[58px]">
         <div class="mx-auto relative max-w-[1320px]">
-            <img
+            <NuxtImg
                 class="absolute right-0 max-w-[129px] top-[-50px] hidden lg:block"
                 src="/assets/images/mail.png"
                 alt="mail image"
@@ -22,7 +22,7 @@
                 <div class="md:max-w-[25%]">
                     <div class="flex gap-[13px] mb-[15px] md:mb-[25px]">
                         <i>
-                            <img src="/assets/images/icons/icon-home-fill.svg" alt="home icon"
+                            <NuxtImg src="/assets/images/icons/icon-home-fill.svg" alt="home icon"
                         /></i>
                         <p class="text-heading-6 font-bold">Envi-Comm</p>
                     </div>
@@ -105,7 +105,7 @@
                             type="submit"
                         >
                             Send Message<i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon"

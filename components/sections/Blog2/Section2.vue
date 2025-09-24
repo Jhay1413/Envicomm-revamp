@@ -14,7 +14,7 @@
             <div class="relative cursor-pointer">
                 <div class="relative">
                     <div class="pr-[26px] aspect-[458/557]">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover rounded-2xl z-10 relative"
                             src="/assets/images/thumbnail-3.png"
                             alt="Img"
@@ -39,7 +39,7 @@
                     facilisis magna etiam.
                 </p>
                 <div class="flex items-center gap-[15px]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[60px]"
                         src="/assets/images/avatar-12.png"
                         alt="avatar"
@@ -55,7 +55,7 @@
             <div class="relative cursor-pointer">
                 <div class="relative">
                     <div class="pr-[26px] aspect-[458/557]">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover rounded-2xl z-10 relative"
                             src="/assets/images/thumbnail-4.png"
                             alt="Img"
@@ -80,7 +80,7 @@
                     facilisis magna etiam.
                 </p>
                 <div class="flex items-center gap-[15px]">
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover rounded-full max-w-[60px]"
                         src="/assets/images/avatar-11.png"
                         alt="avatar"
@@ -102,7 +102,7 @@
                             Design Studios That Everyone Should Know
                         </p>
                         <div class="flex items-center gap-[11px]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-full max-w-[42px]"
                                 src="/assets/images/avatar-11.png"
                                 alt="avatar"
@@ -115,7 +115,7 @@
                     </div>
                     <div class="relative flex-1 max-w-[133px]">
                         <div class="pr-[13px] aspect-square">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-1.png"
                                 alt="Img"
@@ -138,7 +138,7 @@
                             Design Studios That Everyone Should Know
                         </p>
                         <div class="flex items-center gap-[11px]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-full max-w-[42px]"
                                 src="/assets/images/avatar-10.png"
                                 alt="avatar"
@@ -151,7 +151,7 @@
                     </div>
                     <div class="relative flex-1 max-w-[133px]">
                         <div class="pr-[13px] aspect-square">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-2.png"
                                 alt="Img"
@@ -174,7 +174,7 @@
                             Design Studios That Everyone Should Know
                         </p>
                         <div class="flex items-center gap-[11px]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-full max-w-[42px]"
                                 src="/assets/images/avatar-9.png"
                                 alt="avatar"
@@ -187,7 +187,7 @@
                     </div>
                     <div class="relative flex-1 max-w-[133px]">
                         <div class="pr-[13px] aspect-square">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-3.png"
                                 alt="Img"
@@ -210,7 +210,7 @@
                             Design Studios That Everyone Should Know
                         </p>
                         <div class="flex items-center gap-[11px]">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-full max-w-[42px]"
                                 src="/assets/images/avatar-8.png"
                                 alt="avatar"
@@ -223,7 +223,7 @@
                     </div>
                     <div class="relative flex-1 max-w-[133px]">
                         <div class="pr-[13px] aspect-square">
-                            <img
+                            <NuxtImg
                                 class="h-full w-full object-cover rounded-2xl z-10 relative"
                                 src="/assets/images/thumbnail-4.png"
                                 alt="Img"

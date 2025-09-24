@@ -29,7 +29,7 @@
                         class="relative z-10 md:py-5 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-02-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -63,7 +63,7 @@
                         class="relative z-10 md:py-5 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-01-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -96,7 +96,7 @@
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-03-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -132,7 +132,7 @@
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-04-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -170,7 +170,7 @@
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-05-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -205,7 +205,7 @@
                         class="relative z-10 md:px-20 flex flex-col text-center md:text-start md:justify-center md:gap-5 min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)]"
                     >
                         <div class="md:hidden w-full">
-                            <img
+                            <NuxtImg
                                 src="/assets/images/main-imgs/slider-06-phone.jpg"
                                 class="w-full"
                                 alt=""
@@ -285,13 +285,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_01.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -313,13 +313,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_02.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -339,13 +339,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_03.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -367,13 +367,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_04.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -393,13 +393,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_05.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -421,13 +421,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_06.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -449,13 +449,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_07.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -477,13 +477,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_08.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -505,13 +505,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_09.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -531,13 +531,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_10.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -559,13 +559,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_11.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"
@@ -587,13 +587,13 @@
                     <div
                         class="absolute inset-0 bg-[#86B93F]/50 opacity-0 group-hover:opacity-100 group-active:opacity-0 transition-all duration-300 w-full h-full z-20"
                     ></div>
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/service-hover.jpg"
                         alt="planning"
                         class="absolute inset-0 w-full h-full object-cover object-center opacity-0 group-hover:opacity-100 transition-all duration-300 z-10"
                         loading="lazy"
                     />
-                    <img
+                    <NuxtImg
                         src="/assets/images/main-imgs/what_we_do_12.jpg"
                         alt="planning"
                         class="absolute inset-0 z-[-1] w-full h-full object-cover object-center transition-all duration-300"

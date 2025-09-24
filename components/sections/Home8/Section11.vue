@@ -27,13 +27,13 @@
                 </div>
             </div>
             <div class="md:me-20">
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/leaf-01.png"
                     class="absolute w-[400px] -top-40 -right-[290px] hidden md:block"
                     alt="leaf"
                 />
-                <img src="/assets/images/main-imgs/table.png" class="w-full" alt="table" />
-                <img
+                <NuxtImg src="/assets/images/main-imgs/table.png" class="w-full" alt="table" />
+                <NuxtImg
                     src="/assets/images/main-imgs/leaf-02.png"
                     class="absolute -bottom-40 -right-[190px] hidden md:block"
                     alt="leaf"

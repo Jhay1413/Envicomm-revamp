@@ -21,7 +21,7 @@
                     <div
                         class="tap1 place-items-center border border-gray-200 bg-gray-100 rounded-full cursor-pointer group transition-colors duration-200 w-[48px] xl:w-[64px] h-[48px] xl:h-[64px] hover:bg-[#547326] feedback-prev grid"
                     >
-                        <img
+                        <NuxtImg
                             class="group-hover:filter-white"
                             src="/assets/images/icons/icon-prev.svg"
                             alt="control icon button"
@@ -30,7 +30,7 @@
                     <div
                         class="tan1 place-items-center border border-gray-200 bg-gray-100 rounded-full cursor-pointer group transition-colors duration-200 w-[48px] xl:w-[64px] h-[48px] xl:h-[64px] hover:bg-[#547326] feedback-next grid"
                     >
-                        <img
+                        <NuxtImg
                             class="group-hover:filter-white"
                             src="/assets/images/icons/icon-next.svg"
                             alt="control icon button"

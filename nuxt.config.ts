@@ -41,7 +41,11 @@ export default defineNuxtConfig({
         "nuxt-aos",
         "nuxt-gtag",
         "@vee-validate/nuxt",
+        "@nuxt/image",
     ],
+    image: {
+        // Options
+    },
     gtag: {
         id: process.env.GOOGLE_ANALYTICS_ID, // Replace with your Google Analytics measurement ID
         config: {

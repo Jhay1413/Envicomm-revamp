@@ -13,7 +13,7 @@
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-x-[70px] gap-y-[30px]">
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Can I see the demo before purchasing?
@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Can I use your system on different devices?
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Can I import my sitemap to your system?
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Can I cancel my subscription at any time?
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         How can I switch my subscription between essential, and premium plan
@@ -78,7 +78,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Is there an additional discount when paid annually?
@@ -91,7 +91,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         I have an issue with my account
@@ -104,7 +104,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         What happens if I don’t renew my license after one year?
@@ -117,7 +117,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         Do you have a free trial?
@@ -130,7 +130,7 @@
                 </div>
             </div>
             <div class="flex items-start gap-3">
-                <img src="/assets/images/icons/icon-question.svg" alt="question icon" />
+                <NuxtImg src="/assets/images/icons/icon-question.svg" alt="question icon" />
                 <div>
                     <h4 class="font-bold text-[14px] xl:text-heading-5 mb-[14px]">
                         What kind of payment methods do you provide?

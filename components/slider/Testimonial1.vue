@@ -40,7 +40,7 @@
             class="p-10 flex flex-col border-8 transition-all duration-300 hover:translate-y-[-2px] mt-[2px] border-bg-2"
         >
             <div>
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/rating.png"
                     alt="rating-stars"
                     class="w-[200px] mb-5 mx-auto"
@@ -54,7 +54,7 @@
 
             <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                 <div>
-                    <img
+                    <NuxtImg
                         class="max-w-[70px] object-cover mb-[22px] drop-shadow-md rounded-full"
                         src="/assets/images/main-imgs/logo-01.png"
                         alt="avatar"
@@ -73,7 +73,7 @@
             class="p-10 flex flex-col border-8 transition-all duration-300 hover:translate-y-[-2px] mt-[2px] border-bg-2"
         >
             <div>
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/rating.png"
                     alt="rating-stars"
                     class="w-[200px] mb-5 mx-auto"
@@ -86,7 +86,7 @@
 
             <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                 <div>
-                    <img
+                    <NuxtImg
                         class="max-w-[70px] object-cover mb-[22px] drop-shadow-md rounded-full"
                         src="/assets/images/main-imgs/logo-02.png"
                         alt="avatar"
@@ -105,7 +105,7 @@
             class="p-10 flex flex-col border-8 transition-all duration-300 hover:translate-y-[-2px] mt-[2px] border-bg-2"
         >
             <div>
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/rating.png"
                     alt="rating-stars"
                     class="w-[200px] mb-5 mx-auto"
@@ -118,7 +118,7 @@
 
             <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                 <div>
-                    <img
+                    <NuxtImg
                         class="max-w-[70px] object-cover mb-[22px] drop-shadow-md rounded-full"
                         src="/assets/images/main-imgs/logo-03.png"
                         alt="avatar"
@@ -139,7 +139,7 @@
             class="p-10 flex flex-col border-8 transition-all duration-300 hover:translate-y-[-2px] mt-[2px] border-bg-2"
         >
             <div>
-                <img
+                <NuxtImg
                     src="/assets/images/main-imgs/rating.png"
                     alt="rating-stars"
                     class="w-[200px] mb-5 mx-auto"
@@ -151,7 +151,7 @@
 
             <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                 <div>
-                    <img
+                    <NuxtImg
                         class="max-w-[70px] object-cover mb-[22px] drop-shadow-md rounded-full"
                         src="/assets/images/main-imgs/logo-04.png"
                         alt="avatar"

@@ -26,7 +26,7 @@
                         account, it would still not reach an intoxicating level in children.
                     </p>
                     <div class="flex items-center gap-6">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[80px] rounded-[4px]"
                             src="/assets/images/avatar-5.png"
                             alt="avatar"
@@ -48,7 +48,7 @@
                         skin, but no, it would not cause intoxication.
                     </p>
                     <div class="flex items-center gap-6">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[80px] rounded-[4px]"
                             src="/assets/images/avatar-6.png"
                             alt="avatar"
@@ -71,7 +71,7 @@
                         hardware....”
                     </p>
                     <div class="flex items-center gap-6">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[80px] rounded-[4px]"
                             src="/assets/images/avatar-7.png"
                             alt="avatar"
@@ -93,7 +93,7 @@
                         blown away! It’s the book I wish I had when I started my dev career.”
                     </p>
                     <div class="flex items-center gap-6">
-                        <img
+                        <NuxtImg
                             class="h-full w-full object-cover max-w-[80px] rounded-[4px]"
                             src="/assets/images/avatar-8.png"
                             alt="avatar"

@@ -60,7 +60,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-trees.svg"
                         alt="icon"
@@ -75,7 +75,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-sun.svg"
                         alt="icon"
@@ -90,7 +90,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-hat.svg"
                         alt="icon"
@@ -105,7 +105,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-trees.svg"
                         alt="icon"
@@ -120,7 +120,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-sun.svg"
                         alt="icon"
@@ -135,7 +135,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-hat.svg"
                         alt="icon"
@@ -150,7 +150,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-trees.svg"
                         alt="icon"
@@ -165,7 +165,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-sun.svg"
                         alt="icon"
@@ -180,7 +180,7 @@
                 <swiper-slide
                     class="rounded-2xl py-[20px] px-[24px] md:py-[43px] md:px-[63px] md:mx-5 transition-all duration-300 hover:translate-y-[-3px] bg-white"
                 >
-                    <img
+                    <NuxtImg
                         class="h-full w-full object-cover mb-[30px] max-w-[50px] max-h-[50px]"
                         src="/assets/images/icons/icon-hat.svg"
                         alt="icon"

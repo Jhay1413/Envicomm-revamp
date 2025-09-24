@@ -20,7 +20,7 @@
             <br />
         </div>
         <div class="relative mx-auto max-w-[1190px]">
-            <img
+            <NuxtImg
                 class="h-full w-full object-cover rounded-2xl"
                 src="/assets/images/thumbnail-12.png"
                 alt="Img"
@@ -29,7 +29,7 @@
                 @click="openVideo"
                 class="rounded-full bg-white grid place-items-center absolute play-video w-[60px] h-[60px] md:w-[138px] md:h-[138px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
             >
-                <img
+                <NuxtImg
                     src="/assets/images/icons/icon-play.svg"
                     alt="play button"
                     width="26"
@@ -114,7 +114,7 @@
                                 class="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-semibold"
                                 >Apply Now</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-white group-hover:filter-white"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i
@@ -128,7 +128,7 @@
                                 class="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-semibold"
                                 >Contact Us</span
                             ><i>
-                                <img
+                                <NuxtImg
                                     class="ml-[7px] w-[12px] filter-black group-hover:filter-white"
                                     src="/assets/images/icons/icon-right.svg"
                                     alt="arrow right icon" /></i
@@ -139,19 +139,25 @@
                     <div
                         class="border border-opacity-10 flex items-center border-[#061224] rounded-[5px] py-[10px] px-[15px] gap-[11px]"
                     >
-                        <img src="/assets/images/icons/icon-facebook-color.svg" alt="social icon" />
+                        <NuxtImg
+                            src="/assets/images/icons/icon-facebook-color.svg"
+                            alt="social icon"
+                        />
                         <p class="text-text text-[#37404E]">Share</p>
                     </div>
                     <div
                         class="border border-opacity-10 flex items-center border-[#061224] rounded-[5px] py-[10px] px-[15px] gap-[11px]"
                     >
-                        <img src="/assets/images/icons/icon-twitter-color.svg" alt="social icon" />
+                        <NuxtImg
+                            src="/assets/images/icons/icon-twitter-color.svg"
+                            alt="social icon"
+                        />
                         <p class="text-text text-[#37404E]">Tweet</p>
                     </div>
                     <div
                         class="border border-opacity-10 flex items-center border-[#061224] rounded-[5px] py-[10px] px-[15px] gap-[11px]"
                     >
-                        <img
+                        <NuxtImg
                             src="/assets/images/icons/icon-pinterest-color.svg"
                             alt="social icon"
                         />

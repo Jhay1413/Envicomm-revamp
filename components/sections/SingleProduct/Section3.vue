@@ -150,7 +150,7 @@
         </div>
         <div class="product-tag-content text-gray-500 active" v-show="selectedTab === 2">
             <div class="flex gap-x-4 mb-[30px]">
-                <img src="/assets/images/noodles-logo.svg" alt="noodles logo" />
+                <NuxtImg src="/assets/images/noodles-logo.svg" alt="noodles logo" />
                 <div class="flex flex-col gap-y-1">
                     <h6>
                         <NuxtLink class="text-green-900 font-bold" to="#">Noodles Co.</NuxtLink>
@@ -159,29 +159,35 @@
                         <div
                             class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                         >
-                            <img src="/assets/images/icons/icon-star.svg" alt="star icon" /><img
+                            <NuxtImg
                                 src="/assets/images/icons/icon-star.svg"
                                 alt="star icon"
-                            /><img src="/assets/images/icons/icon-star.svg" alt="star icon" /><img
+                            /><NuxtImg
                                 src="/assets/images/icons/icon-star.svg"
                                 alt="star icon"
-                            /><img src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                            /><NuxtImg
+                                src="/assets/images/icons/icon-star.svg"
+                                alt="star icon"
+                            /><NuxtImg
+                                src="/assets/images/icons/icon-star.svg"
+                                alt="star icon"
+                            /><NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
                             <div
                                 class="flex items-center absolute overflow-hidden gap-[3px] w-[90%]"
                             >
-                                <img
+                                <NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
                                 />
@@ -193,7 +199,7 @@
             </div>
             <ul class="mb-[50px]">
                 <li class="flex items-center">
-                    <img
+                    <NuxtImg
                         class="mr-2"
                         src="/assets/images/icons/icon-location-black.svg"
                         alt="icon location"
@@ -201,7 +207,7 @@
                     ><span>5171 W Campbell Ave undefined Kent, Utah 53127 United States</span>
                 </li>
                 <li class="flex items-center">
-                    <img
+                    <NuxtImg
                         class="mr-2"
                         src="/assets/images/icons/icon-contact-black.svg"
                         alt="icon contact"
@@ -238,7 +244,7 @@
                     <h4 class="font-bold text-lg">Customer questions & answers</h4>
                     <article class="flex gap-x-4 p-5 border border-gray-200 rounded-2xl group">
                         <div class="flex flex-col gap-y-2 items-center flex-1">
-                            <img
+                            <NuxtImg
                                 class="max-w-[50px] lg:max-w-[80px]"
                                 src="/assets/images/avatar-11.png"
                                 alt="customer"
@@ -253,38 +259,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[100%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -306,7 +312,7 @@
                         class="flex gap-x-4 p-5 border border-gray-200 rounded-2xl group ml-[30px]"
                     >
                         <div class="flex flex-col gap-y-2 items-center flex-1">
-                            <img
+                            <NuxtImg
                                 class="max-w-[50px] lg:max-w-[80px]"
                                 src="/assets/images/avatar-12.png"
                                 alt="customer"
@@ -321,38 +327,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[90%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -372,7 +378,7 @@
                     </article>
                     <article class="flex gap-x-4 p-5 border border-gray-200 rounded-2xl group">
                         <div class="flex flex-col gap-y-2 items-center flex-1">
-                            <img
+                            <NuxtImg
                                 class="max-w-[50px] lg:max-w-[80px]"
                                 src="/assets/images/avatar-10.png"
                                 alt="customer"
@@ -387,38 +393,38 @@
                                 <div
                                     class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                                 >
-                                    <img
+                                    <NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
-                                    /><img
+                                    /><NuxtImg
                                         src="/assets/images/icons/icon-star.svg"
                                         alt="star icon"
                                     />
                                     <div
                                         class="flex items-center absolute overflow-hidden gap-[3px] w-[80%]"
                                     >
-                                        <img
+                                        <NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
-                                        /><img
+                                        /><NuxtImg
                                             src="/assets/images/icons/icon-star-yellow.svg"
                                             alt="star icon"
                                         />
@@ -443,29 +449,35 @@
                         <div
                             class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                         >
-                            <img src="/assets/images/icons/icon-star.svg" alt="star icon" /><img
+                            <NuxtImg
                                 src="/assets/images/icons/icon-star.svg"
                                 alt="star icon"
-                            /><img src="/assets/images/icons/icon-star.svg" alt="star icon" /><img
+                            /><NuxtImg
                                 src="/assets/images/icons/icon-star.svg"
                                 alt="star icon"
-                            /><img src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                            /><NuxtImg
+                                src="/assets/images/icons/icon-star.svg"
+                                alt="star icon"
+                            /><NuxtImg
+                                src="/assets/images/icons/icon-star.svg"
+                                alt="star icon"
+                            /><NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
                             <div
                                 class="flex items-center absolute overflow-hidden gap-[3px] w-[90%]"
                             >
-                                <img
+                                <NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
-                                /><img
+                                /><NuxtImg
                                     src="/assets/images/icons/icon-star-yellow.svg"
                                     alt="star icon"
                                 />

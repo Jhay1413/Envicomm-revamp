@@ -7,7 +7,7 @@
                 <p class="text-heading-5 font-bold text-green-1000">
                     {{ timeParts.days }}
                 </p>
-                <img
+                <NuxtImg
                     class="absolute right-[-28%]"
                     src="/assets/images/icons/icon-colon.svg"
                     alt="colon icon"
@@ -22,7 +22,7 @@
                 <p class="text-heading-5 font-bold text-green-1000">
                     {{ timeParts.hours }}
                 </p>
-                <img
+                <NuxtImg
                     class="absolute right-[-28%]"
                     src="/assets/images/icons/icon-colon.svg"
                     alt="colon icon"
@@ -37,7 +37,7 @@
                 <p class="text-heading-5 font-bold text-green-1000">
                     {{ timeParts.minutes }}
                 </p>
-                <img
+                <NuxtImg
                     class="absolute right-[-28%]"
                     src="/assets/images/icons/icon-colon.svg"
                     alt="colon icon"

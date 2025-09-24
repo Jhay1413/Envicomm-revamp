@@ -16,7 +16,7 @@
             <div class="flex flex-col lg:max-w-[303px] md:gap-[35px] lg:mb-[48px]">
                 <div class="mb-[30px] lg:mb-0">
                     <div class="flex items-center mb-[17px]">
-                        <img
+                        <NuxtImg
                             class="mr-[9px]"
                             src="/assets/images/icons/icon-leaf.svg"
                             alt="leaf icon"
@@ -29,7 +29,7 @@
                 </div>
                 <div class="mb-[30px] lg:mb-0">
                     <div class="flex items-center mb-[17px]">
-                        <img
+                        <NuxtImg
                             class="mr-[9px]"
                             src="/assets/images/icons/icon-leaf.svg"
                             alt="leaf icon"
@@ -50,7 +50,7 @@
                             class="block text-inherit w-full h-full rounded-[50px] text-lg font-semibold"
                             >Contact Us</span
                         ><i>
-                            <img
+                            <NuxtImg
                                 class="ml-[7px] w-[12px] filter-white group-hover:filter-black"
                                 src="/assets/images/icons/icon-right.svg"
                                 alt="arrow right icon" /></i

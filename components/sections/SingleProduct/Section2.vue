@@ -12,17 +12,32 @@
                     <div
                         class="flex items-center relative z-10 overflow-hidden gap-[3px] max-w-[75px]"
                     >
-                        <img src="/assets/images/icons/icon-star.svg" alt="star icon" />
-                        <img src="/assets/images/icons/icon-star.svg" alt="star icon" />
-                        <img src="/assets/images/icons/icon-star.svg" alt="star icon" />
-                        <img src="/assets/images/icons/icon-star.svg" alt="star icon" />
-                        <img src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                        <NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                        <NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                        <NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                        <NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
+                        <NuxtImg src="/assets/images/icons/icon-star.svg" alt="star icon" />
                         <div class="flex items-center absolute overflow-hidden gap-[3px] w-[20%]">
-                            <img src="/assets/images/icons/icon-star-yellow.svg" alt="star icon" />
-                            <img src="/assets/images/icons/icon-star-yellow.svg" alt="star icon" />
-                            <img src="/assets/images/icons/icon-star-yellow.svg" alt="star icon" />
-                            <img src="/assets/images/icons/icon-star-yellow.svg" alt="star icon" />
-                            <img src="/assets/images/icons/icon-star-yellow.svg" alt="star icon" />
+                            <NuxtImg
+                                src="/assets/images/icons/icon-star-yellow.svg"
+                                alt="star icon"
+                            />
+                            <NuxtImg
+                                src="/assets/images/icons/icon-star-yellow.svg"
+                                alt="star icon"
+                            />
+                            <NuxtImg
+                                src="/assets/images/icons/icon-star-yellow.svg"
+                                alt="star icon"
+                            />
+                            <NuxtImg
+                                src="/assets/images/icons/icon-star-yellow.svg"
+                                alt="star icon"
+                            />
+                            <NuxtImg
+                                src="/assets/images/icons/icon-star-yellow.svg"
+                                alt="star icon"
+                            />
                         </div>
                     </div>
                     <p class="text-tiny font-semibold text-gray-400">(138 rates)</p>
@@ -73,13 +88,13 @@
                     <div class="flex flex-col">
                         <span class="qty-down cursor-pointer" @click="increaseCount"
                             ><i
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-caret-up-green.svg"
                                     alt="caret icon" /></i
                         ></span>
                         <span class="qty-up cursor-pointer" @click="decreaseCount"
                             ><i
-                                ><img
+                                ><NuxtImg
                                     src="/assets/images/icons/icon-caret-down-green.svg"
                                     alt="caret icon" /></i
                         ></span>
@@ -89,7 +104,7 @@
                     <button
                         class="bg-green-100 flex items-center rounded transition-colors duration-300 border border-green-100 py-[15px] px-[22px] gap-[13px] hover:bg-white"
                     >
-                        <img src="/assets/images/icons/icon-cart.svg" alt="cart icon" />
+                        <NuxtImg src="/assets/images/icons/icon-cart.svg" alt="cart icon" />
                         <p
                             class="text-green-1000 font-bold text-[14px] md:text-[18px] md:leading-[20px]"
                         >
@@ -99,12 +114,12 @@
                     <div
                         class="border border-green-100 grid place-items-center cursor-pointer transition-all duration-300 w-[50px] h-[50px] rounded-[5px] hover:bg-green-100 hover:translate-y-[-5px]"
                     >
-                        <img src="/assets/images/icons/icon-heart.svg" alt="icon" />
+                        <NuxtImg src="/assets/images/icons/icon-heart.svg" alt="icon" />
                     </div>
                     <div
                         class="border border-green-100 grid place-items-center cursor-pointer transition-all duration-300 w-[50px] h-[50px] rounded-[5px] hover:bg-green-100 hover:translate-y-[-5px]"
                     >
-                        <img src="/assets/images/icons/icon-shuffle.svg" alt="icon" />
+                        <NuxtImg src="/assets/images/icons/icon-shuffle.svg" alt="icon" />
                     </div>
                 </div>
             </div>
