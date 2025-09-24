@@ -51,11 +51,11 @@
                 </li>
                 <li class="group menu-mobile-item py-[13px]" @click="handleToggle()">
                     <NuxtLink
-                        to="/contact"
+                        to="/contact-us"
                         class="flex items-center justify-between transition-all duration-200 hover:text-green-900 hover:translate-x-[2px]"
                         active-class="text-green-900"
                     >
-                        <p>Contact Us</p>
+                        <p>Contact</p>
                     </NuxtLink>
                 </li>
                 <li class="group menu-mobile-item py-[13px]" @click="handleToggle()">

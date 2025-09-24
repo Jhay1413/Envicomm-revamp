@@ -14,7 +14,7 @@
             /></NuxtLink>
             <ul class="flex items-center gap-5 md:hidden mr-[50px]">
                 <li class="flex items-center group">
-                    <NuxtLink class="menu-link mr-[7px]" to="/contact">
+                    <NuxtLink class="menu-link mr-[7px]" to="/contact-us">
                         <img src="/assets/images/icons/contact.svg" alt="contact" class="w-[50x]" />
                     </NuxtLink>
                 </li>
@@ -27,23 +27,6 @@
             <nav class="z-50 hidden lg:block">
                 <LayoutMenu />
             </nav>
-
-            <!-- <div class="hidden xl:block">
-                <button type="button">
-                    <NuxtLink
-                        class="flex items-center z-10 relative transition-all duration-200 group px-[22px] rounded-[50px] bg-gray-100 text-gray-900 hover:bg-gray-900 hover:text-white"
-                        href="/contact"
-                        ><span
-                            class="block text-inherit w-full h-full rounded-[50px] text-heading-6 font-bold "
-                            >Contact Us</span
-                        ><i>
-                            <NuxtImg
-                                class="ml-[7px] w-[12px] filter-black group-hover:filter-white"
-                                src="/assets/images/icons/icon-right.svg"
-                                alt="arrow right icon" /></i
-                    ></NuxtLink>
-                </button>
-            </div> -->
         </div>
         <LayoutSidebarMenu />
     </header>

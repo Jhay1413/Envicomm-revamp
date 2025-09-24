@@ -107,7 +107,7 @@
                                 <li class="mb-5">
                                     <NuxtLink
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        to="/contact"
+                                        to="/contact-us"
                                         >Contact Us</NuxtLink
                                     >
                                 </li>
@@ -154,7 +154,7 @@
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="/contact"
+                                        href="/contact-us"
                                         >Webinars</a
                                     >
                                 </li>

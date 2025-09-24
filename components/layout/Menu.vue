@@ -34,9 +34,9 @@
         <li class="flex items-center group">
             <NuxtLink
                 class="hover:text-green-900 uppercase text-clamp font-inter menu-link lg:text-heading-6 mr-[7px]"
-                to="/contact"
+                to="/contact-us"
                 active-class="text-green-900 font-bold"
-                >Contact Us</NuxtLink
+                >Contact</NuxtLink
             >
         </li>
         <li class="flex items-center group">
