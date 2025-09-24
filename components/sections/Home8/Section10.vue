@@ -306,7 +306,7 @@
                         <div class="overflow-hidden w-32 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/asian oriental.jpg"
+                                src="/public/assets/images/main-imgs/clients/asian oriental.png"
                                 alt="ASIAN ORIENTAL MEDICAL CLINIC"
                                 loading="lazy"
                                 title="ASIAN ORIENTAL MEDICAL CLINIC"
@@ -324,13 +324,13 @@
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/kevlo skinceuticals.jpg"
+                                src="/public/assets/images/main-imgs/clients/kevlo skinceuticals.png"
                                 alt="Kevlo Skinceuticals"
                                 loading="lazy"
                                 title="Kevlo Skinceuticals"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-36 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/MC Skinceuticals inc..png"
@@ -366,7 +366,7 @@
                                 title="Asphalt Pavement Solutions, Inc."
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-40 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/cordova total services.png"
@@ -378,16 +378,16 @@
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/docast construction.jpg"
+                                src="/public/assets/images/main-imgs/clients/docast construction.png"
                                 alt="Docast Construction"
                                 loading="lazy"
                                 title="Docast Construction"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-40 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients//lite crete corporation.jpg"
+                                src="/public/assets/images/main-imgs/clients/lite crete corporation.jpg"
                                 alt="Lite Block"
                                 loading="lazy"
                                 title="Lite Block"
@@ -405,20 +405,26 @@
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/north core construction.jpg"
+                                src="/public/assets/images/main-imgs/clients/north core construction.png"
                                 alt="North Core Construction"
                                 loading="lazy"
                                 title="North Core Construction"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden flex justify-between gap-3 items-center group">
                             <img
-                                class="w-full group-hover:scale-110 transition-all duration-300"
+                                class="w-24 group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Vic Metal Fabrication and  Environmental Services, Inc.jpg"
                                 alt="Vic Metal Fabrication and  Environmental Services, Inc"
                                 loading="lazy"
                                 title="Vic Metal Fabrication and  Environmental Services, Inc"
                             />
+                            <div>
+                                <h3 class="font-semibold text-2xl">Vic Metal</h3>
+                                <p class="text-[8px]">
+                                    Fabrication and Environmental Services, Inc
+                                </p>
+                            </div>
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
@@ -487,7 +493,7 @@
                                 title="Cebu Homecraft Consolidated"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/ceres summit corp.png"
@@ -496,7 +502,7 @@
                                 title="Ceres Summit Corp."
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/chires trading co., inc.jpg"
@@ -505,7 +511,7 @@
                                 title="Chires Trading Co"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/eco-global.png"
@@ -535,7 +541,7 @@
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/growers champ agri ventures corporation.jpg"
+                                src="/public/assets/images/main-imgs/clients/growers champ agri ventures corporation.png"
                                 alt="Growers Champ Agri Ventures Corp."
                                 loading="lazy"
                                 title="Growers Champ Agri Ventures Corp."
@@ -550,7 +556,7 @@
                                 title="Ice Plant"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-48 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/joyland industries corporation.png"
@@ -568,7 +574,7 @@
                                 title="Kamanga Agro Industrial Ecozone Development Corp."
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/natures legacy eximport inc..png"
@@ -581,11 +587,12 @@
                 </SwiperSlide>
                 <SwiperSlide>
                     <div class="grid grid-cols-2 md:grid-cols-5 gap-5 w-full justify-items-center">
-                        <div class="overflow-hidden w-32 group flex justify-center items-center">
+                        <div class="overflow-hidden w-44 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/palmax solutions inc.jpg"
-                                alt="Mactan Cebu International Airport"
+                                alt="Palmax Solutions Inc."
+                                title="Palmax Solutions Inc."
                                 loading="lazy"
                             />
                         </div>
@@ -593,7 +600,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/precision forming corp.webp"
-                                alt="Nautilus Shipyard & Repair Inc."
+                                alt="Precision Forming Corp"
+                                title="Precision Forming Corp"
                                 loading="lazy"
                             />
                         </div>
@@ -601,15 +609,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/ravago.png"
-                                alt="Lite Ferries"
+                                alt="Ravago"
+                                title="Ravago"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients//SHEMBERG.jpg"
-                                alt="Hyundai Logo"
+                                src="/public/assets/images/main-imgs/clients/SHEMBERG.jpg"
+                                alt="Shemberg"
+                                title="Shemberg"
                                 loading="lazy"
                             />
                         </div>
@@ -617,39 +627,48 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/sozo industries corporation.png"
-                                alt="Fortune Shipworks"
+                                alt="Sozo Industries Corporation"
+                                title="Sozo Industries Corporation"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/vienovo philippines inc.png"
-                                alt="Belcris Foods Inc."
+                                alt="Vienovo Philippines Inc."
+                                title="Vienovo Philippines Inc."
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/Balamban Septic Tank and Waste Collection Services.jpg"
-                                alt="/ABOITIZLAND"
+                                src="/public/assets/images/main-imgs/clients/Balamban Septic Tank and Waste Collection Services.png"
+                                alt="Balamban Septic Tank and Waste Collection Services"
+                                title="Balamban Septic Tank and Waste Collection Services"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden flex justify-between gap-3 items-center group">
                             <img
-                                class="w-full group-hover:scale-110 transition-all duration-300"
+                                class="w-24 group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Doday`s  scrap trading.jpg"
-                                alt="Fifth Avenue Property Development"
+                                alt="Doday’s Scrap Trading"
+                                title="Doday’s Scrap Trading"
                                 loading="lazy"
                             />
+                            <div>
+                                <h3 class="font-semibold text-2xl">Doday’s</h3>
+                                <p>Scrap Trading</p>
+                            </div>
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/JKS Quarrying Services OPC.jpg"
-                                alt="Filinvest Land Incorporated"
+                                alt="JKS Quarrying Services OPC"
+                                title="JKS Quarrying Services OPC"
                                 loading="lazy"
                             />
                         </div>
@@ -657,7 +676,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Pinoy Basurero Corporation.jpg"
-                                alt="Bank of the Philippine Islands"
+                                alt="Pinoy Basurero Corporation"
+                                title="Pinoy Basurero Corporation"
                                 loading="lazy"
                             />
                         </div>
@@ -665,7 +685,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/amici shipyard.webp"
-                                alt="Panasonic"
+                                alt="Amici Shipyard"
+                                title="Amici Shipyard"
                                 loading="lazy"
                             />
                         </div>
@@ -673,31 +694,35 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/philippines trigon shipyard.webp"
-                                alt="Metrobank"
+                                alt="Philippines Trigon Shipyard"
+                                title="Philippines Trigon Shipyard"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/Bohol Water Utilities, Inc..jpg"
-                                alt="Plantation Bay Resort and Bay"
+                                src="/public/assets/images/main-imgs/clients/Bohol Water Utilities, Inc..png"
+                                alt="Bohol Water Utilities, Inc."
+                                title="Bohol Water Utilities, Inc."
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/je hydro and bio enrgy.jpg"
-                                alt="Lantaw Native Restaurant"
+                                alt="JE Hydro and Bio Energy"
+                                title="JE Hydro and Bio Energy"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-40 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Nenita’s Water Refilling Station.jpg"
-                                alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
+                                alt="Nenita’s Water Refilling Station"
+                                title="Nenita’s Water Refilling Station"
                                 loading="lazy"
                             />
                         </div>
@@ -705,11 +730,12 @@
                 </SwiperSlide>
                 <SwiperSlide>
                     <div class="grid grid-cols-2 md:grid-cols-5 gap-5 w-full justify-items-center">
-                        <div class="overflow-hidden w-32 group flex justify-center items-center">
+                        <div class="overflow-hidden w-44 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/8 star Land Development Corporation.gif"
-                                alt="Mactan Cebu International Airport"
+                                alt="8 star Land Development Corporation"
+                                title="8 star Land Development Corporation"
                                 loading="lazy"
                             />
                         </div>
@@ -717,15 +743,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/amani grand residences.png"
-                                alt="Lantaw Native Restaurant"
+                                alt="amani grand residences"
+                                title="amani grand residences"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 group flex justify-center items-center">
+                        <div class="overflow-hidden w-44 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/cebu homegrown developers, inc..jpg"
-                                alt="Nautilus Shipyard & Repair Inc."
+                                alt="cebu homegrown developers, inc."
+                                title="cebu homegrown developers, inc."
                                 loading="lazy"
                             />
                         </div>
@@ -733,7 +761,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/cebu korona development corporation.jpg"
-                                alt="Lite Ferries"
+                                alt="cebu korona development corporation"
+                                title="cebu korona development corporation"
                                 loading="lazy"
                             />
                         </div>
@@ -741,31 +770,35 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/cebuview realty corporation.png"
-                                alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
+                                alt="cebuview realty corporation"
+                                title="cebuview realty corporation"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/deo homes and property dev`t inc.jpg"
-                                alt="Hyundai Logo"
+                                src="/public/assets/images/main-imgs/clients/deo homes and property dev`t inc.png"
+                                alt="deo homes and property dev`t inc"
+                                title="deo homes and property dev`t inc"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/eastland property ventures inc..jpg"
-                                alt="Fortune Shipworks"
+                                src="/public/assets/images/main-imgs/clients/eastland property ventures inc..png"
+                                alt="eastland property ventures inc."
+                                title="eastland property ventures inc."
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/grandland.jpg"
-                                alt="Belcris Foods Inc."
+                                src="/public/assets/images/main-imgs/clients/grandland.png"
+                                alt="grandland"
+                                title="grandland"
                                 loading="lazy"
                             />
                         </div>
@@ -773,7 +806,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/juanito king & sons, inc..jpg"
-                                alt="/ABOITIZLAND"
+                                alt="juanito king & sons, inc."
+                                title="juanito king & sons, inc."
                                 loading="lazy"
                             />
                         </div>
@@ -781,15 +815,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/lite properties inc..jpg"
-                                alt="Fifth Avenue Property Development"
+                                alt="lite properties inc."
+                                title="lite properties inc."
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/mactan plains residential.jpg"
-                                alt="Filinvest Land Incorporated"
+                                src="/public/assets/images/main-imgs/clients/mactan plains residential.png"
+                                alt="mactan plains residential"
+                                title="mactan plains residential"
                                 loading="lazy"
                             />
                         </div>
@@ -797,7 +833,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Prime Megalith Ventures and Development Corporation.jpg"
-                                alt="Bank of the Philippine Islands"
+                                alt="Prime Megalith Ventures and Development Corporation"
+                                title="Prime Megalith Ventures and Development Corporation"
                                 loading="lazy"
                             />
                         </div>
@@ -805,7 +842,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/true vine garden and columbary.jpg"
-                                alt="Panasonic"
+                                alt="true vine garden and columbary"
+                                title="true vine garden and columbary"
                                 loading="lazy"
                             />
                         </div>
@@ -813,7 +851,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/vn management logo.png"
-                                alt="Metrobank"
+                                alt="vn management logo"
+                                title="vn management logo"
                                 loading="lazy"
                             />
                         </div>
@@ -821,7 +860,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/fairchild cebu community multi-purpose cooperative.jpg"
-                                alt="Plantation Bay Resort and Bay"
+                                alt="fairchild cebu community multi-purpose cooperative"
+                                title="fairchild cebu community multi-purpose cooperative"
                                 loading="lazy"
                             />
                         </div>
@@ -832,8 +872,9 @@
                         <div class="overflow-hidden w-32 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/4 A`S & G Beach Resort.jpg"
-                                alt="Mactan Cebu International Airport"
+                                src="/public/assets/images/main-imgs/clients/4 A`S & G Beach Resort.png"
+                                alt="4 A`S & G Beach Resort"
+                                title="4 A`S & G Beach Resort"
                                 loading="lazy"
                             />
                         </div>
@@ -841,7 +882,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/10k Roses.jpg"
-                                alt="Lantaw Native Restaurant"
+                                alt="10k Roses"
+                                title="10k Roses"
                                 loading="lazy"
                             />
                         </div>
@@ -849,7 +891,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/88th avenue.jpg"
-                                alt="Nautilus Shipyard & Repair Inc."
+                                alt="88th avenue"
+                                title="88th avenue"
                                 loading="lazy"
                             />
                         </div>
@@ -857,15 +900,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/anda resort and spa - parklane bohol.jpg"
-                                alt="Lite Ferries"
+                                alt="anda resort and spa - parklane bohol"
+                                title="anda resort and spa - parklane bohol"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-48 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients//andy hotel.jpg"
-                                alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
+                                src="/public/assets/images/main-imgs/clients/andy hotel.jpg"
+                                alt="andy hotel"
+                                title="andy hotel"
                                 loading="lazy"
                             />
                         </div>
@@ -873,7 +918,8 @@
                             <img
                                 class="group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/blue pot family resort.jpg"
-                                alt="Hyundai Logo"
+                                alt="blue pot family resort"
+                                title="blue pot family resort"
                                 loading="lazy"
                             />
                         </div>
@@ -881,7 +927,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Canberry Hotel.png"
-                                alt="Fortune Shipworks"
+                                alt="Canberry Hotel"
+                                title="Canberry Hotel"
                                 loading="lazy"
                             />
                         </div>
@@ -889,7 +936,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/carcar eco farm resorts.jpg"
-                                alt="Belcris Foods Inc."
+                                alt="carcar eco farm resorts"
+                                title="carcar eco farm resorts"
                                 loading="lazy"
                             />
                         </div>
@@ -897,7 +945,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/CenturyPeak.png"
-                                alt="/ABOITIZLAND"
+                                alt="CenturyPeak"
+                                title="CenturyPeak"
                                 loading="lazy"
                             />
                         </div>
@@ -905,15 +954,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/diplomat hotel.png"
-                                alt="Fifth Avenue Property Development"
+                                alt="diplomat hotel"
+                                title="diplomat hotel"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/go philippine island travel and tours inc..jpg"
-                                alt="Filinvest Land Incorporated"
+                                src="/public/assets/images/main-imgs/clients/go philippine island travel and tours inc..png"
+                                alt="go philippine island travel and tours inc."
+                                title="go philippine island travel and tours inc."
                                 loading="lazy"
                             />
                         </div>
@@ -921,23 +972,26 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/hagnaya beach resort & restaurant.jpg"
-                                alt="Bank of the Philippine Islands"
+                                alt="hagnaya beach resort & restaurant"
+                                title="hagnaya beach resort & restaurant"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/hutscape beachfront private resort.jpg"
-                                alt="Panasonic"
+                                src="/public/assets/images/main-imgs/clients/hutscape beachfront private resort.png"
+                                alt="hutscape beachfront private resort"
+                                title="hutscape beachfront private resort"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/ingko costan resort.jpg"
-                                alt="Metrobank"
+                                src="/public/assets/images/main-imgs/clients/ingko costan resort.png"
+                                alt="ingko costan resort"
+                                title="ingko costan resort"
                                 loading="lazy"
                             />
                         </div>
@@ -945,7 +999,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/j and r residences.jpg"
-                                alt="Plantation Bay Resort and Bay"
+                                alt="j and r residences"
+                                title="j and r residences"
                                 loading="lazy"
                             />
                         </div>
@@ -956,24 +1011,27 @@
                         <div class="overflow-hidden w-32 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/les maisons d`ltac.jpg"
-                                alt="Mactan Cebu International Airport"
+                                src="/public/assets/images/main-imgs/clients/les maisons d`ltac.png"
+                                alt="Les Maisons D’ltac"
+                                title="Les Maisons D’ltac"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-48 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Lot 8 Condominium Corp.jpg"
-                                alt="Lantaw Native Restaurant"
+                                alt="Lot 8 Condominium Corp"
+                                title="Lot 8 Condominium Corp"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 group flex justify-center items-center">
+                        <div class="overflow-hidden w-40 group flex justify-center items-center">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/matutinao beach resort & cottage.jpg"
-                                alt="Nautilus Shipyard & Repair Inc."
+                                alt="Matutinao Beach Resort & Cottage"
+                                title="Matutinao Beach Resort & Cottage"
                                 loading="lazy"
                             />
                         </div>
@@ -981,7 +1039,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/mc rich canyoneering.webp"
-                                alt="Lite Ferries"
+                                alt="MC Rich Canyoneering"
+                                title="MC Rich Canyoneering"
                                 loading="lazy"
                             />
                         </div>
@@ -989,7 +1048,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/nadelrmar hotel.jpg"
-                                alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
+                                alt="Nadelrmar Hotel"
+                                title="Nadelrmar Hotel"
                                 loading="lazy"
                             />
                         </div>
@@ -997,47 +1057,53 @@
                             <img
                                 class="group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/palalong views.jpg"
-                                alt="Hyundai Logo"
+                                alt="Palalong Views"
+                                title="Palalong Views"
+                                loading="lazy"
+                            />
+                        </div>
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                            <img
+                                class="w-full group-hover:scale-110 transition-all duration-300"
+                                src="/public/assets/images/main-imgs/clients/pescadores seaview suites, inc..png"
+                                alt="Pescadores Seaview Suites Inc."
+                                title="Pescadores Seaview Suites Inc."
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/pescadores seaview suites, inc..jpg"
-                                alt="Fortune Shipworks"
+                                src="/public/assets/images/main-imgs/clients/q8 hotel.png"
+                                alt="Q8 Hotel"
+                                title="Q8 Hotel"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
-                            <img
-                                class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/q8 hotel.jpg"
-                                alt="Plantation Bay Resort and Bay"
-                                loading="lazy"
-                            />
-                        </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/queens land manor.jpg"
-                                alt="Belcris Foods Inc."
+                                alt="Queens Land Manor"
+                                title="Queens Land Manor"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/sta. fe beach club.jpg"
-                                alt="/ABOITIZLAND"
+                                src="/public/assets/images/main-imgs/clients/sta. fe beach club.png"
+                                alt="Stanta Fe Beach Club"
+                                title="Stanta Fe Beach Club"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/V8 Mountain Resort Corp.jpg"
-                                alt="Fifth Avenue Property Development"
+                                alt="V8 Mountain Resort Corp"
+                                title="V8 Mountain Resort Corp"
                                 loading="lazy"
                             />
                         </div>
@@ -1045,7 +1111,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Winland Towers Condominium.jpg"
-                                alt="Filinvest Land Incorporated"
+                                alt="Winland Towers Condominium"
+                                title="Winland Towers Condominium"
                                 loading="lazy"
                             />
                         </div>
@@ -1053,23 +1120,26 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/wnrison land inc..jpg"
-                                alt="Bank of the Philippine Islands"
+                                alt="Wnrison Land Inc."
+                                title="Wnrison Land Inc."
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/the italian food specialists, inc.jpg"
-                                alt="Panasonic"
+                                alt="The Italian Food Specialists Inc."
+                                title="The Italian Food Specialists Inc."
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/cts mactan.jpg"
-                                alt="Metrobank"
+                                alt="CTS Mactan"
+                                title="CTS Mactan"
                                 loading="lazy"
                             />
                         </div>
@@ -1081,7 +1151,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/co jordan talaba bangus eatery.jpg"
-                                alt="Mactan Cebu International Airport"
+                                alt="co jordan talaba bangus eatery"
+                                title="co jordan talaba bangus eatery"
                                 loading="lazy"
                             />
                         </div>
@@ -1089,7 +1160,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/tess and pablos lechon.jpg"
-                                alt="Lantaw Native Restaurant"
+                                alt="tess and pablos lechon"
+                                title="tess and pablos lechon"
                                 loading="lazy"
                             />
                         </div>
@@ -1097,15 +1169,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Almana Power.jpg"
-                                alt="Nautilus Shipyard & Repair Inc."
+                                alt="Almana Power"
+                                title="Almana Power"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/alsons.jpg"
-                                alt="Lite Ferries"
+                                alt="alsons"
+                                title="alsons"
                                 loading="lazy"
                             />
                         </div>
@@ -1113,15 +1187,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/e cool phil. Services corporation.jpg"
-                                alt="Jpark Island Resorts & Waterpark. Mactan Cebu "
+                                alt="e cool phil. Services corporation"
+                                title="e cool phil. Services corporation"
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-32 flex justify-center items-center group">
+                        <div class="overflow-hidden w-44 flex justify-center items-center group">
                             <img
                                 class="group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/tec fuel energy solutions.jpg"
-                                alt="Hyundai Logo"
+                                alt="tec fuel energy solutions"
+                                title="tec fuel energy solutions"
                                 loading="lazy"
                             />
                         </div>
@@ -1129,15 +1205,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Tuburan 360 Agro-Forestry Golf Club.jpg"
-                                alt="Fortune Shipworks"
+                                alt="Tuburan 360 Agro-Forestry Golf Club"
+                                title="Tuburan 360 Agro-Forestry Golf Club"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/Atlantis Fishing Dev`t Corp..jpg"
-                                alt="Plantation Bay Resort and Bay"
+                                src="/public/assets/images/main-imgs/clients/Atlantis Fishing Dev`t Corp..png"
+                                alt="Atlantis Fishing Dev`t Corp."
+                                title="Atlantis Fishing Dev`t Corp."
                                 loading="lazy"
                             />
                         </div>
@@ -1145,15 +1223,17 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/green pastures funeral chapel.png"
-                                alt="Belcris Foods Inc."
+                                alt="green pastures funeral chapel"
+                                title="green pastures funeral chapel"
                                 loading="lazy"
                             />
                         </div>
                         <div class="overflow-hidden w-32 flex justify-center items-center group">
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="/public/assets/images/main-imgs/clients/Paws Heaven Pet Cremation.jpg"
-                                alt="/ABOITIZLAND"
+                                src="/public/assets/images/main-imgs/clients/Paws Heaven Pet Cremation.png"
+                                alt="Paws Heaven Pet Cremation"
+                                title="Paws Heaven Pet Cremation"
                                 loading="lazy"
                             />
                         </div>
@@ -1161,7 +1241,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/AIC Group of Companies Holding Corp..jpg"
-                                alt="Fifth Avenue Property Development"
+                                alt="AIC Group of Companies Holding Corp."
+                                title="AIC Group of Companies Holding Corp."
                                 loading="lazy"
                             />
                         </div>
@@ -1169,7 +1250,8 @@
                             <img
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="/public/assets/images/main-imgs/clients/Benben Logistics Inc..jpg"
-                                alt="Filinvest Land Incorporated"
+                                alt="Benben Logistics Inc."
+                                title="Benben Logistics Inc."
                                 loading="lazy"
                             />
                         </div>
