@@ -176,7 +176,7 @@
                                     <NuxtLink class="flex items-center gap-3" to="#">
                                         <NuxtImg
                                             src="/assets/images/icons/facebook.svg"
-                                            alt="facebook"
+                                            alt="facebook icon"
                                             class="w-[25px]"
                                         />
                                         <span class="text-md md:text-lg hidden md:block"
@@ -188,7 +188,7 @@
                                     <NuxtLink class="flex items-center gap-3" to="#">
                                         <NuxtImg
                                             src="/assets/images/icons/insta.svg"
-                                            alt="instagram"
+                                            alt="instagram icon"
                                             class="w-[25px]"
                                         />
                                         <span class="text-md md:text-lg hidden md:block"
@@ -200,7 +200,7 @@
                                     <NuxtLink class="flex items-center gap-3" to="#">
                                         <NuxtImg
                                             src="/assets/images/icons/X.svg"
-                                            alt="twitter"
+                                            alt="twitter icon"
                                             class="w-[25px]"
                                         />
                                         <span class="text-md md:text-lg hidden md:block"
@@ -212,7 +212,7 @@
                                     <NuxtLink class="flex items-center gap-3" to="#">
                                         <NuxtImg
                                             src="/assets/images/icons/linkedin.svg"
-                                            alt="linkedin"
+                                            alt="linkedin icon"
                                             class="w-[25px]"
                                         />
                                         <span class="text-md md:text-lg hidden md:block"

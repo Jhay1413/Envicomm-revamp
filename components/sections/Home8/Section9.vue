@@ -15,18 +15,18 @@
             </p>
             <div class="flex justify-center gap-5">
                 <NuxtLink
+                    to="/about"
+                    class="text-clamp text-white border-2 border-white py-2 px-5 rounded hover:bg-white hover:text-black transition-all duration-200"
+                    data-aos="fade-up"
+                    data-aos-delay="900"
+                    >Book a Free Consultation</NuxtLink
+                >
+                <NuxtLink
                     to="/contact-us"
                     class="text-clamp text-black bg-white py-2 px-5 rounded hover:bg-black hover:text-white transition-all duration-200"
                     data-aos="fade-up"
                     data-aos-delay="600"
                     >Contact Us</NuxtLink
-                >
-                <NuxtLink
-                    to="/contact-us"
-                    class="text-clamp text-white border-2 border-white py-2 px-5 rounded hover:bg-white hover:text-black transition-all duration-200"
-                    data-aos="fade-up"
-                    data-aos-delay="900"
-                    >Learn More</NuxtLink
                 >
             </div>
         </div>
