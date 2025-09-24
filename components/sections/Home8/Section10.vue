@@ -366,7 +366,7 @@
                                 title="Asphalt Pavement Solutions, Inc."
                             />
                         </div>
-                        <div class="overflow-hidden w-40 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-40 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/cordova total services.png"
@@ -384,7 +384,7 @@
                                 title="Docast Construction"
                             />
                         </div>
-                        <div class="overflow-hidden w-40 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-40 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/lite crete corporation.jpg"
@@ -411,7 +411,9 @@
                                 title="North Core Construction"
                             />
                         </div>
-                        <div class="overflow-hidden flex justify-between gap-3 items-center group">
+                        <div
+                            class="overflow-hidden flex flex-col md:flex-row justify-between md:gap-3 items-center group"
+                        >
                             <NuxtImg
                                 class="w-24 group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Vic Metal Fabrication and  Environmental Services, Inc.jpg"
@@ -419,7 +421,7 @@
                                 loading="lazy"
                                 title="Vic Metal Fabrication and  Environmental Services, Inc"
                             />
-                            <div>
+                            <div class="text-center md:text-left">
                                 <h3 class="font-semibold text-2xl">Vic Metal</h3>
                                 <p class="text-[8px]">
                                     Fabrication and Environmental Services, Inc
@@ -493,7 +495,7 @@
                                 title="Cebu Homecraft Consolidated"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/ceres summit corp.png"
@@ -502,16 +504,16 @@
                                 title="Ceres Summit Corp."
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
-                                src="assets/images/main-imgs/clients/chires trading co., inc.jpg"
+                                src="assets/images/main-imgs/clients/chires trading co., inc.png"
                                 alt="Chires Trading Co"
                                 loading="lazy"
                                 title="Chires Trading Co"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/eco-global.png"
@@ -556,7 +558,7 @@
                                 title="Ice Plant"
                             />
                         </div>
-                        <div class="overflow-hidden w-48 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-48 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/joyland industries corporation.png"
@@ -574,7 +576,7 @@
                                 title="Kamanga Agro Industrial Ecozone Development Corp."
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/natures legacy eximport inc..png"
@@ -587,7 +589,7 @@
                 </SwiperSlide>
                 <SwiperSlide>
                     <div class="grid grid-cols-2 md:grid-cols-5 gap-5 w-full justify-items-center">
-                        <div class="overflow-hidden w-44 group flex justify-center items-center">
+                        <div class="overflow-hidden md:w-44 group flex justify-center items-center">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/palmax solutions inc.jpg"
@@ -632,7 +634,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/vienovo philippines inc.png"
@@ -641,7 +643,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Balamban Septic Tank and Waste Collection Services.png"
@@ -650,7 +652,9 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden flex justify-between gap-3 items-center group">
+                        <div
+                            class="overflow-hidden flex flex-col md:flex-row justify-between md:gap-3 items-center group"
+                        >
                             <NuxtImg
                                 class="w-24 group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Doday`s  scrap trading.jpg"
@@ -658,12 +662,12 @@
                                 title="Doday’s Scrap Trading"
                                 loading="lazy"
                             />
-                            <div>
+                            <div class="text-center md:text-left">
                                 <h3 class="font-semibold text-2xl">Doday’s</h3>
                                 <p>Scrap Trading</p>
                             </div>
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/JKS Quarrying Services OPC.jpg"
@@ -699,7 +703,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Bohol Water Utilities, Inc..png"
@@ -708,7 +712,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/je hydro and bio enrgy.jpg"
@@ -717,7 +721,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-40 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-40 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Nenita’s Water Refilling Station.jpg"
@@ -730,7 +734,7 @@
                 </SwiperSlide>
                 <SwiperSlide>
                     <div class="grid grid-cols-2 md:grid-cols-5 gap-5 w-full justify-items-center">
-                        <div class="overflow-hidden w-44 group flex justify-center items-center">
+                        <div class="overflow-hidden md:w-44 group flex justify-center items-center">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/8 star Land Development Corporation.gif"
@@ -748,7 +752,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 group flex justify-center items-center">
+                        <div class="overflow-hidden md:w-44 group flex justify-center items-center">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/cebu homegrown developers, inc..jpg"
@@ -905,7 +909,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-48 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-48 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/andy hotel.jpg"
@@ -959,7 +963,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/go philippine island travel and tours inc..png"
@@ -1017,7 +1021,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-48 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-48 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/Lot 8 Condominium Corp.jpg"
@@ -1026,7 +1030,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-40 group flex justify-center items-center">
+                        <div class="overflow-hidden md:w-40 group flex justify-center items-center">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/matutinao beach resort & cottage.jpg"
@@ -1062,7 +1066,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/pescadores seaview suites, inc..png"
@@ -1080,7 +1084,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/queens land manor.jpg"
@@ -1098,7 +1102,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/V8 Mountain Resort Corp.jpg"
@@ -1125,7 +1129,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/the italian food specialists, inc.jpg"
@@ -1134,7 +1138,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/cts mactan.jpg"
@@ -1174,7 +1178,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="w-full group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/alsons.jpg"
@@ -1192,7 +1196,7 @@
                                 loading="lazy"
                             />
                         </div>
-                        <div class="overflow-hidden w-44 flex justify-center items-center group">
+                        <div class="overflow-hidden md:w-44 flex justify-center items-center group">
                             <NuxtImg
                                 class="group-hover:scale-110 transition-all duration-300"
                                 src="assets/images/main-imgs/clients/tec fuel energy solutions.jpg"
