@@ -45,7 +45,7 @@
                 </div>
                 <div class="md:col-span-3 flex flex-col gap-5">
                     <div>
-                        <!-- <h5 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h5> -->
+                        <!-- <h3 class="text-lg text-center md:text-xl mb-5">ASSOCIATED WITH</h3> -->
                         <div class="grid grid-cols-2 md:grid-cols-6 gap-5 mb-5">
                             <div class="flex items-center md:col-span-2">
                                 <NuxtImg
@@ -88,7 +88,7 @@
                     </div>
                     <div class="grid grid-cols-2 md:grid-cols-3">
                         <div>
-                            <h5 class="text-lg md:text-xl mb-10">Quick Links</h5>
+                            <h3 class="text-lg md:text-xl mb-10">Quick Links</h3>
                             <ul>
                                 <li class="mb-5">
                                     <a
@@ -128,7 +128,7 @@
                             </ul>
                         </div>
                         <div>
-                            <h5 class="text-lg md:text-xl mb-10 text-[18px]">Resources</h5>
+                            <h3 class="text-lg md:text-xl mb-10 text-[18px]">Resources</h3>
                             <ul>
                                 <li class="mb-5">
                                     <a
@@ -168,13 +168,17 @@
                             </ul>
                         </div>
                         <div class="col-span-2 md:col-span-1">
-                            <h5 class="text-lg mb-8 md:mb-10 text-[18px] text-center md:text-left">
+                            <h3 class="text-lg mb-8 md:mb-10 text-[18px] text-center md:text-left">
                                 Connect With Us
-                            </h5>
+                            </h3>
                             <ul class="flex md:flex-col justify-center gap-5 md:gap-0">
                                 <li class="mb-5">
                                     <NuxtLink class="flex items-center gap-3" to="#">
-                                        <NuxtImg src="/assets/images/icons/facebook.svg" alt="" />
+                                        <NuxtImg
+                                            src="/assets/images/icons/facebook.svg"
+                                            alt="facebook"
+                                            class="w-[25px]"
+                                        />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Facebook</span
                                         >
@@ -182,7 +186,11 @@
                                 </li>
                                 <li class="mb-5">
                                     <NuxtLink class="flex items-center gap-3" to="#">
-                                        <NuxtImg src="/assets/images/icons/insta.svg" alt="" />
+                                        <NuxtImg
+                                            src="/assets/images/icons/insta.svg"
+                                            alt="instagram"
+                                            class="w-[25px]"
+                                        />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Instagram</span
                                         >
@@ -190,7 +198,11 @@
                                 </li>
                                 <li class="mb-5">
                                     <NuxtLink class="flex items-center gap-3" to="#">
-                                        <NuxtImg src="/assets/images/icons/X.svg" alt="" />
+                                        <NuxtImg
+                                            src="/assets/images/icons/X.svg"
+                                            alt="twitter"
+                                            class="w-[25px]"
+                                        />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Twitter</span
                                         >
@@ -198,7 +210,11 @@
                                 </li>
                                 <li class="mb-5">
                                     <NuxtLink class="flex items-center gap-3" to="#">
-                                        <NuxtImg src="/assets/images/icons/linkedin.svg" alt="" />
+                                        <NuxtImg
+                                            src="/assets/images/icons/linkedin.svg"
+                                            alt="linkedin"
+                                            class="w-[25px]"
+                                        />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Linkedin</span
                                         >
@@ -206,7 +222,11 @@
                                 </li>
                                 <li class="mb-5">
                                     <NuxtLink class="flex items-center gap-3" to="#">
-                                        <NuxtImg src="/assets/images/icons/youtube.svg" alt="" />
+                                        <NuxtImg
+                                            src="/assets/images/icons/youtube.svg"
+                                            alt="youtube"
+                                            class="w-[25px]"
+                                        />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Youtube</span
                                         >

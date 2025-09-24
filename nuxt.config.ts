@@ -11,6 +11,9 @@ export default defineNuxtConfig({
             title: "Envi Corp - Consultancy",
             script: [],
             link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }],
+            htmlAttrs: {
+                lang: "en",
+            },
         },
     },
     css: [
