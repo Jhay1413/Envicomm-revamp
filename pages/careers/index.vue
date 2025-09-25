@@ -1,5 +1,7 @@
 <template>
-    <section class="min-h-dvh flex items-center justify-center bg-[#EBF5D7] py-10 md:py-20">
+    <section
+        class="min-h-dvh flex items-center justify-center bg-[url('/assets/images/main-imgs/careers/career-bg.webp')] bg-cover bg-center bg-no-repeat py-10 md:py-20"
+    >
         <div class="container">
             <form @submit.prevent class="flex flex-col md:flex-row gap-4">
                 <!-- Search -->

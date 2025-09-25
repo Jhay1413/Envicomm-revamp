@@ -59,7 +59,7 @@
         <div class="container text-center">
             <NuxtLink
                 to="/what-we-do/pco-academy/list-of-applications"
-                class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded"
+                class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-2 md:px-5 rounded text-center inline-block w-fit mx-auto"
             >
                 List of PCO Academy
             </NuxtLink>

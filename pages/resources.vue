@@ -84,10 +84,10 @@
                 >
             </div>
             <div>
-                <NuxtImg
+                <img
                     src="/assets/images/main-imgs/resources-bg.png"
                     class="w-full opacity-50"
-                    alt=""
+                    alt="arrows"
                 />
             </div>
         </div>

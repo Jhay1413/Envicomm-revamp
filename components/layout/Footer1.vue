@@ -76,7 +76,7 @@
                                     src="/assets/images/main-imgs/clients/footer-logo-1.png"
                                     alt="logo"
                                     loading="lazy"
-                                    class="h-[40px] cursor-pointer 4k:h-[100px]"
+                                    class="h-[30px] md:h-[40px] cursor-pointer 4k:h-[100px]"
                                 />
                                 <span
                                     class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 text-sm text-white bg-gray-600 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap"
@@ -225,7 +225,7 @@
                                         <NuxtImg
                                             src="/assets/images/icons/youtube.svg"
                                             alt="youtube"
-                                            class="w-[25px]"
+                                            class="w-[30px]"
                                         />
                                         <span class="text-md md:text-lg hidden md:block"
                                             >Youtube</span
