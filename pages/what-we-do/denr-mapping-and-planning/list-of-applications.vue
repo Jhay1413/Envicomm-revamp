@@ -70,8 +70,13 @@
 </template>
 
 <script setup>
-useHead({
-    title: "List of DENR: Mapping & Planning - Envi-Comm Corporation",
+import { useSeo } from "~/composables/useSeo";
+useSeo({
+  title: "DENR GIS Mapping & Site Planning for ECC and Tenurial Applications",
+  description:
+    "Expert GIS (Geographic Information System) Mapping for DENR permit requirements, including ECC (Environmental Compliance Certificate) and Tenurial instrument planning in all regions.",
+  keywords:
+    "DENR Mapping and Planning, GIS Mapping, Geographic Information System, ECC planning, Tenurial applications mapping, Site Suitability Study",
 });
 </script>
 
