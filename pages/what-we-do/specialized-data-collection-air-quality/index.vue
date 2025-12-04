@@ -8,12 +8,10 @@
         ></div>
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Specialized Data Collection: Air Quality
+                Specialized Data Collection: Air Quality Monitoring
             </h1>
             <p class="text-xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde. Eum eligendi autem eum accusamus fugit sed
-                laborum laborum hic voluptates ullam est reiciendis accusantium
+                Breathe easy with verified data - delivering precise insights for air quality compliance
             </p>
         </div>
     </section>
@@ -21,36 +19,32 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Lorem ipsum dolor sit amet. Ut voluptatem earum eos ratione omnis et ipsum soluta
-                quo voluptates consequuntur ea autem fugit et dolor quae. Ut harum iusto ut
-                exercitationem eaque est dicta sint.
+                The Invisible Made Visible: Certifying Your Commitment to Clean Air
             </h2>
 
             <p class="mb-5">
-                33 dolor repellat et dicta culpa ea ducimus voluptatem sed laboriosam officiis aut
-                cumque natus qui illum incidunt. Id incidunt obcaecati ut quaerat reiciendis aut
-                amet dignissimos et eaque laboriosam sed neque nisi ut excepturi voluptatem.
-            </p>
-
-            <p class="mb-5">
-                33 veniam eaque 33 internos porro id recusandae molestiae ut laudantium nulla et
-                sunt sapiente qui quisquam similique. Est atque maiores ad assumenda corporis eum
-                libero architecto quo velit laborum non laudantium dolore et galisum tenetur. Et
-                quasi perspiciatis id corporis accusantium id fugiat blanditiis ut porro quam id
-                quia nihil eos ullam vero.
-            </p>
-
-            <p class="mb-5">
-                Qui velit amet hic velit officia non sapiente ipsum. Eum doloribus veniam et quia
-                aperiam aut tenetur laudantium vel fugit doloremque et consequatur ducimus. Eum
-                voluptate alias quo autem excepturi ut quis similique est debitis saepe. Et aperiam
-                sapiente et internos nulla est vitae consequatur aut cupiditate magni.
+                In today's highly regulated operational landscape, understanding and managing your facility's air emissions is not just a regulatory requirement—it is a commitment to public health and environmental stewardship. The Department of Environment and Natural Resources (DENR) sets stringent standards, and accurate, reliable Air Quality Monitoring is the only way to demonstrate full compliance. With Envi-Comm Corporation, we turn this critical task into a seamless, certified, and insightful process.
             </p>
 
             <p>
-                Sed internos necessitatibus aut vitae maxime et ratione neque. Ut voluptate omnis id
-                repudiandae laudantium ex rerum voluptas et odio voluptas est laborum amet id quos
-                voluptatem nam nemo voluptas.
+                At Envi-Comm, we go beyond basic sampling. We utilize state-of-the-art, DENR-recognized methodologies and equipment, ensuring the integrity and defensibility of every data point. Our specialized team of environmental scientists and certified technicians provides a complete suite of services designed to give you an undeniable, real-time picture of your air quality performance. We partner with you to transform raw data into actionable strategies for emission reduction and process optimization. Our comprehensive air quality monitoring services include:
+            </p>
+
+            <p class="mb-5">
+                Source Emission Testing (Stack Testing): We conduct precise testing on stationary sources (e.g., stacks, flues, vents) to measure specific pollutants like Particulate Matter (PM), Sulfur Dioxide (SO), Nitrogen Oxides (NO), and Volatile Organic Compounds (VOCs). Our reports are fully compliant with the Clean Air Act and DENR requirements for your Permit to Operate (PTO).
+            </p>
+            <p class="mb-5">
+                Ambient Air Quality Monitoring: For projects requiring a broader assessment, we deploy high-volume samplers and continuous monitoring stations to measure the surrounding air quality. This data establishes baseline conditions for Environmental Impact Statements EIS and monitors the long-term impact of your operations on the community.
+            </p>
+            <p class="mb-5">
+                Fugitive and Area Source Monitoring: We specialize in identifying and quantifying emissions that escape through non-traditional routes (e.g., vents, windows, equipment leaks). This crucial service helps facilities address the often-overlooked sources of pollution and ensure a holistic approach to air quality management.
+            </p>
+            <p class="mb-5">
+                Data Analysis and Compliance Reporting: Beyond collection, we provide expert analysis of the data, identifying trends, highlighting areas of concern, and preparing all necessary compliance reports for submission to the DENR. We ensure your documentation is audit-ready and clearly demonstrates adherence to all environmental limits.
+            </p>
+
+            <p>
+                Choose Envi-Comm Corporation for air quality monitoring, and gain a partner that delivers not just data, but the certainty that your operations are fully documented, compliant, and contributing to a healthier environment.
             </p>
         </div>
     </section>

@@ -5,12 +5,10 @@
     >
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                Autoclave and Pyrolysis  Technology
+                Autoclave and  Pyrolysis Technology
             </h1>
             <p class="text-xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde. Eum eligendi autem eum accusamus fugit sed
-                laborum laborum hic voluptates ullam est reiciendis accusantium
+                Transforming difficult waste into opportunity - advanced technology for environmental stewardship
             </p>
         </div>
     </section>
@@ -18,36 +16,37 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Lorem ipsum dolor sit amet. Ut voluptatem earum eos ratione omnis et ipsum soluta
-                quo voluptates consequuntur ea autem fugit et dolor quae. Ut harum iusto ut
-                exercitationem eaque est dicta sint.
+                The Future of Waste Treatment: Safe, Sustainable, and Fully Compliant
             </h2>
 
             <p class="mb-5">
-                33 dolor repellat et dicta culpa ea ducimus voluptatem sed laboriosam officiis aut
-                cumque natus qui illum incidunt. Id incidunt obcaecati ut quaerat reiciendis aut
-                amet dignissimos et eaque laboriosam sed neque nisi ut excepturi voluptatem.
+                Effectively managing special, infectious, and hazardous wastes presents one of the most significant challenges in modern industry and healthcare. Traditional disposal methods are increasingly unsustainable and often non-compliant with stringent environmental regulations. Envi-Comm Corporation addresses this critical need by providing state-of-the-art, proven thermal and non-thermal waste treatment technologies, ensuring complete destruction of harmful elements and the responsible recovery of resources.
             </p>
 
             <p class="mb-5">
-                33 veniam eaque 33 internos porro id recusandae molestiae ut laudantium nulla et
-                sunt sapiente qui quisquam similique. Est atque maiores ad assumenda corporis eum
-                libero architecto quo velit laborum non laudantium dolore et galisum tenetur. Et
-                quasi perspiciatis id corporis accusantium id fugiat blanditiis ut porro quam id
-                quia nihil eos ullam vero.
+                At Envi-Comm, we are more than just a supplier; we are your end-to-end partner in advanced waste management. We bring world-class Autoclaves and Pyrolysis Technology directly to your facility, offering a turnkey solution that covers everything from initial design to successful operation. Our dedicated team manages the entire process to ensure seamless integration and full regulatory approval, so you can focus on your core business with peace of mind. Our comprehensive service suite provides a single, reliable point of contact for:
             </p>
 
             <p class="mb-5">
-                Qui velit amet hic velit officia non sapiente ipsum. Eum doloribus veniam et quia
-                aperiam aut tenetur laudantium vel fugit doloremque et consequatur ducimus. Eum
-                voluptate alias quo autem excepturi ut quis similique est debitis saepe. Et aperiam
-                sapiente et internos nulla est vitae consequatur aut cupiditate magni.
+                <strong>Turnkey Supply, Installation, and Commissioning:</strong>
+                 We source and install industry-leading equipment, including high-capacity medical waste autoclaves and advanced pyrolysis units. Our engineers ensure perfect integration into your existing infrastructure and provide expert commissioning for peak performance and safety from day one.
             </p>
+            <p class="mb-5">
+                <strong>Full Regulatory Permitting and Compliance:</strong>
+                 We navigate the complex regulatory landscape, securing all necessary Permits to Operate (PTO), Environmental Compliance Certificates (ECC), and facility registrations with the DENR for the treatment, storage, and disposal (TSD) of special and hazardous wastes. We ensure your system is fully licensed for operations.
+            </p>
+            <p class="mb-5">
+                <strong>Special and Infectious Waste Treatment:</strong>
+                 Our Autoclave solutions provide a safe, non-burn sterilization method for infectious medical waste, converting biohazardous materials into non-hazardous waste suitable for safe landfill disposal, thereby protecting public health and the environment.
+            </p>
+            <p class="mb-5">
+                <strong>Difficult and Hazardous Waste Valorization (Pyrolysis):</strong>
+                 We deploy Pyrolysis technology—a thermal decomposition process—to treat challenging materials like used tires, certain industrial wastes, and plastics. This process not only safely eliminates the waste but also recovers valuable byproducts, such as fuel oil and carbon black, promoting a circular economy.
+            </p>
+           
 
             <p>
-                Sed internos necessitatibus aut vitae maxime et ratione neque. Ut voluptate omnis id
-                repudiandae laudantium ex rerum voluptas et odio voluptas est laborum amet id quos
-                voluptatem nam nemo voluptas.
+                Choose Envi-Comm Corporation and invest in a future where waste is not an end, but a resource. We deliver the technology, expertise, and permits necessary to manage your most difficult wastes safely, sustainably, and in full compliance.
             </p>
         </div>
     </section>

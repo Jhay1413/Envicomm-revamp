@@ -9,9 +9,7 @@
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Hauling & Septage</h1>
             <p class="text-xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde. Eum eligendi autem eum accusamus fugit sed
-                laborum laborum hic voluptates ullam est reiciendis accusantium
+                Complete Waste Stream Management - Secure, Compliant, and Environmentally Responsible
             </p>
         </div>
     </section>
@@ -19,36 +17,35 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Lorem ipsum dolor sit amet. Ut voluptatem earum eos ratione omnis et ipsum soluta
-                quo voluptates consequuntur ea autem fugit et dolor quae. Ut harum iusto ut
-                exercitationem eaque est dicta sint.
+                Beyond the Tank: Your Trusted Partner for Comprehensive Waste Logistics
             </h2>
 
             <p class="mb-5">
-                33 dolor repellat et dicta culpa ea ducimus voluptatem sed laboriosam officiis aut
-                cumque natus qui illum incidunt. Id incidunt obcaecati ut quaerat reiciendis aut
-                amet dignissimos et eaque laboriosam sed neque nisi ut excepturi voluptatem.
+                Effective waste management is a non-negotiable component of environmental compliance and public health. For businesses and communities, securing safe, compliant, and reliable transportation for various waste streams—from common septage to hazardous materials—is paramount. With Envi-Comm Corporation, you gain a logistics partner equipped and certified to handle your most challenging waste transport needs with the utmost professionalism and adherence to environmental law.
             </p>
 
             <p class="mb-5">
-                33 veniam eaque 33 internos porro id recusandae molestiae ut laudantium nulla et
-                sunt sapiente qui quisquam similique. Est atque maiores ad assumenda corporis eum
-                libero architecto quo velit laborum non laudantium dolore et galisum tenetur. Et
-                quasi perspiciatis id corporis accusantium id fugiat blanditiis ut porro quam id
-                quia nihil eos ullam vero.
+                At Envi-Comm, we provide more than just hauling; we deliver a complete waste custody solution. Our dedicated fleet, specialized personnel, and rigorous tracking protocols ensure that every drop and piece of waste is managed from the point of generation to its final authorized disposal or treatment facility. We are strategically positioning ourselves to be your single-source provider for complex waste logistics, currently specializing in:
             </p>
 
             <p class="mb-5">
-                Qui velit amet hic velit officia non sapiente ipsum. Eum doloribus veniam et quia
-                aperiam aut tenetur laudantium vel fugit doloremque et consequatur ducimus. Eum
-                voluptate alias quo autem excepturi ut quis similique est debitis saepe. Et aperiam
-                sapiente et internos nulla est vitae consequatur aut cupiditate magni.
+                <strong>Septage and Sludge Hauling:</strong>
+                 We offer efficient and hygienic collection and transport of septage from residential, commercial, and industrial septic tanks. Our operations strictly comply with the necessary DENR and local government permitting requirements, ensuring all materials are delivered to accredited treatment facilities.
             </p>
-
+             <p class="mb-5">
+                <strong>Hazardous Waste Transport:</strong>
+                 Specializing in the secure transport of regulated hazardous wastes (such as used oil, batteries, chemical sludge, and contaminated materials). We utilize DENR-registered vehicles and trained personnel to handle packaging, labeling, and manifest documentation, mitigating risks and ensuring legal compliance for your generatorship.
+            </p>
+             <p class="mb-5">
+                <strong>Infectious and Healthcare Waste Logistics (Upcoming):</strong>
+                 Soon, we will extend our expertise to include the specialized and high-priority hauling of infectious and pathological wastes from hospitals, clinics, and laboratories. Our future protocols will focus on safe containment, cold-chain integrity where necessary, and immediate transport to dedicated treatment facilities to protect public health.
+            </p>
+             <p class="mb-5">
+                <strong>Solid Waste Collection and Transport (Upcoming):</strong>
+                 We are preparing to offer commercial and municipal solid waste collection services, managing general non-hazardous waste with efficiency and reliability. This end-to-end service will support our clients' commitment to systematic and environmentally sound waste disposal.
+            </p>
             <p>
-                Sed internos necessitatibus aut vitae maxime et ratione neque. Ut voluptate omnis id
-                repudiandae laudantium ex rerum voluptas et odio voluptas est laborum amet id quos
-                voluptatem nam nemo voluptas.
+                Choose Envi-Comm Corporation for your hauling and waste logistics. We provide the peace of mind that comes from knowing your environmental responsibility is managed by industry experts committed to safety, compliance, and the long-term sustainability of the environment.
             </p>
         </div>
     </section>

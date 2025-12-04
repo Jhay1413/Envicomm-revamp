@@ -7,11 +7,9 @@
             class="absolute inset-0 bg-[radial-gradient(white_1.5px,transparent_1.5px)] bg-[length:18px_18px] opacity-20"
         ></div>
         <div class="md:max-w-[35%] text-white">
-            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Chemical: STP & RO</h1>
+            <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">Chemicals: STPs, WTPs and RO</h1>
             <p class="text-xl md:text-2xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde. Eum eligendi autem eum accusamus fugit sed
-                laborum laborum hic voluptates ullam est reiciendis accusantium
+                Precision Chemicals for Peak Performance - Maximizing Efficiency, Minimizing Impact
             </p>
         </div>
     </section>
@@ -19,36 +17,35 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Lorem ipsum dolor sit amet. Ut voluptatem earum eos ratione omnis et ipsum soluta
-                quo voluptates consequuntur ea autem fugit et dolor quae. Ut harum iusto ut
-                exercitationem eaque est dicta sint.
+                The Right Formula for Cleaner Water: Advanced Chemistry, Expert Application
             </h2>
 
             <p class="mb-5">
-                33 dolor repellat et dicta culpa ea ducimus voluptatem sed laboriosam officiis aut
-                cumque natus qui illum incidunt. Id incidunt obcaecati ut quaerat reiciendis aut
-                amet dignissimos et eaque laboriosam sed neque nisi ut excepturi voluptatem.
+                The efficiency and compliance of your Sewage Treatment Plants (STPs), Water Treatment Plants (WTPs), and Reverse Osmosis (RO) systems depend fundamentally on the quality and strategic application of specialized chemicals. Using generic or improper formulations leads to operational bottlenecks, increased energy costs, and potential non-compliance with stringent environmental discharge standards. Envi-Comm Corporation provides a comprehensive, expert-driven suite of treatment chemicals designed for optimal performance across all water and wastewater systems.
             </p>
 
             <p class="mb-5">
-                33 veniam eaque 33 internos porro id recusandae molestiae ut laudantium nulla et
-                sunt sapiente qui quisquam similique. Est atque maiores ad assumenda corporis eum
-                libero architecto quo velit laborum non laudantium dolore et galisum tenetur. Et
-                quasi perspiciatis id corporis accusantium id fugiat blanditiis ut porro quam id
-                quia nihil eos ullam vero.
+                At Envi-Comm, we move beyond simply supplying products; we offer a partnership rooted in diagnostic precision and customized chemical solutions. Our experienced environmental engineers first assess your system's unique operational profile and water chemistry. This analysis ensures that every chemical—from coagulants and flocculants to antiscalants and biocides—is perfectly matched to your needs. Our integrated chemical service covers:
             </p>
 
             <p class="mb-5">
-                Qui velit amet hic velit officia non sapiente ipsum. Eum doloribus veniam et quia
-                aperiam aut tenetur laudantium vel fugit doloremque et consequatur ducimus. Eum
-                voluptate alias quo autem excepturi ut quis similique est debitis saepe. Et aperiam
-                sapiente et internos nulla est vitae consequatur aut cupiditate magni.
+                <strong>Wastewater Treatment (STPs) Solutions:</strong>
+                 We supply high-performance coagulants (e.g., poly-aluminum chloride) and flocculants that dramatically improve solids separation and sludge dewatering, ensuring your effluent meets the most demanding DENR standards. Our advanced microbial solutions enhance biological nutrient removal (BNR) for superior compliance. 
             </p>
-
-            <p>
-                Sed internos necessitatibus aut vitae maxime et ratione neque. Ut voluptate omnis id
-                repudiandae laudantium ex rerum voluptas et odio voluptas est laborum amet id quos
-                voluptatem nam nemo voluptas.
+             <p class="mb-5">
+                <strong>Potable Water Treatment (WTPs) Reagents:</strong>
+                 We provide the highest-grade chemicals for disinfection (chlorine-based products), pH adjustment, and iron/manganese removal, ensuring the water produced is safe, clear, and fully compliant with Philippine National Standards for Drinking Water (PNSDW). 
+            </p>
+             <p class="mb-5">
+                <strong>Reverse Osmosis (RO) System Chemicals:</strong>
+                 To protect your high-value RO membranes, we offer specialized antiscalants to prevent fouling from calcium and silica, and advanced biocides to control biological growth. Our solutions extend membrane lifespan, reduce cleaning frequency, and maintain optimal water recovery rates. 
+            </p>
+             <p class="mb-5">
+                <strong>Technical Support and Dosing Optimization:</strong>
+                 Our service includes regular site visits, chemical inventory management, and expert guidance on dosing pump calibration. We ensure chemicals are used efficiently, lowering your consumption costs while guaranteeing process stability and reliability.
+            </p>
+             <p class="mb-5">
+                Choose Envi-Comm Corporation's Chemical Solutions and gain a partner who ensures your critical water treatment infrastructure operates at its most efficient, compliant, and cost-effective level.
             </p>
         </div>
     </section>

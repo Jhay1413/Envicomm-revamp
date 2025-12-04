@@ -8,12 +8,10 @@
         ></div>
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">
-                DENR: Professional & Specialized Authority
+                DENR: Professional &  Specialized Authority
             </h1>
             <p class="text-xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde. Eum eligendi autem eum accusamus fugit sed
-                laborum laborum hic voluptates ullam est reiciendis accusantium
+                Elevate your project with certified expertise - making compliance the ultimate advantage
             </p>
         </div>
     </section>
@@ -21,36 +19,23 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Lorem ipsum dolor sit amet. Ut voluptatem earum eos ratione omnis et ipsum soluta
-                quo voluptates consequuntur ea autem fugit et dolor quae. Ut harum iusto ut
-                exercitationem eaque est dicta sint.
+                The Mark of Trust: Certified Professionals for Unwavering Environmental Integrity
             </h2>
 
             <p class="mb-5">
-                33 dolor repellat et dicta culpa ea ducimus voluptatem sed laboriosam officiis aut
-                cumque natus qui illum incidunt. Id incidunt obcaecati ut quaerat reiciendis aut
-                amet dignissimos et eaque laboriosam sed neque nisi ut excepturi voluptatem.
+                For projects that demand the highest level of environmental scrutiny and accountability, having the right authorized professionals is non-negotiable. The Department of Environment and Natural Resources (DENR) requires the endorsement, certification, and oversight of accredited experts for critical project stages, from planning to audit. With Envi-Comm Corporation, you gain direct access to a network of officially DENR-accredited and specialized professionals whose signatures carry the weight of authority and proven competence.
             </p>
 
             <p class="mb-5">
-                33 veniam eaque 33 internos porro id recusandae molestiae ut laudantium nulla et
-                sunt sapiente qui quisquam similique. Est atque maiores ad assumenda corporis eum
-                libero architecto quo velit laborum non laudantium dolore et galisum tenetur. Et
-                quasi perspiciatis id corporis accusantium id fugiat blanditiis ut porro quam id
-                quia nihil eos ullam vero.
+                At Envi-Comm, we provide more than just consultation; we integrate certified regulatory expertise directly into your project team. Our professionals are not only highly experienced but hold the official accreditation needed to stamp, sign, and submit documents that meet the DENR's stringent standards. This integrated approach ensures technical accuracy and immediate regulatory acceptance. Our service covers the provision of key specialized personnel, including:
             </p>
 
             <p class="mb-5">
-                Qui velit amet hic velit officia non sapiente ipsum. Eum doloribus veniam et quia
-                aperiam aut tenetur laudantium vel fugit doloremque et consequatur ducimus. Eum
-                voluptate alias quo autem excepturi ut quis similique est debitis saepe. Et aperiam
-                sapiente et internos nulla est vitae consequatur aut cupiditate magni.
+                PCO (Pollution Control Officer) Services: We provide highly trained and accredited PCOs who can serve as your official representative to the DENR. They are responsible for overseeing compliance with all environmental laws, managing permitting requirements, monitoring waste and effluent, and submitting the mandatory self-monitoring reports (SMRs). EMB-Accredited Environmental Impact Assessment (EIA) Preparers: Our team includes DENR-recognized EIA Preparers who are essential for crafting the Environmental Impact Statements (EIS) and Environmental Performance Reports and Audits (EPRAs). Their accreditation ensures your environmental documents are comprehensive, scientifically sound, and approved by the Environmental Management Bureau (EMB). Managing Head/Technical Expert Certification: For facilities dealing with hazardous wastes (TSD), specialized technical experts, including licensed chemical engineers or other relevant professionals, are required. We provide personnel with the necessary credentials to be certified as Managing Heads or Technical Experts, ensuring facility operations comply with the highest safety and regulatory standards. External Environmental Audit Teams: We field DENR-recognized external audit teams for projects that require mandatory environmental performance reviews. Our accredited auditors provide an independent and objective assessment, identifying gaps and proposing corrective actions to maintain and improve your project’s environmental standing.
             </p>
 
             <p>
-                Sed internos necessitatibus aut vitae maxime et ratione neque. Ut voluptate omnis id
-                repudiandae laudantium ex rerum voluptas et odio voluptas est laborum amet id quos
-                voluptatem nam nemo voluptas.
+                Choose Envi-Comm Corporation to secure the certified, specialized authority your project requires. We provide the expertise that transforms compliance from a hurdle into a competitive asset, ensuring project continuity and legal peace of mind.
             </p>
         </div>
     </section>

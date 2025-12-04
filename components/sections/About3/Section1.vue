@@ -1,66 +1,146 @@
 <template>
-    <div class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] text-center">
-        <div class="text-center mb-[35px] md:mb-[43px]">
-            <h2
-                class="font-bold mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-[725px]"
-            >
-                Our Story
-            </h2>
-            <p class="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[976px]"></p>
-        </div>
-        <h3
-            class="font-bold text-[20px] leading-[26px] md:text-heading-4 text-gray-600 mx-auto mb-[40px] md:mb-[75px] md:w-[50ch]"
-        >
-            ENVI-COMM CORPORATION is an environmental consulting corporation composed of individuals
-            passionate about sustainable development through compliance with various environmental
-            regulations and the institutionalization of in-house environmental conservation and
-            sustainable development programs and systems.
-        </h3>
-        <div class="relative mx-auto max-w-[1190px]">
-            <NuxtImg
-                class="h-full w-full object-cover rounded-2xl"
-                src="/assets/images/thumbnail-22.png"
-                alt="Img"
-            />
-            <!-- <button
-        @click="openVideo"
-        class="rounded-full bg-white grid place-items-center absolute play-video w-[60px] h-[60px] md:w-[138px] md:h-[138px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-      >
-        <NuxtImg
-          src="/assets/images/icons/icon-play.svg"
-          alt="play button"
-          width="26"
-        />
-      </button> -->
-        </div>
+  <section class="about-hero">
+    <!-- Top wide banner image -->
+    <div class="about-hero__banner">
+      <img
+        src="/assets/images/main-imgs/about-01.jpg"
+        alt="Team working together"
+        class="about-hero__banner-img"
+      />
     </div>
-    <modal-video :channel="videoChannel" :videoId="videoId" v-model:isOpen="videoIsOpen" />
+
+    <!-- Green content panel -->
+    <div class="about-hero__panel">
+      <div class="about-hero__panel-inner">
+        <!-- Small image on the left -->
+        <div class="about-hero__speaker">
+          <img
+            src="/assets/images/main-imgs/about-02.jpg"
+            alt="Speaker"
+            class="about-hero__speaker-img"
+          />
+        </div>
+
+        <!-- Text on the right -->
+        <div class="about-hero__text">
+          <p class="about-hero__headline">
+            At Envi-Comm Corporation,
+          </p>
+          <p class="about-hero__copy">
+            our leaders are inspired to
+            build a future of lasting
+            value for everyone we serve.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
 </template>
-<script>
-import ModalVideo from "../components/elements/ModalVideo.vue";
-export default {
-    components: {
-        ModalVideo,
-    },
-    data: () => {
-        return {
-            videoIsOpen: false,
-        };
-    },
-    methods: {
-        openVideo() {
-            this.videoIsOpen = !this.videoIsOpen;
-        },
-    },
-    computed: {
-        videoChannel: function () {
-            //Logic to extract based on URL
-            return "youtube";
-        },
-        videoId: function () {
-            //Logic to extract based on URL
-            return "QiqQoqtnHrk";
-        },
-    },
-};
+
+<script setup>
+// no logic needed for this static section
 </script>
+
+<style scoped>
+.about-hero {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+/* Top banner */
+.about-hero__banner {
+  width: 100%;
+  overflow: hidden;
+}
+
+.about-hero__banner-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* Green panel */
+.about-hero__panel {
+  background-image: url(/assets/images/main-imgs/about-03.jpg);
+  padding: 2.5rem 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.about-hero__panel-inner {
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.4fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+/* Speaker image card */
+.about-hero__speaker {
+  background-color: #f4f4f4;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-hero__speaker-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Text block */
+.about-hero__text {
+  color: #ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+.about-hero__headline {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+}
+
+.about-hero__copy {
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* Responsive tweaks */
+@media (max-width: 900px) {
+  .about-hero__panel-inner {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+
+  .about-hero__speaker {
+    max-width: 420px;
+    justify-self: center;
+  }
+
+  .about-hero__headline,
+  .about-hero__copy {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .about-hero__panel {
+    padding: 2rem 1rem;
+  }
+
+  .about-hero__headline,
+  .about-hero__copy {
+    font-size: 1.2rem;
+  }
+}
+</style>

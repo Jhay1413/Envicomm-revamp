@@ -1,56 +1,166 @@
 <template>
-    <div class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] lg:mt-[138px]">
-        <div class="text-center mb-[45px] lg:mb-[88px]">
-            <h2
-                class="font-bold mx-auto text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 text-gray-900 mb-5 md:mb-[30px] max-w-full"
-            >
-                Providing solutions & <span class="text-green-900">Core Values</span>
-            </h2>
-            <p class="text-quote md:text-lead-lg text-gray-600 mx-auto max-w-[743px]">
-                We ensure that you remain compliant with environmental regulations while striving to
-                create a greener and more sustainable future.
+  <section class="mv-values">
+    <div class="mv-values__inner">
+      <!-- Top row: Mission & Vision -->
+      <div class="mv-values__top">
+        <div class="mv-values__card">
+          <h2 class="mv-values__title">MISSION</h2>
+          <p class="mv-values__body">
+            We strive to deliver unparalleled service across different fields of expertise and provide service reliability that exceeds our customer’s standards and expectations.
+          </p>
+        </div>
+
+        <div class="mv-values__card">
+          <h2 class="mv-values__title">VISION</h2>
+          <p class="mv-values__body">
+            We aim to be the national leader in providing reliable environmental compliance and consultancy solutions.
+          </p>
+        </div>
+      </div>
+
+      <!-- Bottom: Core Values -->
+      <div class="mv-values__bottom mv-values__card">
+        <h2 class="mv-values__title mv-values__title--large">
+          CORE VALUES
+        </h2>
+
+        <div class="mv-values__values-grid">
+          <div class="mv-values__value">
+            <h3 class="mv-values__value-title">Integrity</h3>
+            <p class="mv-values__body">
+              We value our relationships with co‑workers, clients, and shareholders. Truth, honesty, and accountability in our professional dealings are of the utmost importance.
             </p>
+          </div>
+
+          <div class="mv-values__value">
+            <h3 class="mv-values__value-title">Professionalism</h3>
+            <p class="mv-values__body">
+              As a consultancy firm, we seek to achieve work with quality by conducting professional competence and expertise according to the highest ethics and proficiency standards.
+            </p>
+          </div>
+
+          <div class="mv-values__value mv-values__value--wide">
+            <h3 class="mv-values__value-title">Unparalleled Service</h3>
+            <p class="mv-values__body">
+              We provide maximum value and flexibility with minimum risk to our clients, focusing on balancing environmental preservation and urban development.
+            </p>
+          </div>
         </div>
-        <div class="lg:flex lg:items-center gap-[30px]">
-            <div
-                class="flex items-start gap-5 transition-all duration-300 mb-[33px] hover:translate-y-[-3px] pb-[50px] last:mb-0"
-            >
-                <NuxtImg
-                    class="h-full w-full object-cover max-w-[64px]"
-                    src="/assets/images/icons/icon-resources.svg"
-                    alt="icon"
-                />
-                <div>
-                    <h3 class="font-bold text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
-                        1. Our Mission
-                    </h3>
-                    <p class="text-excerpt">
-                        <span class="text-green-900 font-bold">Green For Tomorrow :</span>
-                        We strive to deliver unparalleled service across different fields of
-                        expertise and provide service reliability that exceeds our Customer's
-                        standards and expectations
-                    </p>
-                </div>
-            </div>
-            <div
-                class="flex items-start gap-5 transition-all duration-300 mb-[33px] hover:translate-y-[-3px] pb-[50px] last:mb-0"
-            >
-                <NuxtImg
-                    class="h-full w-full object-cover max-w-[64px]"
-                    src="/assets/images/icons/icon-cards.svg"
-                    alt="icon"
-                />
-                <div>
-                    <h3 class="font-bold text-[20px] leading-[26px] md:text-heading-4 mb-[14px]">
-                        2. Our Vision
-                    </h3>
-                    <p class="text-excerpt">
-                        <span class="text-green-900 font-bold">20/20 ECO Leadership :</span>
-                        We aim to be the national leader in providing reliable environmental
-                        compliance and consultancy solutions.
-                    </p>
-                </div>
-            </div>
-        </div>
+      </div>
     </div>
+  </section>
 </template>
+
+<script setup>
+// purely presentational
+</script>
+
+<style scoped>
+.mv-values {
+  background: #e6f0d9; /* light green background strip */
+  padding: 3rem 1.5rem 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.mv-values__inner {
+  width: 100%;
+  max-width: 1160px;
+}
+
+/* Shared card style */
+.mv-values__card {
+  border: 2px solid #9ac45b; /* green border */
+  background: #ffffff;
+  padding: 2rem 2.25rem;
+}
+
+/* Top row */
+.mv-values__top {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.mv-values__title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #6cb142;
+  margin: 0 0 1.25rem;
+}
+
+.mv-values__title--large {
+  font-size: 2rem;
+}
+
+/* Text */
+.mv-values__body {
+  margin: 0;
+  color: #333333;
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+
+/* Core values grid */
+.mv-values__bottom {
+  margin-top: 0.5rem;
+}
+
+.mv-values__values-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 3rem;
+  row-gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.mv-values__value-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+  color: #111111;
+}
+
+.mv-values__value--wide {
+  grid-column: 1 / -1; /* full width bottom row */
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .mv-values__top {
+    grid-template-columns: 1fr;
+  }
+
+  .mv-values__values-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .mv-values__value--wide {
+    grid-column: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .mv-values {
+    padding: 2rem 1rem 3rem;
+  }
+
+  .mv-values__card {
+    padding: 1.5rem 1.5rem;
+  }
+
+  .mv-values__title {
+    font-size: 1.5rem;
+  }
+
+  .mv-values__title--large {
+    font-size: 1.7rem;
+  }
+
+  .mv-values__value-title {
+    font-size: 1.25rem;
+  }
+}
+</style>

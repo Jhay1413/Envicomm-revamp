@@ -9,8 +9,7 @@
         <div class="md:max-w-[35%] text-white">
             <h1 class="text-2xl md:text-5xl 4k:text-6xl mb-5">DENR: Mapping & Planning</h1>
             <p class="text-xl md:text-2xl 4k:text-3xl">
-                Lorem ipsum dolor sit amet. A numquam voluptas ex ullam expedita eum aliquam
-                laboriosam et enim Quis ut voluptas unde.
+                Transform land data into strategic action - precision planning for a sustainable future
             </p>
         </div>
     </section>
@@ -18,56 +17,31 @@
     <section class="py-10 md:py-20 text-black text-lg 4k:text-xl">
         <div class="container">
             <h2 class="text-2xl md:text-3xl text-center mb-5 uppercase">
-                Charting Your Course to Sustainable Development: Precision Mapping for a Greener
-                Future
+                Your Vision on the Map: Navigating Environmental Data with Unrivaled Clarity
             </h2>
             <p class="mb-5">
-                Successful projects in the Philippines depend on more than just a great idea; they
-                require a deep understanding of the land and its resources. The Department of
-                Environment and Natural Resources (DENR) sets strict requirements for Geographic
-                Information Systems (GIS) and other mapping data to ensure that development is both
-                sustainable and responsible. At Envi-Comm Corporation, we transform these complex
-                requirements into a clear, actionable plan.
+                In the realm of environmental management and project development, accurate spatial data is the bedrock of intelligent decision-making. Navigating the diverse land use, geohazard, and regulatory maps provided or required by the Department of Environment and Natural Resources (DENR) is a critical step for any responsible project. With Envi-Comm Corporation, complex geography is simplified into actionable, strategic plans.
             </p>
             <p class="mb-5">
-                We don't just create maps; we provide the strategic insights needed to navigate
-                environmental regulations from the ground up. Our team of geomatics and planning
-                experts uses advanced technology to deliver precise and compliant data, ensuring
-                your project avoids costly delays and unforeseen environmental risks. We believe
-                that detailed mapping and planning are the first crucial steps toward building a
-                project that is not only successful but also environmentally sound.
+                At Envi-Comm, we bridge the gap between technical mapping and practical compliance. Our expert team utilizes cutting-edge Geographic Information System (GIS) technology and deep regulatory knowledge to provide comprehensive mapping and planning services. We don't just generate maps; we deliver a geospatial strategy that minimizes risk, optimizes resource use, and ensures alignment with national environmental policies. Our services are designed to be your trusted compass for development, covering:
             </p>
             <p class="mb-5">
-                Our comprehensive service suite covers all your DENR mapping and planning needs,
-                providing you with a single, reliable point of contact for:
+                <strong>Geohazard and Suitability Mapping:</strong> We conduct detailed analyses using DENR-validated data to identify and map areas susceptible to natural hazards like flooding, landslides, and liquefaction. This crucial step informs site selection, engineering design, and ensures your project's resilience and safety.
             </p>
-            <ul class="list-disc list-inside ml-[19px] mb-5">
-                <li class="mb-5">
-                    GIS and Geomatics Services: From site assessments and land use planning to
-                    environmental sensitivity mapping, we provide the high-quality, geo-referenced
-                    data required for your Environmental Impact Statements (EIS) and project
-                    proposals. Our maps are meticulously prepared to meet all DENR and other
-                    regulatory standards.
-                </li>
-                <li class="mb-5">
-                    Project Feasibility and Site Suitability Studies: We conduct in-depth analyses
-                    to help you identify the most viable and environmentally-sound location for your
-                    project. This includes assessing terrain, proximity to sensitive ecosystems, and
-                    potential environmental hazards, providing a solid foundation for your project's
-                    long-term sustainability.
-                </li>
-                <li class="mb-5">
-                    Contingency and Risk Planning: We help you prepare for the unexpected by
-                    creating detailed maps and plans for disaster risk reduction and management
-                    (DRRM). This proactive approach, in compliance with DENR guidelines, ensures
-                    your project is resilient to natural hazards and other environmental challenges.
-                </li>
-            </ul>
-            <p>
-                Choose Envi-Comm Corporation and gain a partner committed to excellence, efficiency,
-                and the long-term success of your business. We handle the intricacies of
-                environmental mapping and planning so you can focus on what you do best: building,
-                operating, and growing your project with confidence.
+                <p class="mb-5">
+                <strong>Land Use and Zoning Compliance:</strong> Our team meticulously reviews and incorporates local and national land use plans into your project design. We map out compliance zones, protected areas, and ancestral domain boundaries to prevent future legal and operational conflicts, securing a solid foundation for your permits.Resource 
+            </p>
+            <p class="mb-5">
+                <strong>Land Use and Zoning Compliance:</strong> Our team meticulously reviews and incorporates local and national land use plans into your project design. We map out compliance zones, protected areas, and ancestral domain boundaries to prevent future legal and operational conflicts, securing a solid foundation for your permits.Resource 
+            </p>
+              <p class="mb-5">
+                <strong>Inventory and Environmental Baseline Mapping:</strong>Before any groundwork begins, we establish a comprehensive environmental baseline. This includes mapping natural resources, biodiversity hotspots, and existing infrastructure. This geospatial inventory is essential for Environmental Impact Assessments (EIA) and for developing effective mitigation and enhancement measures.
+            </p>
+               <p class="mb-5">
+                <strong>Digital Data Management and Submission:</strong> We handle the entire process of preparing and submitting geospatial data in the precise digital formats required by DENR and its attached agencies (like NAMRIA and MGB). We ensure data integrity, accuracy, and full regulatory acceptance, saving you time and preventing submission roadblocks.
+            </p>
+             <p class="mb-5">
+                Choose Envi-Comm Corporation for mapping and planning, and gain the precision required to move forward with confidence, ensuring your project is environmentally sound, legally compliant, and positioned for long-term success.
             </p>
         </div>
     </section>
