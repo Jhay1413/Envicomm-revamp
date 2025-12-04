@@ -65,29 +65,29 @@
 const img = (n) => `/assets/images/main-imgs/team/${n}.png`;
 
 const executives = [
-  { id: 1, name: 'Karlo Miguel Demo', role: 'Chief Executive Officer', photo: img(1) },
-  { id: 2, name: 'Christopher Patrick Demo', role: 'Chief Operating Officer', photo: img(2) },
-  { id: 3, name: 'Oscar Lopez Jr. Demo', role: 'Chief Strategy Officer', photo: img(3) }
+  { id: 1, name: 'Karlo Miguel Cuizon', role: 'Chief Executive Officer', photo: img(1) },
+  { id: 2, name: 'CHRISTOPHER PATRICK ALMADEN', role: 'Chief Operating Officer', photo: img(2) },
+  { id: 3, name: 'OSCAR LOPEZ JR.', role: 'CHIEF STRATEGY OFFICER', photo: img(3) }
 ];
 
 const management = [
-  { id: 4, name: 'Shanlee Chong Demo', role: 'Finance Manager', photo: img(4) },
-  { id: 5, name: 'Carmen Lourdes Demo', role: 'Customer & Business Manager', photo: img(5) },
-  { id: 6, name: 'Mario Dennis Demo', role: 'Business Development Manager', photo: img(6) },
-  { id: 7, name: 'Rizivette Demo', role: 'Environmental Services Manager', photo: img(7) },
-  { id: 8, name: 'Kyle Art Demo', role: 'Sales & Project Manager', photo: img(8) },
-  { id: 9, name: 'Dexter Manuele Demo', role: 'Technical Services Manager', photo: img(9) },
-  { id: 10, name: 'Raman Hearn Demo', role: 'Senior Technical Consultant', photo: img(10) }
+  { id: 4, name: 'GINALIE ECONG', role: 'Finance Manager', photo: img(4) },
+  { id: 5, name: 'CARMEN LOURDES COSEP', role: 'Operations And Systems Manager', photo: img(5) },
+  { id: 6, name: 'MARIO DENNIS ABREA', role: 'Human Resource Manager', photo: img(6) },
+  { id: 7, name: 'RENANTE ABATAYO', role: 'Environmental Services Manager', photo: img(7) },
+  { id: 8, name: 'KYLE ART CUIZON', role: 'Saas Development Manager', photo: img(8) },
+  { id: 9, name: 'DEXTER MANALILI', role: 'Research and Development Manager', photo: img(9) },
+  { id: 10, name: 'Sanjay Hariramani', role: 'Sales, Marketing & Business Development Manager', photo: img(10) }
 ];
 
 const supervisory = [
-  { id: 11, name: 'Christine Joy Martinez', role: 'Senior Supervisor', photo: img(11) },
-  { id: 12, name: 'Albert Dyab Demo', role: 'Compliance & Reporting Lead', photo: img(12) },
-  { id: 13, name: 'Erica Dyanne Demo', role: 'Environmental Operations Supervisor', photo: img(13) },
-  { id: 14, name: 'Jay Mark Balad Demo', role: 'Project Implementation Lead', photo: img(14) },
-  { id: 15, name: 'Leonyn Cescoldo Demo', role: 'Senior Specialist', photo: img(15) },
-  { id: 16, name: 'John Raymond Demo', role: 'Field Services Supervisor', photo: img(16) },
-  { id: 17, name: 'Johan Michael Yap Demo', role: 'Technical Support Supervisor', photo: img(17) }
+  { id: 11, name: 'CHRISTINE JOY MARTINEZ', role: 'Strategic Environmental Assessment', photo: img(11) },
+  { id: 12, name: 'ALGER LOYAO III', role: 'Compliance Monitoring and Reporting Section Manager', photo: img(12) },
+  { id: 13, name: 'ERICA DENICE VALENZUELA', role: 'Environmental Clearance & Clarification Manager Section Manager', photo: img(13) },
+  { id: 14, name: 'JAY MARK BAJAO', role: 'Environmental Engineering & Design Team', photo: img(14) },
+  { id: 15, name: 'LORDWIN CRISOLOGO', role: 'IT Operations Team Leader', photo: img(15) },
+  { id: 16, name: 'JOHN REYMOND LAMPITAO', role: 'Process Optimization and Data Hub Team Leader', photo: img(16) },
+  { id: 17, name: 'JOHANN MICHAEL YAP', role: 'Client Relation & Quality Officer', photo: img(17) }
 ];
 </script>
 
