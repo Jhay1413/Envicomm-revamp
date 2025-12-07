@@ -161,11 +161,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "GSUP - Gratuitous Special Use Permit Application Services",
+  title: "Gratuitous Special Use Permit – Envi-Comm Corporation",
   description:
-    "Assistance with GSUP (Gratuitous Special Use Permit) applications for non-commercial or government projects on public lands.",
+    "Assistance with DENR Gratuitous Special Use Permits for special projects.",
   keywords:
-    "GSUP, Gratuitous Special Use Permit, public land permit, DENR tenurial",
+    "gratuitous special use permit, DENR permits, environmental compliance",
 });
 </script>
 

@@ -212,11 +212,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "PAMB - Protected Area Management Board Clearance",
+  title: "Protected Area Management Board Clearance – Envi-Comm Corporation",
   description:
-    "We secure PAMB (Protected Area Management Board) Clearance for projects located within or near designated protected areas.",
+    "Assistance with DENR clearances from Protected Area Management Boards.",
   keywords:
-    "PAMB Clearance, Protected Area Management Board, protected area permit, DENR compliance",
+    "protected area clearance, DENR permits, environmental compliance",
 });
 </script>
 

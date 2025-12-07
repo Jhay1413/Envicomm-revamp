@@ -119,11 +119,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "TSD - Treatment, Storage, & Disposal Facility Permit Application",
+  title: "Treatment, Storage & Disposal – Envi-Comm Corporation",
   description:
-    "Consulting for TSD (Treatment, Storage, and Disposal) facility permitting. Comprehensive support for hazardous waste management facilities.",
+    "Envi-Comm Corporation supports businesses in securing permits for treatment, storage, and disposal of hazardous waste.",
   keywords:
-    "TSD permit, Treatment Storage and Disposal, hazardous waste facility, EMB permitting, waste disposal compliance",
+    "treatment storage disposal, hazardous waste permits, DENR compliance",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

@@ -304,11 +304,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "PTO - Permit to Operate Application & Renewal - Air Quality",
+  title: "Permit to Operate – Envi-Comm Corporation",
   description:
-    "Full support for your PTO (Permit to Operate) application and renewal. Compliance for air pollution source installations as mandated by the EMB.",
+    "Secure your DENR Permit to Operate with Envi-Comm Corporation’s expert guidance for environmental compliance.",
   keywords:
-    "PTO application, Permit to Operate renewal, EMB air quality, air pollution control, air source installation permit",
+    "permit to operate, DENR compliance, environmental permits, Envi-Comm Corporation",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

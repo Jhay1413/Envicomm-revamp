@@ -78,8 +78,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "Renewable Energy  Product & Technology - Envi-Comm Corporation",
+useSeo({
+  title: "Renewable Energy Products & Technology – Envi-Comm Corporation",
+  description:
+    "Explore Envi-Comm Corporation’s renewable energy solutions and technologies for sustainable operations.",
+  keywords:
+    "renewable energy, sustainable technology, green solutions",
 });
 </script>
 

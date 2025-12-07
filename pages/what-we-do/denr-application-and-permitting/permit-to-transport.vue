@@ -125,11 +125,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "PTT - PCL Threshold Tracking for Priority Chemicals",
+  title: "Permit to Transport – Envi-Comm Corporation",
   description:
-    "Assistance with PTT (PCL Threshold Tracking) and compliance for chemicals on the PCL (Priority Chemical List) under the EMB.",
+    "Secure DENR permits to transport hazardous materials with Envi-Comm Corporation’s compliance support.",
   keywords:
-    "PTT, PCL Threshold Tracking, Priority Chemical List, chemical compliance, EMB PCL",
+    "permit to transport, hazardous materials, DENR permits",
 });
 </script>
 

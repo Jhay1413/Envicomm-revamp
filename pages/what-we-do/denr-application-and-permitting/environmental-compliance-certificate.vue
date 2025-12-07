@@ -712,11 +712,11 @@ import { useAnalytics } from "~/composables/useAnalytics";
 
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "ECC - Environmental Compliance Certificate Application Consultant",
+  title: "Environmental Compliance Certificate (ECC) – Envi-Comm Corporation",
   description:
-    "Expert processing for your ECC (Environmental Compliance Certificate) application. We ensure full compliance with the DENR/EMB for your project in Luzon, Visayas, or Mindanao.",
+    "Envi-Comm Corporation assists businesses in securing Environmental Compliance Certificates (ECC) from DENR to ensure legal operations.",
   keywords:
-    "ECC application, Environmental Compliance Certificate, DENR permit, EMB compliance, ECC consultant Cebu, ECC consultant Manila, ECC consultant Davao",
+    "environmental compliance certificate, ECC, DENR permits, Envi-Comm Corporation",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 

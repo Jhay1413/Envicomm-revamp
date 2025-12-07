@@ -150,11 +150,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "TCP - Tree Cutting Permit Application and Inventory (DENR)",
+  title: "Tree Cutting Permit – Envi-Comm Corporation",
   description:
-    "Full service for securing your TCP (Tree Cutting Permit) from the DENR, including inventory and processing for development projects.",
+    "Envi-Comm Corporation helps secure DENR Tree Cutting Permits for legal forestry activities.",
   keywords:
-    "TCP application, Tree Cutting Permit, DENR permit, tree inventory, development permits",
+    "tree cutting permit, DENR permits, forestry compliance",
 });
 </script>
 

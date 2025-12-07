@@ -68,8 +68,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "Saas Development - Envi-Comm Corporation",
+useSeo({
+  title: "SaaS Development – Envi-Comm Corporation",
+  description:
+    "Envi-Comm Corporation develops SaaS solutions tailored for environmental compliance and reporting.",
+  keywords:
+    "SaaS development, environmental software, compliance technology",
 });
 </script>
 

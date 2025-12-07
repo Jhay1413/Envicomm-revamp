@@ -70,8 +70,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "DENR: Professional & Specialized Authority - Envi-Comm Corporation",
+useSeo({
+  title: "Autoclave & Pyrolysis Technology – Envi-Comm Corporation",
+  description:
+    "Innovative autoclave and pyrolysis technologies for waste treatment and environmental management.",
+  keywords:
+    "autoclave technology, pyrolysis, waste treatment, environmental solutions",
 });
 </script>
 

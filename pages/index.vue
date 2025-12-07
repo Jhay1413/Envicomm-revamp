@@ -11,11 +11,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "Envi-Comm: DENR & EMB Compliance Consultant - Philippines",
+  title: "Environmental Consultancy & DENR Compliance Services",
   description:
-    "The top Environmental Consulting Firm for DENR (Department of Environment and Natural Resources) and EMB (Environmental Management Bureau) compliance. Serving Luzon, Metro Manila, Visayas, and Mindanao.",
+    "Envi-Comm Corporation Philippines",
   keywords:
-    "DENR consultant Philippines, EMB compliance, Environmental Consulting Firm, ECC, EIS, PCO, FLAg, Luzon, Manila, Visayas, Mindanao, Envi-Comm",
+    "Envi-Comm Corporation offers expert environmental consultancy in the Philippines. We specialize in DENR permitting, ECC, CNC, and environmental compliance management for businesses.",
   bodyClass: "overflow-x-hidden w-screen relative home-page",
 });
 </script>

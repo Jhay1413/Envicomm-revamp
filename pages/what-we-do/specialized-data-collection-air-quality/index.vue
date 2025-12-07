@@ -68,8 +68,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "Specialized Data Collection: Air Quality - Envi-Comm Corporation",
+useSeo({
+  title: "Air Quality Data Collection – Envi-Comm Corporation",
+  description:
+    "Specialized data collection services for air quality monitoring and compliance.",
+  keywords:
+    "air quality monitoring, data collection, environmental compliance",
 });
 </script>
 

@@ -294,11 +294,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "CCO - Chemical Control Order Compliance and Permits",
+  title: "Chemical Control Order – Envi-Comm Corporation",
   description:
-    "Full compliance services for CCO (Chemical Control Order) regulated chemicals. We secure all necessary permits and clearances from the EMB.",
+    "Guidance on complying with DENR Chemical Control Orders for regulated substances.",
   keywords:
-    "CCO compliance, Chemical Control Order, EMB chemical permits, regulated chemicals, chemical management",
+    "chemical control order, DENR compliance, regulated chemicals",
 });
 </script>
 

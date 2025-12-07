@@ -10,11 +10,11 @@ import Hero from "~/components/sections/services-catalog/hero.vue";
 import Dropdowns from "~/components/sections/services-catalog/dropdowns.vue";
 import Form from "~/components/sections/services-catalog/form.vue";
 useSeo({
-  title: "Full-Service Environmental Consulting & DENR Permit Applications",
+  title: "Environmental Services Catalog",
   description:
-    "Comprehensive list of our DENR (Department of Environment and Natural Resources) and EMB (Environmental Management Bureau) services, from permitting to PCO outsourcing across the Philippines.",
+    "Permitting & Compliance Solutions",
   keywords:
-    "Environmental services list, DENR permit services, ECC, PCO, FLAg, permit applications, full-service environmental firm, Luzon, Visayas, Mindanao",
+    "Explore our full range of services: DENR applications, environmental impact assessments, pollution control reporting, and land use permits.",
   bodyClass: "overflow-x-hidden w-screen relative services-page",
 });
 </script>

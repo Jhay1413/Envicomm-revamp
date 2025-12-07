@@ -98,11 +98,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "CNC - Certificate of Non-Coverage Application Services",
+  title: "Certificate of Non-Coverage – Envi-Comm Corporation",
   description:
-    "Fast and reliable processing for your CNC (Certificate of Non-Coverage) application from the EMB. Essential for non-ECP projects in the Philippines.",
+    "Get support from Envi-Comm Corporation in applying for a Certificate of Non-Coverage (CNC) with DENR for exempt projects.",
   keywords:
-    "CNC application, Certificate of Non-Coverage, EMB permit, non-ECP projects, DENR compliance",
+    "certificate of non-coverage, CNC, DENR permits, environmental compliance",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

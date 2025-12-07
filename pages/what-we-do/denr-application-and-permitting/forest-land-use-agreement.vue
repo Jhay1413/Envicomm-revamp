@@ -158,11 +158,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "FLAg - Forest Land Use Agreement Consultant - DENR FMB",
+  title: "Forest Land Use Agreement – Envi-Comm Corporation",
   description:
-    "Secure your FLAg (Forest Land Use Agreement) for tourism, industrial, or renewable energy projects on forest land. DENR FMB expert services available nationally.",
+    "Envi-Comm Corporation supports applications for DENR Forest Land Use Agreements for sustainable land management.",
   keywords:
-    "FLAg, Forest Land Use Agreement, DENR FMB permit, forest land use, tenurial applications",
+    "forest land use agreement, DENR permits, sustainable land use",
 });
 </script>
 

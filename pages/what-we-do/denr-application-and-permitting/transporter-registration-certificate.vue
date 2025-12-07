@@ -130,11 +130,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "TRC - Transport Record Certificate for Hazardous Waste",
+  title: "Transporter Registration Certificate – Envi-Comm Corporation",
   description:
-    "Processing of TRC (Transport Record Certificate) for the legal transport of hazardous waste. Essential for waste generators and transporters.",
+    "Envi-Comm Corporation helps companies register for DENR Transporter Certificates for hazardous waste transport.",
   keywords:
-    "TRC, Transport Record Certificate, hazardous waste transport, EMB compliance, waste hauling permit",
+    "transporter registration, hazardous waste transport, DENR permits",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

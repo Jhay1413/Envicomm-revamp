@@ -70,8 +70,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "STPs & WTPs - Envi-Comm Corporation",
+useSeo({
+  title: "STPs & WTPs – Envi-Comm Corporation",
+  description:
+    "Envi-Comm Corporation designs and manages Sewage Treatment Plants (STPs) and Water Treatment Plants (WTPs).",
+  keywords:
+    "sewage treatment plants, water treatment plants, STPs, WTPs",
 });
 </script>
 

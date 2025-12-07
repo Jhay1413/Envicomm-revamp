@@ -65,8 +65,14 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "DENR: Mapping & Planning - Envi-Comm Corporation",
+import { useSeo } from "~/composables/useSeo";
+
+useSeo({
+  title: "DENR Mapping & Planning – Envi-Comm Corporation",
+  description:
+    "Specialized mapping and planning services to support DENR compliance and environmental management.",
+  keywords:
+    "DENR mapping, environmental planning, compliance services",
 });
 </script>
 

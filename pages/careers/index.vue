@@ -88,11 +88,11 @@
 import { ref, computed } from "vue";
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "Environmental Consulting & DENR Compliance Careers - Join Envi-Comm",
+  title: "Careers at Envi-Comm Corporation",
   description:
-    "Join our team of environmental experts. Find career opportunities in DENR/EMB compliance, PCO (Pollution Control Officer) work, and consulting across the Philippines.",
+    "Join Envi-Comm Corporation’s team of environmental professionals. Explore career opportunities in compliance, consulting, and sustainability.",
   keywords:
-    "Environmental consulting careers, PCO job openings, DENR jobs, Environmental Management Bureau careers, Luzon, Metro Manila",
+    "careers, environmental jobs, DENR compliance careers, Envi-Comm Corporation hiring",
   bodyClass: "overflow-x-hidden w-screen relative careers-page",
 });
 

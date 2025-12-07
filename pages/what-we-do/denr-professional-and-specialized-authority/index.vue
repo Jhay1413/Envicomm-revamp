@@ -59,8 +59,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "DENR: Professional & Specialized Authority - Envi-Comm Corporation",
+useSeo({
+  title: "DENR Professional & Specialized Authority – Envi-Comm Corporation",
+  description:
+    "Envi-Comm Corporation provides professional services for specialized DENR authority requirements.",
+  keywords:
+    "DENR authority, specialized permits, environmental compliance",
 });
 </script>
 

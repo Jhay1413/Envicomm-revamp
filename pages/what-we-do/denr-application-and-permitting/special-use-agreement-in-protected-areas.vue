@@ -197,11 +197,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "SAPA - Special Agreement on Protected Area Clearance",
+  title: "Special Use Agreement in Protected Areas – Envi-Comm Corporation",
   description:
-    "Guidance and application for SAPA (Special Agreement on Protected Area) clearance from the PAMB. Mandatory for projects within protected zones.",
+    "Assistance with DENR Special Use Agreements for projects in protected areas.",
   keywords:
-    "SAPA, Special Agreement on Protected Area, Protected Area Management Board (PAMB), protected area clearance",
+    "special use agreement, protected areas, DENR permits",
 });
 </script>
 

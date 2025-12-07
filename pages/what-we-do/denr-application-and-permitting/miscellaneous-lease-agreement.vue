@@ -155,11 +155,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "MLA - Miscellaneous Lease Agreement Application Services",
+  title: "Miscellaneous Lease Agreement – Envi-Comm Corporation",
   description:
-    "Assistance with MLA (Miscellaneous Lease Agreement) applications for non-commercial or government projects on public lands.",
+    "Support for DENR Miscellaneous Lease Agreements for land utilization.",
   keywords:
-    "MLA, Miscellaneous Lease Agreement, public land permit, DENR tenurial",
+    "miscellaneous lease agreement, DENR permits, land use",
 });
 </script>
 

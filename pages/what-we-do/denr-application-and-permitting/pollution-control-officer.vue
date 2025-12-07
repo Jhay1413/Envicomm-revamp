@@ -159,11 +159,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "PCO - Pollution Control Officer Accreditation & Outsourcing",
+  title: "Pollution Control Officer Accreditation – Envi-Comm Corporation",
   description:
-    "PCO (Pollution Control Officer) accreditation, training, and full outsourcing services. Meet EMB requirements without the hiring overhead.",
+    "Envi-Comm Corporation provides assistance in Pollution Control Officer accreditation and compliance with DENR standards.",
   keywords:
-    "PCO, Pollution Control Officer accreditation, PCO outsourcing, EMB requirements, PCO training, DENR compliance officer",
+    "pollution control officer, PCO accreditation, DENR compliance, environmental permits",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

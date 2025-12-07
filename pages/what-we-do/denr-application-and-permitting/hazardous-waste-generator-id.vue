@@ -189,11 +189,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "HWID - Hazardous Waste Generator ID Registration",
+  title: "Hazardous Waste Generator ID – Envi-Comm Corporation",
   description:
-    "Consultancy for securing your HWID (Hazardous Waste Generator ID) registration with the EMB. Mandatory compliance for all waste generators in the Philippines.",
+    "Envi-Comm Corporation assists companies in registering for Hazardous Waste Generator IDs to comply with DENR regulations.",
   keywords:
-    "HWID registration, Hazardous Waste Generator ID, EMB compliance, hazardous waste management, waste generator ID",
+    "hazardous waste ID, DENR permits, waste management, environmental compliance",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

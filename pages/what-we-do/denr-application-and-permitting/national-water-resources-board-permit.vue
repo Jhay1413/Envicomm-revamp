@@ -338,11 +338,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "NWRB - National Water Resources Board Permit Application",
+  title: "National Water Resources Board Permit – Envi-Comm Corporation",
   description:
-    "We handle NWRB (National Water Resources Board) permits, including water rights and drilling permits, ensuring complete compliance with water use regulations.",
+    "Guidance on securing NWRB permits for water use and management.",
   keywords:
-    "NWRB permit, National Water Resources Board, water rights permit, water drilling permit, water use compliance",
+    "national water resources board permit, NWRB, water permits",
 });
 </script>
 

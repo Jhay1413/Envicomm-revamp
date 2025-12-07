@@ -193,11 +193,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "AC - Authority to Construct for Environmental Facilities",
+  title: "Area Clearance – Envi-Comm Corporation",
   description:
-    "We obtain your AC (Authority to Construct) clearance from the EMB for wastewater, air, or other pollution control facilities before construction begins.",
+    "Assistance with DENR Area Clearance applications for land development projects.",
   keywords:
-    "AC, Authority to Construct, EMB clearance, pollution control facility permit, construction permit",
+    "area clearance, DENR permits, land development compliance",
 });
 </script>
 

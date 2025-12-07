@@ -844,11 +844,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "DENR & EMB Application and Permitting Expert Services - Philippines",
+  title: "DENR Applications – Envi-Comm Corporation",
   description:
-    "Full-service processing for all DENR (Department of Environment and Natural Resources) and EMB (Environmental Management Bureau) permits. Get your ECC, PTO, and tenurial permits fast.",
+    "View the complete list of DENR applications and permits supported by Envi-Comm Corporation for businesses in the Philippines.",
   keywords:
-    "DENR Application and Permitting, EMB permit processing, ECC application, Environmental Compliance Certificate, PTO (Permit to Operate), Luzon, Visayas",
+    "DENR applications, permits list, environmental compliance, Envi-Comm Corporation services",
   bodyClass:
     "overflow-x-hidden w-screen relative denr-application-and-permitting-page",
 });

@@ -113,8 +113,13 @@
 </template>
 
 <script setup>
-useHead({
-    title: "SELF-MONITORING REPORT - Envi-Comm Corporation",
+import { useSeo } from "~/composables/useSeo";
+useSeo({
+  title: "Self-Monitoring Report – Envi-Comm Corporation",
+  description:
+    "Assistance with DENR Self-Monitoring Reports to ensure compliance with environmental regulations.",
+  keywords:
+    "self-monitoring report, DENR reporting, environmental compliance",
 });
 </script>
 

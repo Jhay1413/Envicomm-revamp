@@ -9,11 +9,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "Contact Envi-Comm: DENR & EMB Consultant Offices",
+  title: "Contact Envi-Comm Corporation",
   description:
-    "Contact the top DENR/EMB Environmental Consulting Firm. Find our offices in Cebu (Visayas) and Manila (Luzon) for fast assistance across the entire Philippines.",
+    "Get in touch with Envi-Comm Corporation for environmental consulting, permitting assistance, and compliance support.",
   keywords:
-    "Contact DENR consultant, Envi-Comm office address, Environmental Management Bureau compliance contact, Cebu, Manila, Philippines",
+    "contact Envi-Comm Corporation, environmental consulting, DENR permits, compliance support",
   bodyClass: "overflow-x-hidden w-screen relative contact-page",
 });
 </script>

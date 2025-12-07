@@ -90,11 +90,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "SQI - Small Quantity Importation Clearance for Chemicals",
+  title: "Small Quantity Importation Permit – Envi-Comm Corporation",
   description:
-    "Secure your SQI (Small Quantity Importation) clearance quickly. Compliance for importing small quantities of chemicals under the EMB.",
+    "Assistance with DENR permits for small quantity importation of regulated materials.",
   keywords:
-    "SQI clearance, Small Quantity Importation, chemical import permit, EMB compliance, PICCS chemicals",
+    "small quantity importation, DENR permits, environmental compliance",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

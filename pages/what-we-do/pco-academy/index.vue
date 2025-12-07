@@ -69,8 +69,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "PCO Academy - Envi-Comm Corporation",
+useSeo({
+  title: "PCO Academy – Envi-Comm Corporation",
+  description:
+    "Training and certification programs for Pollution Control Officers through Envi-Comm Corporation’s PCO Academy.",
+  keywords:
+    "PCO academy, pollution control officer training, DENR compliance",
 });
 </script>
 

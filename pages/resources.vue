@@ -98,11 +98,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "DENR & EMB Compliance Resources and Guides for the Philippines",
+  title: "Envi-Comm Corporation Resources",
   description:
-    "Free resources and guides on how to navigate DENR and EMB compliance, including ECC, PCO, and tenurial applications in the Philippines.",
+    "Access guides, tools, and resources for environmental compliance, permitting, and reporting in the Philippines.",
   keywords:
-    "DENR compliance guides, EMB resources, ECC application forms, PCO requirements, Philippine environmental law, resources",
+    "resources, environmental guides, DENR compliance tools, permitting resources",
   bodyClass: "overflow-x-hidden w-screen relative resources-page",
 });
 </script>

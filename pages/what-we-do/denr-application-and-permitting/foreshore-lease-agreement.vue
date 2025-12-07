@@ -155,11 +155,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "FLA - Foreshore Lease Agreement Consultant - Coastal Projects",
+  title: "Foreshore Lease Agreement – Envi-Comm Corporation",
   description:
-    "Expert application for FLA (Foreshore Lease Agreement) for resorts, ports, and other coastal development projects in the Philippines.",
+    "Guidance on securing DENR Foreshore Lease Agreements for coastal land use.",
   keywords:
-    "FLA, Foreshore Lease Agreement, coastal development permit, foreshore permit, DENR tenurial",
+    "foreshore lease agreement, DENR permits, coastal land use",
 });
 </script>
 

@@ -10,11 +10,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "About Envi-Comm: Accredited DENR & EMB Compliance Experts",
+  title: "About Envi-Comm Corporation",
   description:
-    "Learn about the leading accredited Environmental Consulting Firm in the Philippines. Our expert team ensures your DENR/EMB compliance across all national regions.",
+    "Trusted Environmental Consultants in Cebu",
   keywords:
-    "About Envi-Comm, DENR accredited, EMB certified, Environmental Consulting experts, Philippines, Luzon, Visayas, Mindanao",
+    "Learn about Envi-Comm Corporation, a leading team of environmental experts dedicated to sustainable development and regulatory compliance in the Philippines.",
   bodyClass: "overflow-x-hidden w-screen relative about-page",
 });
 </script>

@@ -67,10 +67,19 @@ Our comprehensive service suite covers all your DENR reporting needs, providing 
 
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
+import { useSeo } from "~/composables/useSeo";
 
-useHead({
-    title: "DENR: Reporting - Envi-Comm Corporation",
+useSeo({
+  title: "DENR Reporting Services – Envi-Comm Corporation",
+  description:
+    "Envi-Comm Corporation provides expert support for DENR reporting including compliance and self-monitoring reports.",
+  keywords:
+    "DENR reporting, compliance monitoring, self-monitoring, environmental services",
 });
+</script>
+
+<script setup>
+
 </script>
 
 <style scoped></style>

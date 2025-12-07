@@ -112,11 +112,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "CNO - Certificate of Non-Overlap for Ancestral Domain Claims",
+  title: "Certificate of Non-Overlap – Envi-Comm Corporation",
   description:
-    "Processing of CNO (Certificate of Non-Overlap) with the NCIP, certifying that your project area does not overlap with any Ancestral Domain Claims.",
+    "Assistance in securing DENR Certificates of Non-Overlap for land use projects.",
   keywords:
-    "CNO, Certificate of Non-Overlap, Ancestral Domain Claims, NCIP clearance, land use clearance",
+    "certificate of non-overlap, DENR permits, land use compliance",
 });
 </script>
 

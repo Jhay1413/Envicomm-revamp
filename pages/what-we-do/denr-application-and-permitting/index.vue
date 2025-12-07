@@ -81,8 +81,12 @@ import {
   SectionsWhatWeDoQuickFacts,
 } from "#components";
 
-useHead({
-  title: "DENR: Application & Permitting - Envi-Comm Corporation",
+useSeo({
+  title: "DENR Application & Permitting – Envi-Comm Corporation",
+  description:
+    "Comprehensive assistance with DENR applications and permitting for businesses in the Philippines.",
+  keywords:
+    "DENR application, permitting services, environmental compliance",
 });
 </script>
 

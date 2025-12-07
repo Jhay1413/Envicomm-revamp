@@ -304,11 +304,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "DP - Discharge Permit Application & Renewal - EMB Compliance",
+  title: "Discharge Permit – Envi-Comm Corporation",
   description:
-    "We handle your DP (Discharge Permit) application and renewal, ensuring your wastewater discharge meets EMB standards across Metro Manila, Visayas, and Mindanao.",
+    "Envi-Comm Corporation helps organizations secure DENR Discharge Permits for wastewater and effluent management compliance.",
   keywords:
-    "DP application, Discharge Permit renewal, EMB compliance, wastewater discharge permit, water quality standards",
+    "discharge permit, wastewater compliance, DENR permits, effluent management",
   bodyClass: "overflow-x-hidden w-screen relative what-we-do-page",
 });
 </script>

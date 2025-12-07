@@ -69,8 +69,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "Chemical: STP & RO - Envi-Comm Corporation",
+useSeo({
+  title: "Chemical STP & RO – Envi-Comm Corporation",
+  description:
+    "Advanced chemical sewage treatment and reverse osmosis solutions for industrial compliance.",
+  keywords:
+    "chemical STP, reverse osmosis, wastewater treatment",
 });
 </script>
 

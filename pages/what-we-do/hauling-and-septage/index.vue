@@ -69,8 +69,12 @@
 <script setup>
 import { SectionsWhatWeDoContactForm, SectionsWhatWeDoQuickFacts } from "#components";
 
-useHead({
-    title: "Hauling & Septage - Envi-Comm Corporation",
+useSeo({
+  title: "Hauling & Septage Services – Envi-Comm Corporation",
+  description:
+    "Professional hauling and septage management services for environmental compliance.",
+  keywords:
+    "hauling services, septage management, waste disposal",
 });
 </script>
 

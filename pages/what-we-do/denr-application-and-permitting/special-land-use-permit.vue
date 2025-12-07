@@ -181,11 +181,11 @@
 <script setup>
 import { useSeo } from "~/composables/useSeo";
 useSeo({
-  title: "SLUP - Special Land Use Permit Application and Management",
+  title: "Special Land Use Permit – Envi-Comm Corporation",
   description:
-    "Professional processing of SLUP (Special Land Use Permit) for various uses of forestlands and public domain areas. Ensure full DENR compliance.",
+    "Guidance on securing DENR Special Land Use Permits for projects in forest lands.",
   keywords:
-    "SLUP, Special Land Use Permit, DENR land use permit, forest land use, tenurial agreements",
+    "special land use permit, DENR permits, forest land projects",
 });
 </script>
 
