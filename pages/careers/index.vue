@@ -1,9 +1,134 @@
 <template>
+  <div class="w-full bg-white">
+  <!-- Hero Section -->
+  <div class="w-full bg-[url('/assets/images/careers-bg.jpg')] bg-cover bg-center bg-no-repeat py-20 md:py-32">
+    <div class="container mx-auto px-4">
+      <div class="flex flex-col md:flex-row items-center gap-10">
+        <!-- Left Content -->
+        <div class="w-full md:w-1/2">
+          <h1 class="text-4xl md:text-5xl font-bold text-black mb-6">
+            Your Next Chapter Starts Here
+          </h1>
+          <p class="text-gray-700 text-lg mb-8 leading-relaxed">
+            Looking for a place where you can do meaningful work and still be
+            yourself? Envi-Comm Corporation offers careers that challenge you,
+            support you, and help you grow.
+          </p>
+          <button
+            class="bg-[#547326] text-white px-8 py-3 rounded hover:bg-[#4c6822] transition-colors duration-300 font-medium"
+          >
+            Know More
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Info Grid Section -->
+  <div class="container mx-auto px-4 py-10 ">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      
+      <!-- Card 1: Talent Mission -->
+      <div class="border border-[#86B93F] p-8 rounded bg-white">
+        <h3 class="text-[#86B93F] font-bold text-xl mb-4 uppercase">
+          Our Talent Mission
+        </h3>
+        <p class="text-gray-700">
+          To provide a platform where the world's leading environmental minds
+          can solve complex compliance and climate challenges through
+          collaboration, innovation, and scientific excellence.
+        </p>
+      </div>
+      <!-- Card 2: Workplace Vision -->
+      <div class="border border-[#86B93F] p-8 rounded bg-white">
+        <h3 class="text-[#86B93F] font-bold text-xl mb-4 uppercase">
+          Our Workplace Vision
+        </h3>
+        <p class="text-gray-700">
+          To be the premier destination for professionals, recognized for a
+          culture that balances rigorous standards with the personal well-being
+          and growth of our team.
+        </p>
+      </div>
+      <!-- Card 3: Core Values (Full Width) -->
+      <div class="md:col-span-2 border border-[#86B93F] p-8 rounded bg-white">
+        <h3 class="text-[#86B93F] font-bold text-xl mb-6 uppercase">
+          How We Work (Core Values)
+        </h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <ul class="space-y-4">
+             <li class="flex items-start gap-2">
+              <span class="text-[#86B93F] font-bold">•</span>
+              <p class="text-gray-700 text-sm md:text-base">
+                <span class="font-bold text-gray-900">Integrity in Science:</span> We stand by our data and our ethics, ensuring every solution is as honest as it is effective.
+              </p>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-[#86B93F] font-bold">•</span>
+              <p class="text-gray-700 text-sm md:text-base">
+                <span class="font-bold text-gray-900">Environmental Stewardship:</span> We don't just advise; we lead by example in everything we do.
+              </p>
+            </li>
+          </ul>
+          <ul class="space-y-4">
+             <li class="flex items-start gap-2">
+              <span class="text-[#86B93F] font-bold">•</span>
+              <p class="text-gray-700 text-sm md:text-base">
+                <span class="font-bold text-gray-900">Continuous Evolution:</span> The climate is changing, and so are we. We invest in constant learning and new technologies and practices.
+              </p>
+            </li>
+            <li class="flex items-start gap-2">
+               <span class="text-[#86B93F] font-bold">•</span>
+              <p class="text-gray-700 text-sm md:text-base">
+                <span class="font-bold text-gray-900">Collective Impact:</span> We believe that the best solutions come from the intersection of diverse expertise and shared passion.
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- Card 4: Why Grow With Us -->
+      <div class="border border-[#86B93F] p-8 rounded bg-white">
+        <h3 class="text-[#86B93F] font-bold text-xl mb-4 uppercase">
+          Why Grow With Us?
+        </h3>
+        <ul class="space-y-4">
+          <li class="flex items-start gap-2">
+            <span class="text-[#86B93F] font-bold">•</span>
+            <p class="text-gray-700 text-sm md:text-base">
+              <span class="font-bold text-gray-900">Professional Development:</span> Opportunity to personal growth and clear pathways to senior consultancy roles.
+            </p>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-[#86B93F] font-bold">•</span>
+            <p class="text-gray-700 text-sm md:text-base">
+              <span class="font-bold text-gray-900">Impact-Driven Work:</span> Everyone contributes to tangible environmental compliance and climate protection.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <!-- Card 5: Meet The Team -->
+      <div class="border border-[#86B93F] p-8 rounded bg-white flex flex-col justify-between">
+        <div>
+           <h3 class="text-[#86B93F] font-bold text-xl mb-4 uppercase">
+            Meet The Team
+          </h3>
+          <a href="/about" class="text-gray-700 hover:text-[#547326] underline block">
+            https://www.envicomm.org/about
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <section
-    class="min-h-dvh flex items-center justify-center bg-[url('/assets/images/main-imgs/careers/career-bg.webp')] bg-cover bg-center bg-no-repeat py-10 md:py-20"
+    class="min-h-dvh flex items-center justify-center bg-[url('/assets/images/main-imgs/about-03.jpg')] bg-cover bg-center bg-no-repeat py-10 md:py-20"
   >
     <div class="container">
+        <div class="text-center mb-10">
+          <h2 class="text-4xl font-bold text-white">Open Opportunities</h2>
+          <p class="text-white">Ready to leave a lasting legacy?</p>
+        </div>
       <form @submit.prevent class="flex flex-col md:flex-row gap-4">
+      
         <!-- Search -->
         <div class="relative w-full max-w-sm">
           <input

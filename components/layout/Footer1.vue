@@ -161,8 +161,8 @@
                                 <li class="mb-5">
                                     <NuxtLink
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        to="/careers"
-                                        >Careers</NuxtLink
+                                        to="/coming-soon"
+                                        >Regulation Repository</NuxtLink
                                     >
                                 </li>
                             </ul>
@@ -173,7 +173,7 @@
                             </h3>
                             <ul class="flex md:flex-col justify-center gap-5 md:gap-0">
                                 <li class="mb-5">
-                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                    <NuxtLink class="flex items-center gap-3" to="https://www.facebook.com/envicommcorporation">
                                         <NuxtImg
                                             src="/assets/images/icons/facebook.svg"
                                             alt="facebook icon"
@@ -185,7 +185,7 @@
                                     </NuxtLink>
                                 </li>
                                 <li class="mb-5">
-                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                    <NuxtLink class="flex items-center gap-3" to="https://www.instagram.com/envi_comm/">
                                         <NuxtImg
                                             src="/assets/images/icons/insta.svg"
                                             alt="instagram icon"
@@ -209,7 +209,7 @@
                                     </NuxtLink>
                                 </li>
                                 <li class="mb-5">
-                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                    <NuxtLink class="flex items-center gap-3" to="https://www.linkedin.com/company/envi-comm-corporation/">
                                         <NuxtImg
                                             src="/assets/images/icons/linkedin.svg"
                                             alt="linkedin icon"
@@ -221,7 +221,7 @@
                                     </NuxtLink>
                                 </li>
                                 <li class="mb-5">
-                                    <NuxtLink class="flex items-center gap-3" to="#">
+                                    <NuxtLink class="flex items-center gap-3" to="https://www.youtube.com/@EnviCommCorp">
                                         <NuxtImg
                                             src="/assets/images/icons/youtube.svg"
                                             alt="youtube"

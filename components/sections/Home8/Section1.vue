@@ -20,7 +20,7 @@
             }"
             class="mySwiper min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full relative overflow-hidden"
         >
-            <!-- Slide 2 -->
+            <!-- Slide 1 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
                     class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-02.webp')]"
@@ -45,16 +45,18 @@
                                 Whether infrastructure, energy, or development — our Environmental
                                 Impact Studies are built to match your sector's needs.
                             </p>
+                           <NuxtLink to="/what-we-do/renewable-energy-product-and-technology">
                             <button
-                                class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
-            <!-- Slide 1 -->
+            <!-- Slide 2 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
                     class="relative w-full min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] bg-contain bg-top md:bg-cover md:bg-center bg-no-repeat md:bg-[url('/assets/images/main-imgs/slider-01.webp')]"
@@ -77,16 +79,17 @@
                                 One-stop solutions for effective wastewater and water treatment with
                                 minimal downtime and maximum performance.
                             </p>
+                                <NuxtLink to="/what-we-do/stps-and-wtps">
                             <button
-                                class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
-
             <!-- Slide 3 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
@@ -113,16 +116,17 @@
                                 electricity, cut carbon emissions, and protect the planet — without
                                 compromising brightness or reliability.
                             </p>
+                            <NuxtLink to="/what-we-do/hauling-and-septage">
                             <button
-                                class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
-
             <!-- Slide 4 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
@@ -151,16 +155,17 @@
                                 planting initiative, fulfilling your environmental responsibility
                                 with ease.
                             </p>
+                            <NuxtLink to="/what-we-do/denr-application-and-permitting">
                             <button
-                                class="text-xl 4k:text-3xl bg-transparent border-2 border-black md:border-white rounded-md text-black md:text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
-
             <!-- Slide 5 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
@@ -186,16 +191,17 @@
                                 Envi-comm’s Retainership Program gives you continuous support and
                                 peace of mind, so you can run your business worry-free.
                             </p>
+                            <NuxtLink to="/what-we-do/specialized-data-collection-air-quality">
                             <button
-                                class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
-
             <!-- Slide 6 -->
             <SwiperSlide class="min-h-[calc(100dvh-85px)] md:min-h-[calc(100vh-95px)] w-full">
                 <div
@@ -222,11 +228,13 @@
                                 tailored for optimal sludge control, odor management, and regulatory
                                 compliance.
                             </p>
+                            <NuxtLink to="/what-we-do/specialized-data-collection-air-quality">
                             <button
-                                class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
-                            >
-                                Know More
+                                    class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
+                                >
+                                    Know More
                             </button>
+                           </NuxtLink>
                         </div>
                     </div>
                 </div>
