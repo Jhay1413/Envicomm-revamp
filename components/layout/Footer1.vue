@@ -18,6 +18,7 @@
                             type="email"
                             placeholder="Enter your email"
                             class="flex-1 rounded p-3"
+                            style="color: var(--gray-900);"
                         />
                         <button
                             type="submit"
@@ -93,14 +94,14 @@
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="#"
+                                        href="/about"
                                         >About Us</a
                                     >
                                 </li>
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="#"
+                                        href="/services-catalog"
                                         >Services</a
                                     >
                                 </li>
@@ -114,8 +115,8 @@
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="#"
-                                        >Blog</a
+                                        href="/site-map"
+                                        >Sitemap</a
                                     >
                                 </li>
                                 <li class="mb-5">
@@ -125,11 +126,25 @@
                                         >Careers</NuxtLink
                                     >
                                 </li>
+                                <li class="mb-5">
+                                    <NuxtLink
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        to="/coming-soon"
+                                        >Portfolios</NuxtLink
+                                    >
+                                </li>
                             </ul>
                         </div>
                         <div>
-                            <h3 class="text-lg md:text-xl mb-10 text-[18px]">Resources</h3>
+                            <h3 class="text-lg md:text-xl mb-10 text-[18px]">Quick Links</h3>
                             <ul>
+                                <li class="mb-5">
+                                    <a
+                                        class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
+                                        href="/resources"
+                                        >Resources</a
+                                    >
+                                </li>
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
@@ -154,8 +169,8 @@
                                 <li class="mb-5">
                                     <a
                                         class="text-md md:text-lg transition-all duration-200 hover:text-green-900 hover:pl-[3px]"
-                                        href="/contact-us"
-                                        >Webinars</a
+                                        href="/coming-soon"
+                                        >Press & Media</a
                                     >
                                 </li>
                                 <li class="mb-5">

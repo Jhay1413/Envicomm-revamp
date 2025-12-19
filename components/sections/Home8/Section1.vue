@@ -45,7 +45,7 @@
                                 Whether infrastructure, energy, or development — our Environmental
                                 Impact Studies are built to match your sector's needs.
                             </p>
-                           <NuxtLink to="/what-we-do/renewable-energy-product-and-technology">
+                           <NuxtLink to="/what-we-do/denr-application-and-permitting/environmental-compliance-certificate"> 
                             <button
                                     class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
                                 >
@@ -116,7 +116,7 @@
                                 electricity, cut carbon emissions, and protect the planet — without
                                 compromising brightness or reliability.
                             </p>
-                            <NuxtLink to="/what-we-do/hauling-and-septage">
+                            <NuxtLink to="/what-we-do/renewable-energy-product-and-technology">
                             <button
                                     class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
                                 >
@@ -155,7 +155,7 @@
                                 planting initiative, fulfilling your environmental responsibility
                                 with ease.
                             </p>
-                            <NuxtLink to="/what-we-do/denr-application-and-permitting">
+                            <NuxtLink to="/coming-soon">
                             <button
                                     class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
                                 >
@@ -191,7 +191,7 @@
                                 Envi-comm’s Retainership Program gives you continuous support and
                                 peace of mind, so you can run your business worry-free.
                             </p>
-                            <NuxtLink to="/what-we-do/specialized-data-collection-air-quality">
+                            <NuxtLink to="/what-we-do/denr-application-and-permitting">
                             <button
                                     class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
                                 >
@@ -228,7 +228,7 @@
                                 tailored for optimal sludge control, odor management, and regulatory
                                 compliance.
                             </p>
-                            <NuxtLink to="/what-we-do/specialized-data-collection-air-quality">
+                            <NuxtLink to="/what-we-do/chemical-stp-and-ro">
                             <button
                                     class="bg-[#547326] border-2 border-white text-xl 4k:text-3xl rounded-md text-white px-5 py-2 w-fit mx-auto block md:mx-0"
                                 >

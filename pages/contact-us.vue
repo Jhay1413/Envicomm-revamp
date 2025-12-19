@@ -1,8 +1,7 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <SectionsContactSection1 />
     <SectionsContactSection3 />
-    <!-- <SectionsContactSection2 /> -->
   </div>
   <SectionsWhatWeDoContactForm />
 </template>

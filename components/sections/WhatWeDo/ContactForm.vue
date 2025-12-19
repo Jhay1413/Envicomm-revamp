@@ -1,36 +1,64 @@
 <template>
-    <section class="bg-[#EBF5D7] py-10 md:py-20 text-black text-lg md:text-xl">
-        <div class="container">
-            <h2 class="text-2xl md:text-4xl mb-3 uppercase text-center">Get in Touch</h2>
-            <p class="mb-5 text-center">We'd love to hear from you. Reach out today!</p>
-            <Form
-                class="flex flex-col justify-center gap-5 md:max-w-[50%] mx-auto"
-                :validation-schema="formSchema"
+    <!-- Outer section with dark textured green background -->
+    <section class="relative w-full py-20 px-4 min-h-[600px] flex items-center justify-center bg-[url('/assets/images/main-imgs/about-03.jpg')] bg-cover bg-center bg-no-repeat overflow-hidden">
+        
+        <!-- Optional: Background Texture Overlay -->
+        <div class="absolute inset-0 opacity-20 pointer-events-none mix-blend-multiply" 
+             >
+        </div>
+
+        <!-- Main Card -->
+        <div class="relative w-full max-w-4xl bg-white rounded-xl shadow-xl p-8 md:p-12 z-10">
+            <!-- Headers -->
+            <div class="text-center mb-10">
+                <h2 class="text-2xl md:text-3xl lg:text-4xl font-normal text-black uppercase tracking-wide mb-2">Are you looking for something specific?</h2>
+                <h3 class="text-lg md:text-xl text-black">Let Us Help You!</h3>
+            </div>
+
+            <!-- Form -->
+            <Form 
+                class="w-full space-y-6"
+                :validation-schema="formSchema" 
                 @submit="onSubmit"
             >
-                <div>
-                    <label for="name" class="block mb-1">Name</label>
-                    <Field type="text" class="w-full rounded p-2" name="name" />
-                    <ErrorMessage name="name" class="text-red-500 text-sm" />
+                <!-- Name Field -->
+                <div class="space-y-2">
+                    <label for="name" class="block text-base text-black font-normal pl-1">Name</label>
+                    <Field 
+                        type="text" 
+                        name="name" 
+                        class="w-full border border-gray-200 bg-white rounded px-4 py-3 focus:outline-none focus:border-[#547326] transition-colors"
+                    />
+                    <ErrorMessage name="name" class="text-red-500 text-sm pl-1 block" />
                 </div>
-                <div>
-                    <label for="email" class="block mb-1">Email</label>
-                    <Field type="email" class="w-full rounded p-2" name="email" />
-                    <ErrorMessage name="email" class="text-red-500 text-sm" />
+
+                <!-- Email Field -->
+                <div class="space-y-2">
+                    <label for="email" class="block text-base text-black font-normal pl-1">Email</label>
+                    <Field 
+                        type="email" 
+                        name="email" 
+                        class="w-full border border-gray-200 bg-white rounded px-4 py-3 focus:outline-none focus:border-[#547326] transition-colors"
+                    />
+                    <ErrorMessage name="email" class="text-red-500 text-sm pl-1 block" />
                 </div>
-                <div>
-                    <label for="message" class="block mb-1">Message</label>
+
+                <!-- Message Field -->
+                <div class="space-y-2">
+                    <label for="message" class="block text-base text-black font-normal pl-1">Message</label>
                     <Field
-                        class="w-full rounded p-2"
-                        placeholder="What are you looking for?"
-                        rows="5"
-                        name="message"
                         as="textarea"
-                    ></Field>
-                    <ErrorMessage name="message" class="text-red-500 text-sm" />
+                        name="message"
+                        rows="6"
+                        placeholder="What are you looking for?"
+                        class="w-full border border-gray-200 bg-white rounded px-4 py-3 placeholder-gray-300 resize-none focus:outline-none focus:border-[#547326] transition-colors"
+                    />
+                    <ErrorMessage name="message" class="text-red-500 text-sm pl-1 block" />
                 </div>
-                <div class="mb-5">
-                    <div class="flex items-center">
+
+                <!-- Checkbox -->
+                <div class="space-y-2 pt-2">
+                    <div class="flex items-start gap-3">
                         <Field
                             v-slot="{ field }"
                             name="terms"
@@ -44,23 +72,25 @@
                                 id="terms"
                                 v-bind="field"
                                 :value="true"
-                                class="mr-2 accent-[#547326] w-5 h-5"
+                                class="w-4 h-4 border-gray-300 rounded text-[#547326] focus:ring-[#547326]"
                             />
-                            <label class="text-md" for="terms">
-                                by submitting you are accepting the terms and conditions of
-                                our privacy policy
-                            </label>
                         </Field>
+                        <label for="terms" class="text-xs text-black cursor-pointer select-none">
+                            by submitting you are accepting the terms and conditions of our privacy policy
+                        </label>
                     </div>
-
-                    <ErrorMessage name="terms" class="text-red-500 text-sm" />
+                    <ErrorMessage name="terms" class="text-red-500 text-sm pl-1 block" />
                 </div>
-                <button
-                    class="bg-[#547326] hover:bg-[#4c6822] transition-all duration-200 text-white py-2 px-5 rounded w-fit mx-auto"
-                    type="submit"
-                >
-                    Submit
-                </button>
+
+                <!-- Submit Button -->
+                <div class="flex justify-center pt-4">
+                    <button
+                        type="submit"
+                        class="bg-[#547326] hover:bg-[#435e1d] text-white px-12 py-3 rounded text-base font-normal transition-colors duration-300"
+                    >
+                        Submit
+                    </button>
+                </div>
             </Form>
         </div>
     </section>
@@ -84,4 +114,6 @@ const onSubmit = (values) => {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+/* Optional: Only if you want extra customization */
+</style>

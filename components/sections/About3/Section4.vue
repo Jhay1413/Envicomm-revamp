@@ -67,7 +67,7 @@ const img = (n) => `/assets/images/main-imgs/team/${n}.png`;
 const executives = [
   { id: 1, name: 'Karlo Miguel Cuizon', role: 'Chief Executive Officer', photo: img(1) },
   { id: 2, name: 'CHRISTOPHER PATRICK ALMADEN', role: 'Chief Operating Officer', photo: img(2) },
-  { id: 3, name: 'OSCAR LOPEZ JR.', role: 'CHIEF STRATEGY OFFICER', photo: img(3) }
+  { id: 3, name: 'OSCAR LOPEZ JR.', role: 'Chief Strategy Officer', photo: img(3) }
 ];
 
 const management = [
@@ -77,7 +77,7 @@ const management = [
   { id: 7, name: 'RENANTE ABATAYO', role: 'Environmental Services Manager', photo: img(7) },
   { id: 8, name: 'KYLE ART CUIZON', role: 'Saas Development Manager', photo: img(8) },
   { id: 9, name: 'DEXTER MANALILI', role: 'Research and Development Manager', photo: img(9) },
-  { id: 10, name: 'Sanjay Hariramani', role: 'Sales, Marketing & Business Development Manager', photo: img(10) }
+  { id: 10, name: 'SANJAY HARIRAMANI', role: 'Sales & Business Development Manager', photo: img(10) }
 ];
 
 const supervisory = [
